@@ -1,0 +1,249 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 800px;
+}
+
+h1 {
+    text-align: center;
+    color: #004d40;
+    margin-bottom: 20px;
+}
+
+/* --- Navigation Styles --- */
+
+.navigation-grid {
+    display: grid;
+    gap: 15px;
+    margin-top: 30px;
+}
+
+.nav-button {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #004d40;
+    background-color: #e8f5e9;
+    border: 2px solid #a5d6a7;
+    border-radius: 8px;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.nav-button:hover:not(.disabled) {
+    background-color: #dcedc8;
+    border-color: #66bb6a;
+}
+
+.nav-button.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background-color: #f0f0f0;
+    color: #666;
+    border-color: #ccc;
+}
+
+.nav-button.primary {
+    background-color: #00796b;
+    color: white;
+    border-color: #004d40;
+}
+
+.nav-button.primary:hover:not(.disabled) {
+    background-color: #004d40;
+}
+
+.back-link {
+    margin-top: 20px;
+    text-align: left;
+    font-size: 0.9em;
+}
+
+.back-link a {
+    color: #00796b;
+    text-decoration: none;
+}
+
+.back-link a:hover {
+    text-decoration: underline;
+}
+
+/* --- Quiz Styles (Same as previous step) --- */
+
+.score-display {
+    text-align: right;
+    font-weight: bold;
+    color: #00796b;
+    margin-bottom: 15px;
+    padding: 5px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+#question-text {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.options-grid {
+    display: grid;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.option-btn {
+    padding: 15px;
+    background-color: #e8f5e9;
+    color: #333;
+    border: 1px solid #c8e6c9;
+    border-radius: 8px;
+    text-align: left;
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.option-btn:hover:not(:disabled) {
+    background-color: #dcedc8;
+}
+
+.option-btn.selected {
+    border: 3px solid #66bb6a;
+}
+
+.option-btn.correct-answer {
+    background-color: #c8e6c9;
+    border: 3px solid #004d40;
+    font-weight: bold;
+}
+
+.option-btn.incorrect {
+    background-color: #ffcdd2;
+    border: 3px solid #e53935;
+}
+
+.option-btn:disabled {
+    cursor: default;
+    opacity: 0.8;
+}
+
+.feedback {
+    min-height: 40px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.2s;
+}
+
+#prev-btn,
+#next-btn {
+    background-color: #00796b;
+    color: white;
+}
+
+#prev-btn:disabled,
+#next-btn:disabled {
+    background-color: #b2dfdb;
+    cursor: not-allowed;
+}
+
+#submit-btn {
+    background-color: #e53935;
+    color: white;
+}
+
+#submit-btn:hover {
+    background-color: #c62828;
+}
+
+#result-container {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid #004d40;
+    border-radius: 10px;
+    background-color: #f1f8e9;
+}
+
+#score-text {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #004d40;
+}
+
+@media (max-width: 600px) {
+    .options-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.selection-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.selection-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.selection-box label {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.selection-box select {
+    padding: 10px;
+    font-size: 1em;
+    border-radius: 5px;
+    border: 1px solid #00796b;
+    background-color: white;
+}
+
+.start-quiz-btn {
+    width: 100%;
+    max-width: 350px;
+    padding: 15px;
+}

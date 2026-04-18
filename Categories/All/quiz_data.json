@@ -1,0 +1,5492 @@
+[
+    {
+        "question": "What is the primary advantage of Radiographic Testing Digital (RT-D) over traditional methods?",
+        "options": [
+            "Lower cost of equipment",
+            "Unparalleled efficiency and accuracy in acquiring and analysing radiographs",
+            "Elimination of the need for trained personnel",
+            "Ability to use any radiation source without safety protocols"
+        ],
+        "answer": "Unparalleled efficiency and accuracy in acquiring and analysing radiographs"
+    },
+    {
+        "question": "In what decade did the journey of RT-D training formally begin in Germany?",
+        "options": [
+            "1970s",
+            "1980s",
+            "1990s",
+            "2000s"
+        ],
+        "answer": "1990s"
+    },
+    {
+        "question": "Which agency launched Malaysia's Digital Industrial Radiography (DIR) program in 2001?",
+        "options": [
+            "Department of Standards Malaysia (DSM)",
+            "Malaysian Nuclear Agency (Nuklear Malaysia)",
+            "Department of Skills Development",
+            "International Atomic Energy Agency (IAEA)"
+        ],
+        "answer": "Malaysian Nuclear Agency (Nuklear Malaysia)"
+    },
+    {
+        "question": "In which year was RT-D formally incorporated into the Malaysian NDT Certification Scheme (SKM)?",
+        "options": [
+            "2001",
+            "2010",
+            "2018",
+            "2020"
+        ],
+        "answer": "2018"
+    },
+    {
+        "question": "The Malaysian NDT Certification Scheme (SKM) is developed in alignment with which international standard?",
+        "options": [
+            "ISO 9001",
+            "ISO 17024",
+            "ISO 9712",
+            "ISO 11699-1"
+        ],
+        "answer": "ISO 9712"
+    },
+    {
+        "question": "Which organization manages the accreditation scope under ISO 17024 in Malaysia?",
+        "options": [
+            "Nuklear Malaysia",
+            "Department of Standards Malaysia (DSM)",
+            "DGZfP",
+            "IAEA"
+        ],
+        "answer": "Department of Standards Malaysia (DSM)"
+    },
+    {
+        "question": "When was the first version of the Advanced Manual for RT-D published for Malaysia's inaugural Level 2 course?",
+        "options": [
+            "2015",
+            "2018",
+            "2020",
+            "2025"
+        ],
+        "answer": "2020"
+    },
+    {
+        "question": "The current version of the manual was adapted from which training course?",
+        "options": [
+            "DGZfP Level 1 course",
+            "IAEA Regional Training Course (RTC) 'Train the Trainers'",
+            "ISO 9712 Certification course",
+            "BAM Industrial Standards workshop"
+        ],
+        "answer": "IAEA Regional Training Course (RTC) 'Train the Trainers'"
+    },
+    {
+        "question": "According to the manual, what is the 'Social Perspective' objective of NDT?",
+        "options": [
+            "Maximizing commercial profit",
+            "Optimizing productivity of industrial assets",
+            "Ensuring societal safety and protecting the environment",
+            "Reducing the cost of manufacturing materials"
+        ],
+        "answer": "Ensuring societal safety and protecting the environment"
+    },
+    {
+        "question": "What is the 'Commercial Perspective' of NDT?",
+        "options": [
+            "Saving lives through defect detection",
+            "Optimizing productivity of industrial assets by keeping objects intact",
+            "Ensuring compliance with environmental laws",
+            "Promoting the use of digital software"
+        ],
+        "answer": "Optimizing productivity of industrial assets by keeping objects intact"
+    },
+    {
+        "question": "Which NDT method uses high-frequency acoustic signals emitted by materials under stress?",
+        "options": [
+            "Eddy current testing (ET)",
+            "Acoustic emission testing (AT)",
+            "Ultrasonic testing (UT)",
+            "Thermographic testing (TT)"
+        ],
+        "answer": "Acoustic emission testing (AT)"
+    },
+    {
+        "question": "Which NDT method uses electromagnetic induction to detect surface flaws in conductive materials?",
+        "options": [
+            "Magnetic testing (MT)",
+            "Eddy current testing (ET)",
+            "Penetrant testing (PT)",
+            "Radiographic testing (RT)"
+        ],
+        "answer": "Eddy current testing (ET)"
+    },
+    {
+        "question": "What is another name for Penetrant Testing (PT)?",
+        "options": [
+            "Magnetic particle inspection",
+            "Dye penetrant inspection",
+            "Infrared thermography",
+            "Strain gauge testing"
+        ],
+        "answer": "Dye penetrant inspection"
+    },
+    {
+        "question": "Which NDT method employs thermal imaging cameras to detect variations in surface temperature?",
+        "options": [
+            "Visual Testing (VT)",
+            "Thermographic testing (TT)",
+            "Acoustic emission testing (AT)",
+            "Strain Gauge Testing (ST)"
+        ],
+        "answer": "Thermographic testing (TT)"
+    },
+    {
+        "question": "Which NDT method utilizes high-frequency sound waves to determine material thickness?",
+        "options": [
+            "Radiographic testing (RT)",
+            "Ultrasonic testing (UT)",
+            "Leak testing (LT)",
+            "Acoustic emission testing (AT)"
+        ],
+        "answer": "Ultrasonic testing (UT)"
+    },
+    {
+        "question": "According to ISO 9712:2021, which level of NDT personnel is NOT allowed to choose test methods or techniques?",
+        "options": [
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "All levels are allowed"
+        ],
+        "answer": "Level 1"
+    },
+    {
+        "question": "Which level of NDT personnel can provide guidance and mentoring to personnel at or below Level 2?",
+        "options": [
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Both Level 2 and Level 3"
+        ],
+        "answer": "Both Level 2 and Level 3"
+    },
+    {
+        "question": "What is a major limitation of Radiographic Testing (RT) regarding material properties?",
+        "options": [
+            "It only works on plastic materials",
+            "It may be ineffective on thick or dense materials, limiting penetration",
+            "It cannot detect internal defects",
+            "It is only useful for aerospace industries"
+        ],
+        "answer": "It may be ineffective on thick or dense materials, limiting penetration"
+    },
+    {
+        "question": "Who discovered X-rays in 1895?",
+        "options": [
+            "Henri Becquerel",
+            "Marie Curie",
+            "Wilhelm Conrad Röntgen",
+            "Thomas Edison"
+        ],
+        "answer": "Wilhelm Conrad Röntgen"
+    },
+    {
+        "question": "What were X-rays initially referred to as?",
+        "options": [
+            "Gamma rays",
+            "Röntgen rays",
+            "Becquerel rays",
+            "Beta particles"
+        ],
+        "answer": "Röntgen rays"
+    },
+    {
+        "question": "When did the first industrial application of X-rays occur?",
+        "options": [
+            "1895",
+            "1896",
+            "1901",
+            "1913"
+        ],
+        "answer": "1896"
+    },
+    {
+        "question": "What technological advancement in 1913 enabled the generation of higher-energy X-rays?",
+        "options": [
+            "Lead screens",
+            "High-vacuum X-ray tubes",
+            "Digital detector arrays",
+            "Image intensifiers"
+        ],
+        "answer": "High-vacuum X-ray tubes"
+    },
+    {
+        "question": "What was introduced in the 1920s to intensify the optical density of X-ray films?",
+        "options": [
+            "Digital digitizers",
+            "Lead screens",
+            "Silver halides",
+            "Gamma isotopes"
+        ],
+        "answer": "Lead screens"
+    },
+    {
+        "question": "Who discovered gamma radiation in 1896?",
+        "options": [
+            "Wilhelm Röntgen",
+            "Henri Becquerel",
+            "Pierre Curie",
+            "Albert Einstein"
+        ],
+        "answer": "Henri Becquerel"
+    },
+    {
+        "question": "Which husband-and-wife team extracted radium in 1898?",
+        "options": [
+            "The Curies",
+            "The Röntgens",
+            "The Becquerels",
+            "The Edisons"
+        ],
+        "answer": "The Curies"
+    },
+    {
+        "question": "What historical event led to the widespread industrial use of radiographic testing for quality control?",
+        "options": [
+            "The Industrial Revolution",
+            "World War I",
+            "World War II",
+            "The Digital Revolution"
+        ],
+        "answer": "World War II"
+    },
+    {
+        "question": "What does CR stand for in digital RT?",
+        "options": [
+            "Continuous Radiography",
+            "Computed Radiography",
+            "Controlled Radiation",
+            "Common Radiograph"
+        ],
+        "answer": "Computed Radiography"
+    },
+    {
+        "question": "What does DDA stand for in digital RT?",
+        "options": [
+            "Digital Data Access",
+            "Direct Density Analysis",
+            "Digital Detector Array",
+            "Dynamic Dose Arrangement"
+        ],
+        "answer": "Digital Detector Array"
+    },
+    {
+        "question": "Unlike medical films, industrial radiographic films prioritize what characteristic?",
+        "options": [
+            "Low radiation dose",
+            "High sensitivity",
+            "Sharpness and high contrast",
+            "Flexibility"
+        ],
+        "answer": "Sharpness and high contrast"
+    },
+    {
+        "question": "What is the benefit of high silver content in industrial films?",
+        "options": [
+            "Reduces film cost",
+            "Enables better optical density and contrast sensitivity",
+            "Makes the film easier to develop",
+            "Prevents environmental damage"
+        ],
+        "answer": "Enables better optical density and contrast sensitivity"
+    },
+    {
+        "question": "Why is small grain size important in industrial radiographic films?",
+        "options": [
+            "To reduce exposure time",
+            "To produce sharp images with minimal unsharpness",
+            "To make the film resistant to light",
+            "To increase the weight of the film"
+        ],
+        "answer": "To produce sharp images with minimal unsharpness"
+    },
+    {
+        "question": "Which standard is used to classify and regulate the performance of industrial films?",
+        "options": [
+            "ISO 9712",
+            "ISO 17024",
+            "ISO 11699-1",
+            "ISO 19011"
+        ],
+        "answer": "ISO 11699-1"
+    },
+    {
+        "question": "How is wavelength related to the energy of radiation?",
+        "options": [
+            "Directly proportional",
+            "Inversely proportional",
+            "They are not related",
+            "Wavelength is always double the energy"
+        ],
+        "answer": "Inversely proportional"
+    },
+    {
+        "question": "Which type of radiation has shorter wavelengths and higher energy, making it ideal for thick materials?",
+        "options": [
+            "X-rays",
+            "Gamma rays",
+            "Radio waves",
+            "Visible light"
+        ],
+        "answer": "Gamma rays"
+    },
+    {
+        "question": "What does the term 'dose' measure in radiation context?",
+        "options": [
+            "The speed of the radiation",
+            "The amount of radiation energy absorbed by a material",
+            "The time it takes for a source to decay",
+            "The distance between peaks in a wave"
+        ],
+        "answer": "The amount of radiation energy absorbed by a material"
+    },
+    {
+        "question": "What is the unit for 'dose rate' if a person receives a dose over a period of time?",
+        "options": [
+            "Grey (Gy)",
+            "Becquerel (Bq)",
+            "Grey per hour (Gy/hour)",
+            "Watts per square meter (W/m²)"
+        ],
+        "answer": "Grey per hour (Gy/hour)"
+    },
+    {
+        "question": "In what units is the activity of a radioactive source measured?",
+        "options": [
+            "Becquerels (Bq) or Curies (Ci)",
+            "Watts (W)",
+            "Nanometers (nm)",
+            "Greys (Gy)"
+        ],
+        "answer": "Becquerels (Bq) or Curies (Ci)"
+    },
+    {
+        "question": "What does 'specific activity' represent?",
+        "options": [
+            "The total radiation in a room",
+            "The activity per unit mass of the radioactive material",
+            "The rate of movement of X-rays",
+            "The thickness of the lead screen"
+        ],
+        "answer": "The activity per unit mass of the radioactive material"
+    },
+    {
+        "question": "What is the speed of electromagnetic radiation in free space?",
+        "options": [
+            "340 m/s",
+            "1,000 km/s",
+            "3.0 x 10^8 m/s",
+            "9.8 m/s²"
+        ],
+        "answer": "3.0 x 10^8 m/s"
+    },
+    {
+        "question": "Which form of radiation has both energy and mass?",
+        "options": [
+            "X-rays",
+            "Gamma rays",
+            "Particulate radiation (e.g., neutrons)",
+            "Visible light"
+        ],
+        "answer": "Particulate radiation (e.g., neutrons)"
+    },
+    {
+        "question": "X-rays typically range in wavelength between which values?",
+        "options": [
+            "5 and 1/100 nm",
+            "1 and 10 meters",
+            "100 and 500 nm",
+            "5 and 10 millimeters"
+        ],
+        "answer": "5 and 1/100 nm"
+    },
+    {
+        "question": "Where do X-rays originate in an atom?",
+        "options": [
+            "The nucleus",
+            "The extranuclear structure",
+            "The protons",
+            "The neutrons"
+        ],
+        "answer": "The extranuclear structure"
+    },
+    {
+        "question": "Where do gamma rays originate in an atom?",
+        "options": [
+            "The electron shells",
+            "The disintegrating nuclei",
+            "The valence electrons",
+            "The space between atoms"
+        ],
+        "answer": "The disintegrating nuclei"
+    },
+    {
+        "question": "An atom's nucleus is composed of which two subatomic particles?",
+        "options": [
+            "Electrons and protons",
+            "Protons and neutrons",
+            "Electrons and neutrons",
+            "Protons and positrons"
+        ],
+        "answer": "Protons and neutrons"
+    },
+    {
+        "question": "Which subatomic particle carries a negative charge and orbits the nucleus?",
+        "options": [
+            "Proton",
+            "Neutron",
+            "Electron",
+            "Neutrino"
+        ],
+        "answer": "Electron"
+    },
+    {
+        "question": "The atomic number of an element is determined by the number of what?",
+        "options": [
+            "Electrons",
+            "Protons",
+            "Neutrons",
+            "Shells"
+        ],
+        "answer": "Protons"
+    },
+    {
+        "question": "What is the mass of an electron relative to a proton?",
+        "options": [
+            "It is the same",
+            "It is 10 times heavier",
+            "It is 1/1840th the mass",
+            "It is 1/2 the mass"
+        ],
+        "answer": "1/1840th the mass"
+    },
+    {
+        "question": "What is an isotope?",
+        "options": [
+            "An atom with more protons than electrons",
+            "An atom of an element with a varying number of neutrons",
+            "An atom with no nucleus",
+            "A type of electromagnetic wave"
+        ],
+        "answer": "An atom of an element with a varying number of neutrons"
+    },
+    {
+        "question": "What is a positron?",
+        "options": [
+            "A positively charged neutron",
+            "The antiparticle of the electron with a positive charge",
+            "A fast-moving proton",
+            "A light particle from the sun"
+        ],
+        "answer": "The antiparticle of the electron with a positive charge"
+    },
+    {
+        "question": "What happens when a positron and an electron collide?",
+        "options": [
+            "They form a new atom",
+            "They annihilate each other and release energy as gamma rays",
+            "They stop moving",
+            "They increase their electrical charge"
+        ],
+        "answer": "They annihilate each other and release energy as gamma rays"
+    },
+    {
+        "question": "Which particle has almost zero mass and is very difficult to detect?",
+        "options": [
+            "Proton",
+            "Neutron",
+            "Neutrino",
+            "Alpha particle"
+        ],
+        "answer": "Neutrino"
+    },
+    {
+        "question": "Which of the following is a key competency for NDT personnel?",
+        "options": [
+            "Material Science",
+            "Fracture Mechanics",
+            "Radiation Safety",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary medium for radiography?",
+        "options": [
+            "Sound waves",
+            "Electromagnetic radiation",
+            "Liquid chemicals",
+            "Magnetic fields"
+        ],
+        "answer": "Electromagnetic radiation"
+    },
+    {
+        "question": "Radiography provides a record of internal conditions that is:",
+        "options": [
+            "Temporary and invisible",
+            "Permanent and visible",
+            "Only accessible via computer",
+            "Destructive to the part"
+        ],
+        "answer": "Permanent and visible"
+    },
+    {
+        "question": "Which form of radiation is pure energy with no mass?",
+        "options": [
+            "Alpha particles",
+            "Electromagnetic radiation (X-rays/Gamma rays)",
+            "Particulate radiation",
+            "Beta particles"
+        ],
+        "answer": "Electromagnetic radiation (X-rays/Gamma rays)"
+    },
+    {
+        "question": "What determines the ability of radiation to penetrate materials?",
+        "options": [
+            "The color of the wave",
+            "The wavelength and energy",
+            "The weight of the source",
+            "The temperature of the material"
+        ],
+        "answer": "The wavelength and energy"
+    },
+    {
+        "question": "Industrial films feature 'Small Grain Size' to minimize:",
+        "options": [
+            "Radiation dose",
+            "Exposure time",
+            "Unsharpness",
+            "Film weight"
+        ],
+        "answer": "Unsharpness"
+    },
+    {
+        "question": "What type of radiation is typically released alongside gamma rays?",
+        "options": [
+            "Radio waves",
+            "Alpha and Beta particles",
+            "Visible light only",
+            "Microwaves"
+        ],
+        "answer": "Alpha and Beta particles"
+    },
+    {
+        "question": "In an electrically neutral atom, the number of electrons equals the number of:",
+        "options": [
+            "Neutrons",
+            "Protons",
+            "Shells",
+            "Nuclei"
+        ],
+        "answer": "Protons"
+    },
+    {
+        "question": "Which organizations contributed to the RT-D manual's development?",
+        "options": [
+            "IAEA and DGZfP",
+            "BAM and ATTAR",
+            "CINDE",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Testing refers to evaluating a product to determine its:",
+        "options": [
+            "Price",
+            "Quality and reliability",
+            "Weight",
+            "Color"
+        ],
+        "answer": "Quality and reliability"
+    },
+    {
+        "question": "NDT is used throughout a product's lifecycle, including:",
+        "options": [
+            "Pre-manufacturing",
+            "Manufacturing",
+            "In-service testing",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "NDT can help ageing assets by providing information for:",
+        "options": [
+            "Disposal decisions",
+            "Life extension decisions",
+            "Scrap metal pricing",
+            "Personnel layoffs"
+        ],
+        "answer": "Life extension decisions"
+    },
+    {
+        "question": "Why is NDT important for insurance companies?",
+        "options": [
+            "To increase premiums",
+            "For risk assessment inspections",
+            "To track shipping times",
+            "To identify employee names"
+        ],
+        "answer": "For risk assessment inspections"
+    },
+    {
+        "question": "A Level 1 NDT certified person is responsible for:",
+        "options": [
+            "Choosing test methods",
+            "Setting up NDT equipment",
+            "Interpreting test results",
+            "Creating acceptance criteria"
+        ],
+        "answer": "Setting up NDT equipment"
+    },
+    {
+        "question": "A Level 3 NDT certified person can:",
+        "options": [
+            "Establish and validate NDT instructions",
+            "Interpret standards and codes",
+            "Supervise all tasks at all levels",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In RT, where is the detector placed relative to the source and material?",
+        "options": [
+            "On the same side as the source",
+            "On the opposite side of the material from the source",
+            "Inside the material",
+            "Above the source"
+        ],
+        "answer": "On the opposite side of the material from the source"
+    },
+    {
+        "question": "Which of the following is a limitation of RT?",
+        "options": [
+            "It cannot detect cracks",
+            "Exposing personnel to ionising radiation requires safety precautions",
+            "It cannot be used in aerospace",
+            "Images cannot be stored"
+        ],
+        "answer": "Exposing personnel to ionising radiation requires safety precautions"
+    },
+    {
+        "question": "Röntgen's first industrial application involved examining:",
+        "options": [
+            "A medical patient's hand",
+            "Soldered tin plates and a hunting rifle",
+            "A bridge structure",
+            "An airplane wing"
+        ],
+        "answer": "Soldered tin plates and a hunting rifle"
+    },
+    {
+        "question": "By the 1920s, industries used X-rays to detect flaws in:",
+        "options": [
+            "Castings, welds, and pipes",
+            "Wooden furniture",
+            "Clothing",
+            "Glass bottles"
+        ],
+        "answer": "Castings, welds, and pipes"
+    },
+    {
+        "question": "Gamma radiography is particularly useful for which sectors?",
+        "options": [
+            "Textiles",
+            "Construction and petrochemicals",
+            "Agriculture",
+            "Food processing"
+        ],
+        "answer": "Construction and petrochemicals"
+    },
+    {
+        "question": "What digital system allows for higher image resolution and faster processing?",
+        "options": [
+            "Manual film development",
+            "Computed Radiography (CR)",
+            "Darkroom processing",
+            "Typewriters"
+        ],
+        "answer": "Computed Radiography (CR)"
+    },
+    {
+        "question": "Advanced image processing in digital RT includes:",
+        "options": [
+            "Automated defect recognition",
+            "Three-dimensional computed tomography (CT)",
+            "Digital magnification",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "How long have films played a critical role in NDT?",
+        "options": [
+            "10 years",
+            "50 years",
+            "Over a century",
+            "Since 2018"
+        ],
+        "answer": "Over a century"
+    },
+    {
+        "question": "What was the purpose of the first RT-D program in Malaysia?",
+        "options": [
+            "Selling film digitisers",
+            "Developing a weld defect recognition algorithm",
+            "Training medical doctors",
+            "Building nuclear reactors"
+        ],
+        "answer": "Developing a weld defect recognition algorithm"
+    },
+    {
+        "question": "Electromagnetic radiation transfers energy through:",
+        "options": [
+            "Physical contact",
+            "Emission of electromagnetic waves",
+            "Water displacement",
+            "Convection"
+        ],
+        "answer": "Emission of electromagnetic waves"
+    },
+    {
+        "question": "The dose rate constant is used to calculate dose rate at a:",
+        "options": [
+            "Random location",
+            "Specific distance from the source",
+            "Different time zone",
+            "Higher temperature"
+        ],
+        "answer": "Specific distance from the source"
+    },
+    {
+        "question": "Which unit is used for specific activity?",
+        "options": [
+            "Grey/hour",
+            "GBq/gram or Ci/gram",
+            "Nanometers",
+            "Watts/square meter"
+        ],
+        "answer": "GBq/gram or Ci/gram"
+    },
+    {
+        "question": "Radiography has enabled industries to ensure:",
+        "options": [
+            "Product weight reduction",
+            "Product reliability",
+            "Lower taxes",
+            "Faster shipping"
+        ],
+        "answer": "Product reliability"
+    },
+    {
+        "question": "Multimillion-volt X-ray machines are used for:",
+        "options": [
+            "Small electronics",
+            "Extremely penetrating radiation",
+            "Home inspections",
+            "Low-density plastics"
+        ],
+        "answer": "Extremely penetrating radiation"
+    },
+    {
+        "question": "Radiant energies vary only in:",
+        "options": [
+            "Color and taste",
+            "Frequency and wavelength",
+            "Price and availability",
+            "Mass and volume"
+        ],
+        "answer": "Frequency and wavelength"
+    },
+    {
+        "question": "Electromagnetic energy propagates through free space in a:",
+        "options": [
+            "Circular motion",
+            "Straight line",
+            "Zigzag pattern",
+            "Looping path"
+        ],
+        "answer": "Straight line"
+    },
+    {
+        "question": "Gamma rays are distinguished from X-rays primarily by their:",
+        "options": [
+            "Color",
+            "Source (disintegrating nuclei)",
+            "Speed",
+            "Inventor"
+        ],
+        "answer": "Source (disintegrating nuclei)"
+    },
+    {
+        "question": "Atoms of different elements have different numbers of protons, which determines their:",
+        "options": [
+            "Weight on Earth",
+            "Atomic number and chemical properties",
+            "Physical size only",
+            "Magnetic pull"
+        ],
+        "answer": "Atomic number and chemical properties"
+    },
+    {
+        "question": "In an atom, where is the most weight concentrated?",
+        "options": [
+            "In the electron cloud",
+            "In the nucleus",
+            "In the outer shell",
+            "It is evenly distributed"
+        ],
+        "answer": "In the nucleus"
+    },
+    {
+        "question": "Neutrons are:",
+        "options": [
+            "Positively charged",
+            "Negatively charged",
+            "Uncharged (electrically neutral)",
+            "Sometimes positive, sometimes negative"
+        ],
+        "answer": "Uncharged (electrically neutral)"
+    },
+    {
+        "question": "RT-D stands for:",
+        "options": [
+            "Radiographic Testing - Direct",
+            "Radiographic Testing - Digital",
+            "Radial Testing - Design",
+            "Radiation Technology - Digital"
+        ],
+        "answer": "Radiographic Testing - Digital"
+    },
+    {
+        "question": "The RT-D manual blends scientific principles with:",
+        "options": [
+            "Fictional stories",
+            "Practical, real-world knowledge",
+            "Investment advice",
+            "Historical biographies only"
+        ],
+        "answer": "Practical, real-world knowledge"
+    },
+    {
+        "question": "Which perspective of NDT focuses on 'economic stability'?",
+        "options": [
+            "Commercial",
+            "Social",
+            "Managerial",
+            "Educational"
+        ],
+        "answer": "Social"
+    },
+    {
+        "question": "A Level 2 NDT professional is responsible for:",
+        "options": [
+            "Setting up and verifying equipment settings",
+            "Interpreting and evaluating results",
+            "Reporting results",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What can RT detect that is invisible to the naked eye?",
+        "options": [
+            "Dust",
+            "Small defects like cracks and porosity",
+            "The color of internal paint",
+            "Surface scratches"
+        ],
+        "answer": "Small defects like cracks and porosity"
+    },
+    {
+        "question": "Who won the first Nobel Prize in Physics in 1901?",
+        "options": [
+            "Henri Becquerel",
+            "Marie Curie",
+            "Wilhelm Conrad Röntgen",
+            "Pierre Curie"
+        ],
+        "answer": "Wilhelm Conrad Röntgen"
+    },
+    {
+        "question": "Which material possesses 'higher penetration capabilities' than X-rays?",
+        "options": [
+            "Radio waves",
+            "Visible light",
+            "Gamma rays",
+            "Ultraviolet light"
+        ],
+        "answer": "Gamma rays"
+    },
+    {
+        "question": "During World War II, radiography was used to check welds on:",
+        "options": [
+            "Wooden boats",
+            "Pressure vessels, tanks, and aircraft",
+            "Soldier uniforms",
+            "Paper documents"
+        ],
+        "answer": "Pressure vessels, tanks, and aircraft"
+    },
+    {
+        "question": "Industrial films are designed to withstand:",
+        "options": [
+            "Extreme heat only",
+            "Varying environmental conditions during storage",
+            "Heavy physical impacts",
+            "Complete submersion in water"
+        ],
+        "answer": "Varying environmental conditions during storage"
+    },
+    {
+        "question": "Electromagnetic radiation includes which of the following?",
+        "options": [
+            "Microwaves and Radio waves",
+            "Visible light and Infrared",
+            "X-rays and Gamma rays",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Wavelength is commonly measured in:",
+        "options": [
+            "Kilograms",
+            "Nanometers (nm) or meters (m)",
+            "Liters",
+            "Seconds"
+        ],
+        "answer": "Nanometers (nm) or meters (m)"
+    },
+    {
+        "question": "Which of these have 'high energy' capable of ionizing atoms?",
+        "options": [
+            "Radio waves",
+            "Visible light",
+            "Gamma rays and X-rays",
+            "Microwaves"
+        ],
+        "answer": "Gamma rays and X-rays"
+    },
+    {
+        "question": "The dose rate quantifies radiation delivered:",
+        "options": [
+            "Per unit of distance",
+            "Per unit of time",
+            "Per unit of weight",
+            "Per dollar spent"
+        ],
+        "answer": "Per unit of time"
+    },
+    {
+        "question": "A radioactive source's 'Intensity' directly impacts the:",
+        "options": [
+            "Color of the image",
+            "Dose rate",
+            "Weight of the part",
+            "Room temperature"
+        ],
+        "answer": "Dose rate"
+    },
+    {
+        "question": "What is the primary function of a collimator in radiographic testing?",
+        "options": [
+            "To increase the radiation dose",
+            "To shape and restrict the radiation beam to a specific area of interest",
+            "To convert X-rays into visible light",
+            "To amplify the digital signal"
+        ],
+        "answer": "To shape and restrict the radiation beam to a specific area of interest"
+    },
+    {
+        "question": "Which material is commonly used to construct collimators due to its high radiation-absorbing properties?",
+        "options": [
+            "Aluminum",
+            "Lead",
+            "Plastic",
+            "Copper"
+        ],
+        "answer": "Lead"
+    },
+    {
+        "question": "How does collimation improve image quality?",
+        "options": [
+            "By increasing the exposure time",
+            "By reducing scattered radiation reaching the detector",
+            "By softening the X-ray beam",
+            "By increasing the pixel size"
+        ],
+        "answer": "By reducing scattered radiation reaching the detector"
+    },
+    {
+        "question": "Which type of collimator is typically used for gamma imaging?",
+        "options": [
+            "Aperture diaphragms",
+            "Parallel-hole collimators",
+            "Optical lenses",
+            "Glass filters"
+        ],
+        "answer": "Parallel-hole collimators"
+    },
+    {
+        "question": "What is X-ray fluorescence (XRF) in the context of radiography?",
+        "options": [
+            "The process of digital image storage",
+            "Atoms emitting characteristic X-ray photons after being ionized",
+            "The movement of electrons in a vacuum tube",
+            "The cooling process of the X-ray source"
+        ],
+        "answer": "Atoms emitting characteristic X-ray photons after being ionized"
+    },
+    {
+        "question": "Why is X-ray fluorescence considered a problem in digital imaging?",
+        "options": [
+            "It makes the equipment too hot",
+            "It can introduce noise into the radiographic image",
+            "It speeds up the radioactive decay of the source",
+            "It causes the detector to lose power"
+        ],
+        "answer": "It can introduce noise into the radiographic image"
+    },
+    {
+        "question": "What is 'Spatial Resolution' in digital radiography?",
+        "options": [
+            "The total time of exposure",
+            "The ability to distinguish small, closely spaced details in an image",
+            "The weight of the digital detector",
+            "The thickness of the lead shielding"
+        ],
+        "answer": "The ability to distinguish small, closely spaced details in an image"
+    },
+    {
+        "question": "Which of the following factors can limit spatial resolution?",
+        "options": [
+            "Geometric unsharpness",
+            "Detector unsharpness",
+            "Motion artifacts",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does the abbreviation 'SNR' stand for?",
+        "options": [
+            "System Network Range",
+            "Signal-to-Noise Ratio",
+            "Standard Nuclear Radiation",
+            "Sequence Number Register"
+        ],
+        "answer": "Signal-to-Noise Ratio"
+    },
+    {
+        "question": "In RT-D, what happens to spatial resolution if the image is compressed or scaled down?",
+        "options": [
+            "It remains unchanged",
+            "It improves",
+            "It may be reduced as fine details are lost",
+            "It increases the bit depth"
+        ],
+        "answer": "It may be reduced as fine details are lost"
+    },
+    {
+        "question": "What is 'Pixel Pitch'?",
+        "options": [
+            "The sound a detector makes during startup",
+            "The distance between the centers of two adjacent pixels",
+            "The speed at which data travels to the PC",
+            "The thickness of the protective layer on a detector"
+        ],
+        "answer": "The distance between the centers of two adjacent pixels"
+    },
+    {
+        "question": "How does a smaller pixel size typically affect spatial resolution?",
+        "options": [
+            "It decreases spatial resolution",
+            "It has no effect on resolution",
+            "It generally improves spatial resolution and image fidelity",
+            "It makes the image appear more blurry"
+        ],
+        "answer": "It generally improves spatial resolution and image fidelity"
+    },
+    {
+        "question": "Filtering in radiography is primarily used to modify what?",
+        "options": [
+            "The physical size of the specimen",
+            "The radiation beam's energy spectrum",
+            "The price of the digital detector",
+            "The speed of light"
+        ],
+        "answer": "The radiation beam's energy spectrum"
+    },
+    {
+        "question": "Which standard requires the measurement of 'Basic Spatial Resolution' (SRb)?",
+        "options": [
+            "ISO 17636-2",
+            "ISO 9001",
+            "ASTM E1000",
+            "IEC 60601"
+        ],
+        "answer": "ISO 17636-2"
+    },
+    {
+        "question": "What is the result of 'Geometric Unsharpness'?",
+        "options": [
+            "A sharper image",
+            "A larger file size",
+            "Blurring of the edges of the object in the image",
+            "An increase in radiation energy"
+        ],
+        "answer": "Blurring of the edges of the object in the image"
+    },
+    {
+        "question": "In Digital Detector Arrays (DDA), the conversion of X-rays into electrical signals can be:",
+        "options": [
+            "Direct or Indirect",
+            "Manual or Automatic",
+            "Liquid or Solid",
+            "Thermal or Acoustic"
+        ],
+        "answer": "Direct or Indirect"
+    },
+    {
+        "question": "What component is used in 'Indirect' DDA conversion to first turn X-rays into light?",
+        "options": [
+            "A photocathode",
+            "A scintillator",
+            "A lead foil",
+            "A copper wire"
+        ],
+        "answer": "A scintillator"
+    },
+    {
+        "question": "Which material is a common scintillator used in high-quality DDAs?",
+        "options": [
+            "Amorphous Silicon",
+            "Cesium Iodide (CsI)",
+            "Tungsten",
+            "Gold"
+        ],
+        "answer": "Cesium Iodide (CsI)"
+    },
+    {
+        "question": "What is 'Aliasing' in digital imaging?",
+        "options": [
+            "A method of strengthening the detector casing",
+            "An artifact caused by under-sampling or interference with pixel patterns",
+            "A type of radiation safety protocol",
+            "The process of naming digital files"
+        ],
+        "answer": "An artifact caused by under-sampling or interference with pixel patterns"
+    },
+    {
+        "question": "The 'Fill Factor' of a pixel refers to:",
+        "options": [
+            "The time it takes to fill the memory card",
+            "The ratio of the light-sensitive area to the total pixel area",
+            "The amount of lead used in the shielding",
+            "The weight of the battery"
+        ],
+        "answer": "The ratio of the light-sensitive area to the total pixel area"
+    },
+    {
+        "question": "Why are 'Motion Artifacts' more critical in digital radiography than in traditional film?",
+        "options": [
+            "Digital detectors are heavier",
+            "Exposure times are typically shorter, making motion more apparent",
+            "Digital images have no color",
+            "The software requires a perfectly still image to start"
+        ],
+        "answer": "Exposure times are typically shorter, making motion more apparent"
+    },
+    {
+        "question": "What is 'Modulation Transfer Function' (MTF)?",
+        "options": [
+            "A measure of the system's ability to transfer contrast at various frequencies",
+            "The speed of the digital interface",
+            "A protocol for transferring files between computers",
+            "The temperature at which the detector operates"
+        ],
+        "answer": "A measure of the system's ability to transfer contrast at various frequencies"
+    },
+    {
+        "question": "A 'Bucky Grid' or 'Anti-scatter Grid' is used to:",
+        "options": [
+            "Increase the radiation output",
+            "Filter out scattered radiation before it hits the detector",
+            "Hold the specimen in place",
+            "Measure the distance from the source"
+        ],
+        "answer": "Filter out scattered radiation before it hits the detector"
+    },
+    {
+        "question": "In DDA systems, 'Ghosting' or 'Image Lag' refers to:",
+        "options": [
+            "The software crashing",
+            "Residual signals from a previous exposure appearing in the current image",
+            "The detector being stolen",
+            "The loss of wireless connectivity"
+        ],
+        "answer": "Residual signals from a previous exposure appearing in the current image"
+    },
+    {
+        "question": "What is 'Bit Depth'?",
+        "options": [
+            "The physical thickness of the detector",
+            "The number of bits used to represent the color or grayscale of each pixel",
+            "The depth of the defect in the material",
+            "The distance between the source and the detector"
+        ],
+        "answer": "The number of bits used to represent the color or grayscale of each pixel"
+    },
+    {
+        "question": "A 16-bit image can represent how many levels of gray?",
+        "options": [
+            "256",
+            "1,024",
+            "65,536",
+            "16,000"
+        ],
+        "answer": "65,536"
+    },
+    {
+        "question": "What does 'DQE' (Detective Quantum Efficiency) measure?",
+        "options": [
+            "The energy of the X-ray beam",
+            "The efficiency of the detector in converting X-rays into a useful image signal",
+            "The time it takes to develop a film",
+            "The number of pixels in the array"
+        ],
+        "answer": "The efficiency of the detector in converting X-rays into a useful image signal"
+    },
+    {
+        "question": "In digital radiography, 'Dynamic Range' is the ratio between:",
+        "options": [
+            "The tallest and shortest technician",
+            "The maximum and minimum measurable light intensities (signal)",
+            "The exposure time and the development time",
+            "The source energy and the material thickness"
+        ],
+        "answer": "The maximum and minimum measurable light intensities (signal)"
+    },
+    {
+        "question": "What is the primary cause of 'Shot Noise'?",
+        "options": [
+            "Electronic interference from power lines",
+            "The statistical variation in the number of photons hitting the detector",
+            "Vibrations from nearby machinery",
+            "Poor software coding"
+        ],
+        "answer": "The statistical variation in the number of photons hitting the detector"
+    },
+    {
+        "question": "To improve the SNR in a digital image, an operator might:",
+        "options": [
+            "Decrease the exposure time",
+            "Increase the radiation dose or use image averaging",
+            "Turn off the computer",
+            "Use a larger pixel size"
+        ],
+        "answer": "Increase the radiation dose or use image averaging"
+    },
+    {
+        "question": "Which phenomenon involves an X-ray photon losing some energy to an electron and changing direction?",
+        "options": [
+            "Photoelectric effect",
+            "Compton scattering",
+            "Pair production",
+            "Coherent scattering"
+        ],
+        "answer": "Compton scattering"
+    },
+    {
+        "question": "What is the 'Heel Effect' in X-ray tubes?",
+        "options": [
+            "The tube getting hot at the bottom",
+            "Variation in radiation intensity along the longitudinal axis of the tube",
+            "The noise made by the cooling fan",
+            "The tendency of the tube to lean to one side"
+        ],
+        "answer": "Variation in radiation intensity along the longitudinal axis of the tube"
+    },
+    {
+        "question": "The 'Focal Spot' size influences which image characteristic?",
+        "options": [
+            "Image contrast",
+            "Geometric unsharpness",
+            "The color of the image",
+            "The file saving speed"
+        ],
+        "answer": "Geometric unsharpness"
+    },
+    {
+        "question": "A smaller focal spot results in:",
+        "options": [
+            "More geometric unsharpness",
+            "Less geometric unsharpness (sharper image)",
+            "A higher radiation dose",
+            "Faster exposure times"
+        ],
+        "answer": "Less geometric unsharpness (sharper image)"
+    },
+    {
+        "question": "What does 'Beam Hardening' refer to?",
+        "options": [
+            "The beam becoming physically solid",
+            "The removal of lower-energy photons as the beam passes through a filter or material",
+            "Increasing the voltage to the X-ray tube",
+            "The hardening of the detector surface"
+        ],
+        "answer": "The removal of lower-energy photons as the beam passes through a filter or material"
+    },
+    {
+        "question": "Which of these is used as a filter to 'harden' an X-ray beam?",
+        "options": [
+            "Paper",
+            "Copper or Lead sheets",
+            "Plastic wrap",
+            "Wood"
+        ],
+        "answer": "Copper or Lead sheets"
+    },
+    {
+        "question": "In digital imaging, 'Blooming' occurs when:",
+        "options": [
+            "The image looks like a flower",
+            "Charge from an over-exposed pixel leaks into adjacent pixels",
+            "The detector is used in a garden",
+            "The software updates automatically"
+        ],
+        "answer": "Charge from an over-exposed pixel leaks into adjacent pixels"
+    },
+    {
+        "question": "What is a 'Bad Pixel' in a DDA?",
+        "options": [
+            "A pixel that shows the wrong color",
+            "A pixel that does not respond correctly to radiation",
+            "A pixel that is too large",
+            "A pixel used for metadata only"
+        ],
+        "answer": "A pixel that does not respond correctly to radiation"
+    },
+    {
+        "question": "What is the purpose of 'Flat-Field Correction'?",
+        "options": [
+            "To flatten the material being tested",
+            "To compensate for non-uniformity in the detector response and X-ray beam",
+            "To make the digital file smaller",
+            "To increase the contrast of the image"
+        ],
+        "answer": "To compensate for non-uniformity in the detector response and X-ray beam"
+    },
+    {
+        "question": "An 'Image Histogram' represents:",
+        "options": [
+            "The history of the radiographic testing field",
+            "The distribution of pixel values (intensities) in an image",
+            "The number of defects found per year",
+            "The weight of different materials"
+        ],
+        "answer": "The distribution of pixel values (intensities) in an image"
+    },
+    {
+        "question": "What is 'Windowing' (Level and Width) used for in digital radiography?",
+        "options": [
+            "Opening a window in the darkroom",
+            "Adjusting the brightness and contrast of the displayed image",
+            "Setting the exposure time",
+            "Sizing the detector array"
+        ],
+        "answer": "Adjusting the brightness and contrast of the displayed image"
+    },
+    {
+        "question": "The term 'Workflow Efficiency' in RT-D refers to:",
+        "options": [
+            "How fast a technician can run",
+            "The streamlined process from acquisition to reporting",
+            "The number of batteries required",
+            "The length of the power cable"
+        ],
+        "answer": "The streamlined process from acquisition to reporting"
+    },
+    {
+        "question": "Which material is used in 'Direct' conversion DDAs?",
+        "options": [
+            "Amorphous Selenium (a-Se)",
+            "Cesium Iodide",
+            "Gadolinium Oxysulfide",
+            "Silver Bromide"
+        ],
+        "answer": "Amorphous Selenium (a-Se)"
+    },
+    {
+        "question": "Direct conversion DDAs convert X-rays directly into:",
+        "options": [
+            "Visible light",
+            "Electrical charge",
+            "Sound waves",
+            "Heat"
+        ],
+        "answer": "Electrical charge"
+    },
+    {
+        "question": "What is 'Scintillation'?",
+        "options": [
+            "The process of a material emitting light when struck by ionizing radiation",
+            "The cooling of an X-ray tube",
+            "The movement of a detector on a track",
+            "The vibration of a specimen"
+        ],
+        "answer": "The process of a material emitting light when struck by ionizing radiation"
+    },
+    {
+        "question": "The 'Sensitivity' of a digital detector is its ability to:",
+        "options": [
+            "Feel the temperature of the room",
+            "Detect small amounts of radiation and produce a useful signal",
+            "Resist being dropped",
+            "Work with different software brands"
+        ],
+        "answer": "Detect small amounts of radiation and produce a useful signal"
+    },
+    {
+        "question": "What is 'Dark Current'?",
+        "options": [
+            "Electricity used during the night",
+            "The signal produced by the detector in the absence of radiation",
+            "The current used to power the darkroom lights",
+            "A method of hiding digital data"
+        ],
+        "answer": "The signal produced by the detector in the absence of radiation"
+    },
+    {
+        "question": "How does temperature affect 'Dark Current'?",
+        "options": [
+            "It has no effect",
+            "Higher temperatures generally increase dark current",
+            "Higher temperatures decrease dark current",
+            "Dark current only exists at freezing temperatures"
+        ],
+        "answer": "Higher temperatures generally increase dark current"
+    },
+    {
+        "question": "What is the 'Nyquist Frequency'?",
+        "options": [
+            "The highest frequency that can be accurately captured by a given pixel size",
+            "The sound frequency of an X-ray tube",
+            "The frequency at which a technician takes a break",
+            "The speed of the wireless router"
+        ],
+        "answer": "The highest frequency that can be accurately captured by a given pixel size"
+    },
+    {
+        "question": "Sampling an image at a rate lower than the Nyquist Frequency leads to:",
+        "options": [
+            "Better resolution",
+            "Aliasing artifacts",
+            "Smaller file sizes with no loss of quality",
+            "Increased radiation dose"
+        ],
+        "answer": "Aliasing artifacts"
+    },
+    {
+        "question": "A 'Pixel' is a contraction of which two words?",
+        "options": [
+            "Picture Element",
+            "Pixie Level",
+            "Pickle Element",
+            "Picture Level"
+        ],
+        "answer": "Picture Element"
+    },
+    {
+        "question": "What is 'Latent Image' in the context of Computed Radiography (CR)?",
+        "options": [
+            "The image after it is printed",
+            "The invisible image stored on the imaging plate before scanning",
+            "The image that appears on the monitor",
+            "A defect that is hidden deep inside a weld"
+        ],
+        "answer": "The invisible image stored on the imaging plate before scanning"
+    },
+    {
+        "question": "In CR, what is used to 'read' the latent image from the imaging plate?",
+        "options": [
+            "A laser beam",
+            "A chemical developer",
+            "A strong magnet",
+            "High-pressure water"
+        ],
+        "answer": "A laser beam"
+    },
+    {
+        "question": "After a CR plate is read, how is it 'erased' for reuse?",
+        "options": [
+            "By dipping it in acid",
+            "By exposing it to intense white light",
+            "By putting it in a microwave",
+            "By wiping it with a cloth"
+        ],
+        "answer": "By exposing it to intense white light"
+    },
+    {
+        "question": "What is 'Photostimulable Luminescence' (PSL)?",
+        "options": [
+            "The process of plants growing under X-rays",
+            "The emission of light from a CR plate when stimulated by a laser",
+            "The way a digital monitor glows",
+            "A type of radiation shielding"
+        ],
+        "answer": "The emission of light from a CR plate when stimulated by a laser"
+    },
+    {
+        "question": "Which of these is a benefit of CR over film?",
+        "options": [
+            "No chemical waste from processing",
+            "Higher initial cost",
+            "Plates can never be damaged",
+            "Requires more radiation"
+        ],
+        "answer": "No chemical waste from processing"
+    },
+    {
+        "question": "What is 'IQI'?",
+        "options": [
+            "Internal Quality Index",
+            "Image Quality Indicator",
+            "International Quality Institute",
+            "Ionizing Quantity Instrument"
+        ],
+        "answer": "Image Quality Indicator"
+    },
+    {
+        "question": "What are the two common types of IQIs?",
+        "options": [
+            "Paper and Plastic",
+            "Wire type and Hole type",
+            "Digital and Analog",
+            "Fixed and Mobile"
+        ],
+        "answer": "Wire type and Hole type"
+    },
+    {
+        "question": "The 'Duplex Wire IQI' is specifically used to measure:",
+        "options": [
+            "Contrast",
+            "Spatial resolution or unsharpness",
+            "Radiation dose",
+            "Material thickness"
+        ],
+        "answer": "Spatial resolution or unsharpness"
+    },
+    {
+        "question": "In a digital image, 'Noise' appears as:",
+        "options": [
+            "A loud sound from the computer",
+            "Random fluctuations in pixel brightness (grainy appearance)",
+            "Lines across the image",
+            "Circular spots"
+        ],
+        "answer": "Random fluctuations in pixel brightness (grainy appearance)"
+    },
+    {
+        "question": "The 'Penumbra' in radiography refers to:",
+        "options": [
+            "The darkest part of the image",
+            "The region of partial shadow (unsharpness) at the edge of an image",
+            "The writing tool used by the inspector",
+            "The name of the X-ray tube"
+        ],
+        "answer": "The region of partial shadow (unsharpness) at the edge of an image"
+    },
+    {
+        "question": "Increasing the 'Source-to-Object Distance' (SOD) generally:",
+        "options": [
+            "Increases geometric unsharpness",
+            "Decreases geometric unsharpness",
+            "Has no effect on sharpness",
+            "Makes the image darker"
+        ],
+        "answer": "Decreases geometric unsharpness"
+    },
+    {
+        "question": "What is 'Magnification' in radiography?",
+        "options": [
+            "Making the material physically bigger",
+            "The ratio of the image size to the actual object size",
+            "Using a magnifying glass to look at the screen",
+            "The process of increasing the voltage"
+        ],
+        "answer": "The ratio of the image size to the actual object size"
+    },
+    {
+        "question": "What is the formula for Magnification (M)?",
+        "options": [
+            "M = SID / SOD",
+            "M = SOD / SID",
+            "M = Dose x Time",
+            "M = Pixel size / 2"
+        ],
+        "answer": "M = SID / SOD"
+    },
+    {
+        "question": "What does 'SID' stand for?",
+        "options": [
+            "Signal Intensity Data",
+            "Source-to-Image Distance",
+            "Silicon Interface Detector",
+            "System Internal Drive"
+        ],
+        "answer": "Source-to-Image Distance"
+    },
+    {
+        "question": "The 'Inverse Square Law' states that radiation intensity:",
+        "options": [
+            "Increases with distance",
+            "Decreases as the square of the distance from the source",
+            "Is always constant",
+            "Is double the voltage"
+        ],
+        "answer": "Decreases as the square of the distance from the source"
+    },
+    {
+        "question": "If you double the distance from a radiation source, the intensity becomes:",
+        "options": [
+            "Half",
+            "One-fourth",
+            "Double",
+            "Quadruple"
+        ],
+        "answer": "One-fourth"
+    },
+    {
+        "question": "What is 'Radiation Shielding'?",
+        "options": [
+            "Wearing a hat while working",
+            "Using materials to absorb or block radiation to protect people/equipment",
+            "Turning off the X-ray machine",
+            "A type of insurance policy"
+        ],
+        "answer": "Using materials to absorb or block radiation to protect people/equipment"
+    },
+    {
+        "question": "What are the three fundamental ways to reduce radiation exposure?",
+        "options": [
+            "Lead, Concrete, Water",
+            "Time, Distance, Shielding",
+            "Paper, Plastic, Glass",
+            "Fast, Slow, Medium"
+        ],
+        "answer": "Time, Distance, Shielding"
+    },
+    {
+        "question": "What is 'Tethered' mode for a DDA?",
+        "options": [
+            "The detector is tied to a post",
+            "The detector is connected to the computer via a physical cable",
+            "The detector is used in space",
+            "The detector is operated via satellite"
+        ],
+        "answer": "The detector is connected to the computer via a physical cable"
+    },
+    {
+        "question": "What is a benefit of 'Wireless' DDA operation?",
+        "options": [
+            "Unlimited range",
+            "Greater mobility and ease of use in confined spaces",
+            "Faster data transfer than fiber optics",
+            "Never needs a battery"
+        ],
+        "answer": "Greater mobility and ease of use in confined spaces"
+    },
+    {
+        "question": "The 'Ingress Protection' (IP) rating of a detector indicates its:",
+        "options": [
+            "Intellectual Property value",
+            "Resistance to dust and water",
+            "Internet Protocol address",
+            "Image processing speed"
+        ],
+        "answer": "Resistance to dust and water"
+    },
+    {
+        "question": "An IP67 rated detector is:",
+        "options": [
+            "Completely waterproof and dust-tight",
+            "Fragile and should only be used indoors",
+            "Not protected against dust",
+            "Likely to explode in water"
+        ],
+        "answer": "Completely waterproof and dust-tight"
+    },
+    {
+        "question": "What is 'Vignetting' in digital imaging?",
+        "options": [
+            "A type of digital signature",
+            "A reduction in image brightness at the periphery compared to the center",
+            "A defect found in aluminum welds",
+            "The process of cropping an image"
+        ],
+        "answer": "A reduction in image brightness at the periphery compared to the center"
+    },
+    {
+        "question": "In RT-D, 'Normalization' is a process to:",
+        "options": [
+            "Make the technician feel normal",
+            "Adjust pixel values to a standard range or reference",
+            "Reduce the cost of the test",
+            "Speed up the X-ray tube warmup"
+        ],
+        "answer": "Adjust pixel values to a standard range or reference"
+    },
+    {
+        "question": "What is a 'Lookup Table' (LUT) used for?",
+        "options": [
+            "Looking up the price of equipment",
+            "Mapping input pixel values to output display values (for contrast adjustment)",
+            "Keeping track of employee schedules",
+            "Storing technical manuals"
+        ],
+        "answer": "Mapping input pixel values to output display values (for contrast adjustment)"
+    },
+    {
+        "question": "What is 'Lossy Compression'?",
+        "options": [
+            "A method of storage that loses no data",
+            "A method of reducing file size that permanently discards some data",
+            "Compressing the material being tested",
+            "A type of insurance claim"
+        ],
+        "answer": "A method of reducing file size that permanently discards some data"
+    },
+    {
+        "question": "What is 'Lossless Compression'?",
+        "options": [
+            "Reducing file size without any loss of data/quality",
+            "Losing the digital file entirely",
+            "A very fast way to save files that uses a lot of space",
+            "A compression method only used for films"
+        ],
+        "answer": "Reducing file size without any loss of data/quality"
+    },
+    {
+        "question": "Which file format is widely used for 'Lossless' storage in NDT?",
+        "options": [
+            "JPEG",
+            "TIFF (Tagged Image File Format) or DICONDE",
+            "MP3",
+            "GIF"
+        ],
+        "answer": "TIFF (Tagged Image File Format) or DICONDE"
+    },
+    {
+        "question": "What does 'DICONDE' stand for?",
+        "options": [
+            "Digital Imaging and Communication in Nondestructive Evaluation",
+            "Data Indexing for Construction and Engineering",
+            "Digital Contrast Enhancement",
+            "Detector Interface Connection"
+        ],
+        "answer": "Digital Imaging and Communication in Nondestructive Evaluation"
+    },
+    {
+        "question": "DICONDE is based on which medical imaging standard?",
+        "options": [
+            "JPEG",
+            "DICOM",
+            "PDF",
+            "HTML"
+        ],
+        "answer": "DICOM"
+    },
+    {
+        "question": "What is the primary goal of the DICONDE standard?",
+        "options": [
+            "To make images look prettier",
+            "To ensure interoperability and data longevity in NDT",
+            "To encrypt data so it cannot be read",
+            "To replace technicians with AI"
+        ],
+        "answer": "To ensure interoperability and data longevity in NDT"
+    },
+    {
+        "question": "What is 'Image Segmentation'?",
+        "options": [
+            "Cutting the detector into pieces",
+            "Partitioning a digital image into multiple segments (sets of pixels)",
+            "Dividing the work between two people",
+            "Saving an image on different hard drives"
+        ],
+        "answer": "Partitioning a digital image into multiple segments (sets of pixels)"
+    },
+    {
+        "question": "What is 'Edge Enhancement' in image processing?",
+        "options": [
+            "Making the edges of the detector sharper",
+            "An algorithm that increases the contrast at the boundaries of objects",
+            "Adding a border around the image",
+            "Smoothing out the grainy noise"
+        ],
+        "answer": "An algorithm that increases the contrast at the boundaries of objects"
+    },
+    {
+        "question": "The 'Mean Filter' is primarily used to:",
+        "options": [
+            "Increase contrast",
+            "Reduce noise (smooth the image)",
+            "Detect cracks",
+            "Measure thickness"
+        ],
+        "answer": "Reduce noise (smooth the image)"
+    },
+    {
+        "question": "What is the 'Dynamic Range' of a 14-bit detector?",
+        "options": [
+            "256 levels",
+            "4,096 levels",
+            "16,384 levels",
+            "1,000 levels"
+        ],
+        "answer": "16,384 levels"
+    },
+    {
+        "question": "What is a 'Phantom' in radiographic testing?",
+        "options": [
+            "A ghost in the darkroom",
+            "A standardized object used to test the performance of an imaging system",
+            "A fake defect used to trick students",
+            "An invisible radiation source"
+        ],
+        "answer": "A standardized object used to test the performance of an imaging system"
+    },
+    {
+        "question": "What does 'Saturation' mean for a digital detector?",
+        "options": [
+            "The detector is wet",
+            "The pixels have reached their maximum charge capacity (over-exposed)",
+            "The detector is ready to be used",
+            "The battery is full"
+        ],
+        "answer": "The pixels have reached their maximum charge capacity (over-exposed)"
+    },
+    {
+        "question": "A 'Pixel Value' (or Gray Level) represents what in a radiograph?",
+        "options": [
+            "The price of the pixel",
+            "The intensity of radiation detected at that point",
+            "The color of the material",
+            "The temperature of the detector"
+        ],
+        "answer": "The intensity of radiation detected at that point"
+    },
+    {
+        "question": "What is 'Artifact' in digital radiography?",
+        "options": [
+            "An ancient tool found in a weld",
+            "An undesirable feature in an image not present in the actual object",
+            "A type of software license",
+            "The name of the report"
+        ],
+        "answer": "An undesirable feature in an image not present in the actual object"
+    },
+    {
+        "question": "Which of these is a common 'Digital Artifact'?",
+        "options": [
+            "Pixel dropouts",
+            "Software glitches",
+            "Communication errors",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is 'Spatial Frequency' measured in?",
+        "options": [
+            "Hertz",
+            "Line pairs per millimeter (lp/mm)",
+            "Meters per second",
+            "Watts"
+        ],
+        "answer": "Line pairs per millimeter (lp/mm)"
+    },
+    {
+        "question": "What is the purpose of 'Image Integration' (or Averaging)?",
+        "options": [
+            "To make the file bigger",
+            "To reduce random noise and improve SNR",
+            "To combine images from different detectors",
+            "To calculate the total dose"
+        ],
+        "answer": "To reduce random noise and improve SNR"
+    },
+    {
+        "question": "The 'Quantum Mottle' effect is reduced by:",
+        "options": [
+            "Decreasing exposure time",
+            "Increasing the number of photons (higher dose)",
+            "Using a cheaper detector",
+            "Turning off the lights"
+        ],
+        "answer": "Increasing the number of photons (higher dose)"
+    },
+    {
+        "question": "What is the function of the 'TFT' layer in a DDA?",
+        "options": [
+            "To protect the detector from radiation",
+            "To act as a switch for reading out the pixel charge",
+            "To convert light into X-rays",
+            "To provide the detector's serial number"
+        ],
+        "answer": "To act as a switch for reading out the pixel charge"
+    },
+    {
+        "question": "What does 'TFT' stand for?",
+        "options": [
+            "Total File Transfer",
+            "Thin-Film Transistor",
+            "Tactile Fiber Tool",
+            "Thermal Fluorescent Type"
+        ],
+        "answer": "Thin-Film Transistor"
+    },
+    {
+        "question": "In RT-D, 'Contrast Sensitivity' is the ability to:",
+        "options": [
+            "See the difference between black and white",
+            "Detect small changes in thickness or density of the material",
+            "Adjust the brightness of the monitor",
+            "Work in bright sunlight"
+        ],
+        "answer": "Detect small changes in thickness or density of the material"
+    },
+    {
+        "question": "A 'Pixel Map' is used during calibration to:",
+        "options": [
+            "Find the location of the detector on a map",
+            "Identify the location of bad or non-performing pixels",
+            "Calculate the area of the specimen",
+            "Map the route to the testing site"
+        ],
+        "answer": "Identify the location of bad or non-performing pixels"
+    },
+    {
+        "question": "What is 'Linearity' in a digital detector?",
+        "options": [
+            "The detector being in a straight line",
+            "The proportional response of pixel values to the radiation dose",
+            "A type of mathematical filter",
+            "The length of the detector"
+        ],
+        "answer": "The proportional response of pixel values to the radiation dose"
+    },
+    {
+        "question": "In what year did George Luckey patent infrared stimulable phosphor or thermoluminescent material?",
+        "options": [
+            "1956",
+            "1971",
+            "1973",
+            "1983"
+        ],
+        "answer": "1973"
+    },
+    {
+        "question": "Which company introduced and patented Computed Radiography (CR) in 1975?",
+        "options": [
+            "Kodak",
+            "FUJIFILM",
+            "Agfa",
+            "GE"
+        ],
+        "answer": "FUJIFILM"
+    },
+    {
+        "question": "When was Computed Radiography first introduced to the healthcare industry?",
+        "options": [
+            "1975",
+            "1980",
+            "1983",
+            "1990"
+        ],
+        "answer": "1983"
+    },
+    {
+        "question": "In the early 2000s, CR technology was significantly introduced to which sector?",
+        "options": [
+            "Food Processing",
+            "Non-Destructive Testing (NDT)",
+            "Textile Manufacturing",
+            "Automotive Sales"
+        ],
+        "answer": "Non-Destructive Testing (NDT)"
+    },
+    {
+        "question": "Which Malaysian institution purchased their first CR system in 2005?",
+        "options": [
+            "Nuklear Malaysia",
+            "HUSM",
+            "PETRONAS",
+            "Keio University"
+        ],
+        "answer": "HUSM"
+    },
+    {
+        "question": "Which standards for CR were produced by CEN and ASTM between 2005 and 2010?",
+        "options": [
+            "EN 14784-1 & 2",
+            "ISO 9001",
+            "ASME Section V",
+            "AWS D1.1"
+        ],
+        "answer": "EN 14784-1 & 2"
+    },
+    {
+        "question": "What is a primary characteristic of a 'Bendable DDA' developed in the 2020s?",
+        "options": [
+            "It is made of lead",
+            "It uses organic electronics for confined or curved geometries",
+            "It requires traditional film processing",
+            "It only works with alpha radiation"
+        ],
+        "answer": "It uses organic electronics for confined or curved geometries"
+    },
+    {
+        "question": "Thomas Edison's invention in 1896 for X-ray visualization was known as the:",
+        "options": [
+            "Telescope",
+            "Fluoroscope",
+            "Microscope",
+            "Phonograph"
+        ],
+        "answer": "Fluoroscope"
+    },
+    {
+        "question": "What technology developed in 1971 enabled cross-sectional imaging using X-rays?",
+        "options": [
+            "Magnetic Resonance Imaging (MRI)",
+            "Digital Subtraction Imaging",
+            "Computed Tomography (CT)",
+            "Computed Radiography (CR)"
+        ],
+        "answer": "Computed Tomography (CT)"
+    },
+    {
+        "question": "What happens to the intensity of a radiation beam as it passes through thicker materials?",
+        "options": [
+            "The intensity increases",
+            "The intensity is attenuated (reduced)",
+            "The intensity remains the same",
+            "The wavelength increases"
+        ],
+        "answer": "The intensity is attenuated (reduced)"
+    },
+    {
+        "question": "Which type of material allows for better penetration and higher contrast in radiography?",
+        "options": [
+            "Thick sections",
+            "Thin sections",
+            "Dense lead blocks",
+            "Opaque liquids"
+        ],
+        "answer": "Thin sections"
+    },
+    {
+        "question": "Why might thick sections mask small defects in a radiograph?",
+        "options": [
+            "They absorb too little radiation",
+            "They attenuate the beam significantly, especially at lower energies",
+            "They increase the focal spot size",
+            "They cause the detector to saturate"
+        ],
+        "answer": "They attenuate the beam significantly, especially at lower energies"
+    },
+    {
+        "question": "Digital radiography compensates for thickness limitations through:",
+        "options": [
+            "Lowering the bit depth",
+            "Improved SNR and contrast adjustment capabilities",
+            "Using longer wavelengths",
+            "Decreasing the source-to-object distance"
+        ],
+        "answer": "Improved SNR and contrast adjustment capabilities"
+    },
+    {
+        "question": "For penetrating very thick materials, which radiation source is generally preferred?",
+        "options": [
+            "Low-voltage X-rays",
+            "Gamma rays",
+            "Visible light",
+            "Ultraviolet rays"
+        ],
+        "answer": "Gamma rays"
+    },
+    {
+        "question": "Precise alignment in radiography is crucial to minimize what effect?",
+        "options": [
+            "Radiation dose",
+            "Distortion of indications",
+            "The price of the test",
+            "The weight of the specimen"
+        ],
+        "answer": "Distortion of indications"
+    },
+    {
+        "question": "In the context of CR, what does 'IP' stand for?",
+        "options": [
+            "Internet Protocol",
+            "Imaging Plate",
+            "Internal Pressure",
+            "Ionizing Power"
+        ],
+        "answer": "Imaging Plate"
+    },
+    {
+        "question": "What is the function of the phosphor layer in a CR imaging plate?",
+        "options": [
+            "To block radiation",
+            "To store energy from X-rays as a latent image",
+            "To develop the image using chemicals",
+            "To cool the detector"
+        ],
+        "answer": "To store energy from X-rays as a latent image"
+    },
+    {
+        "question": "The process of 'Reading' a CR plate involves stimulation by which type of light?",
+        "options": [
+            "Ultraviolet",
+            "Red laser light",
+            "Fluorescent tube light",
+            "Green LED"
+        ],
+        "answer": "Red laser light"
+    },
+    {
+        "question": "What type of light is emitted by the CR plate during the reading process (PSL)?",
+        "options": [
+            "Infrared",
+            "Blue-violet light",
+            "Yellow light",
+            "X-rays"
+        ],
+        "answer": "Blue-violet light"
+    },
+    {
+        "question": "Which historical milestone occurred in 1956 for real-time X-ray imaging?",
+        "options": [
+            "Discovery of X-rays",
+            "Introduction of the Image Intensifier",
+            "First digital camera",
+            "Invention of the transistor"
+        ],
+        "answer": "Introduction of the Image Intensifier"
+    },
+    {
+        "question": "What is the primary advantage of using reusable imaging plates in CR?",
+        "options": [
+            "They are cheaper to throw away",
+            "They eliminate the need for silver-based films and chemicals",
+            "They require higher radiation doses",
+            "They provide a physical 3D model"
+        ],
+        "answer": "They eliminate the need for silver-based films and chemicals"
+    },
+    {
+        "question": "The time delay between exposure and readout in CR should be consistent because:",
+        "options": [
+            "The plate gets heavier over time",
+            "The latent image can fade over time (signal decay)",
+            "The plate needs to reach room temperature",
+            "The computer needs time to warm up"
+        ],
+        "answer": "The latent image can fade over time (signal decay)"
+    },
+    {
+        "question": "What is the main purpose of standard EN 14784-2?",
+        "options": [
+            "General principles of NDT",
+            "Classification of CR systems for industrial radiography",
+            "Safety in nuclear power plants",
+            "Welding procedures for pipelines"
+        ],
+        "answer": "Classification of CR systems for industrial radiography"
+    },
+    {
+        "question": "Which factor is critical for achieving optimal penetration and contrast in a radiographic setup?",
+        "options": [
+            "The color of the detector",
+            "The appropriate radiation type and energy level",
+            "The brand of the laptop used",
+            "The humidity in the room"
+        ],
+        "answer": "The appropriate radiation type and energy level"
+    },
+    {
+        "question": "Which imaging technique was introduced in 1977 alongside MRI?",
+        "options": [
+            "Film radiography",
+            "Digital Subtraction Imaging",
+            "Acoustic Emission",
+            "Visual Testing"
+        ],
+        "answer": "Digital Subtraction Imaging"
+    },
+    {
+        "question": "In radiography, distortion is most likely caused by:",
+        "options": [
+            "High radiation dose",
+            "Improper alignment of the source, object, and detector",
+            "Using a digital detector",
+            "Using a lead collimator"
+        ],
+        "answer": "Improper alignment of the source, object, and detector"
+    },
+    {
+        "question": "The intensity of transmitted beams is reduced by thicker materials due to:",
+        "options": [
+            "Reflection",
+            "Absorption and scattering (Attenuation)",
+            "Refraction",
+            "Speed increase"
+        ],
+        "answer": "Absorption and scattering (Attenuation)"
+    },
+    {
+        "question": "Which material thickness range is X-ray most suitable for?",
+        "options": [
+            "Thin to medium-thickness materials",
+            "Thick steel blocks only",
+            "Concrete walls over 1 meter",
+            "Lead shielding over 10 inches"
+        ],
+        "answer": "Thin to medium-thickness materials"
+    },
+    {
+        "question": "What does 'PSL' stand for in Computed Radiography?",
+        "options": [
+            "Periodic Signal Loss",
+            "Photostimulable Luminescence",
+            "Photo-Static Light",
+            "Primary Source Level"
+        ],
+        "answer": "Photostimulable Luminescence"
+    },
+    {
+        "question": "In Figure 3-4, what was the status of CR in 1983?",
+        "options": [
+            "It was invented",
+            "It was introduced to the health industry",
+            "It was standardized for NDT",
+            "It was discontinued"
+        ],
+        "answer": "It was introduced to the health industry"
+    },
+    {
+        "question": "Which ASTM standard is associated with the qualification of CR systems?",
+        "options": [
+            "ASTM E2445",
+            "ASTM A36",
+            "ASTM E10",
+            "ASTM D100"
+        ],
+        "answer": "ASTM E2445"
+    },
+    {
+        "question": "Which component in a CR reader converts the emitted light into an electrical signal?",
+        "options": [
+            "The laser",
+            "The Photomultiplier Tube (PMT) or CCD",
+            "The erasing lamp",
+            "The lead screen"
+        ],
+        "answer": "The Photomultiplier Tube (PMT) or CCD"
+    },
+    {
+        "question": "Why is 'multiple exposures' sometimes necessary for reliable defect imaging?",
+        "options": [
+            "To save money",
+            "To minimize distortion and cover complex geometries",
+            "To wear out the source faster",
+            "To increase the weight of the digital file"
+        ],
+        "answer": "To minimize distortion and cover complex geometries"
+    },
+    {
+        "question": "What is a characteristic of gamma rays that makes them 'ideal' for thicker materials?",
+        "options": [
+            "Low energy",
+            "Higher energy levels and penetration power",
+            "They are visible to the eye",
+            "They do not require safety shielding"
+        ],
+        "answer": "Higher energy levels and penetration power"
+    },
+    {
+        "question": "In the evolution of radiography, what happened in 1980?",
+        "options": [
+            "Invention of the X-ray tube",
+            "Creation of Computed Radiography (CR)",
+            "End of film radiography",
+            "First use of neutrons for NDT"
+        ],
+        "answer": "Creation of Computed Radiography (CR)"
+    },
+    {
+        "question": "What is the result of using 'higher-energy' radiation on thin materials?",
+        "options": [
+            "Very high contrast",
+            "Loss of contrast due to excessive penetration",
+            "The material melting",
+            "Zero radiation dose"
+        ],
+        "answer": "Loss of contrast due to excessive penetration"
+    },
+    {
+        "question": "Which decade saw the development of bendable DDAs?",
+        "options": [
+            "1990s",
+            "2000s",
+            "2010s",
+            "2020s"
+        ],
+        "answer": "2020s"
+    },
+    {
+        "question": "Standardization in CR (e.g., ASTM E2446) primarily deals with:",
+        "options": [
+            "Building codes",
+            "Performance and testing of CR systems",
+            "Radiation protection for pilots",
+            "Underwater welding"
+        ],
+        "answer": "Performance and testing of CR systems"
+    },
+    {
+        "question": "In a radiographic image, a 'latent image' is:",
+        "options": [
+            "A permanent physical change in the metal",
+            "An invisible stored energy pattern on the imaging plate",
+            "The final report printed for the client",
+            "The shadow of the inspector"
+        ],
+        "answer": "An invisible stored energy pattern on the imaging plate"
+    },
+    {
+        "question": "Attenuation in radiography refers to what process?",
+        "options": [
+            "Speeding up the electrons",
+            "Reduction of the radiation beam's intensity through matter",
+            "Focusing the beam into a point",
+            "Changing the color of the detector"
+        ],
+        "answer": "Reduction of the radiation beam's intensity through matter"
+    },
+    {
+        "question": "What is a 'scintillator' in a digital context?",
+        "options": [
+            "A tool for cleaning imaging plates",
+            "A material that emits light when struck by radiation",
+            "A type of software filter",
+            "A cooling fan for X-ray tubes"
+        ],
+        "answer": "A material that emits light when struck by radiation"
+    },
+    {
+        "question": "The acronym 'CEN' stands for:",
+        "options": [
+            "Center for Electronic Networking",
+            "European Committee for Standardization",
+            "Certification of Engineering Nurses",
+            "Core Energy Node"
+        ],
+        "answer": "European Committee for Standardization"
+    },
+    {
+        "question": "The time delay between CR plate exposure and scanning is called:",
+        "options": [
+            "Warp time",
+            "Latency period",
+            "Development phase",
+            "Reaction speed"
+        ],
+        "answer": "Latency period"
+    },
+    {
+        "question": "What is the primary factor determining the 'testing class' in ISO 17636-2?",
+        "options": [
+            "The price of the material",
+            "The level of image quality and sensitivity required",
+            "The weather at the site",
+            "The number of technicians available"
+        ],
+        "answer": "The level of image quality and sensitivity required"
+    },
+    {
+        "question": "In the history of CR, 1973 is associated with:",
+        "options": [
+            "The discovery of radium",
+            "The patenting of infrared stimulable phosphor",
+            "The first digital radiograph",
+            "The invention of the lead screen"
+        ],
+        "answer": "The patenting of infrared stimulable phosphor"
+    },
+    {
+        "question": "Why is 'reusable' a keyword for CR imaging plates?",
+        "options": [
+            "They can be used for multiple exposures after erasure",
+            "They can be melted down and sold",
+            "They work without electricity",
+            "They can be used as food trays"
+        ],
+        "answer": "They can be used for multiple exposures after erasure"
+    },
+    {
+        "question": "In radiographic geometry, the 'Object-to-Detector Distance' (ODD) should ideally be:",
+        "options": [
+            "As large as possible",
+            "As small as possible to minimize unsharpness",
+            "Zero (the object should be inside the detector)",
+            "Equal to the SID"
+        ],
+        "answer": "As small as possible to minimize unsharpness"
+    },
+    {
+        "question": "What does a 'small focal spot' provide in radiography?",
+        "options": [
+            "Higher radiation dose",
+            "Sharper images (less geometric unsharpness)",
+            "More heat to the tube",
+            "Faster exposure times"
+        ],
+        "answer": "Sharper images (less geometric unsharpness)"
+    },
+    {
+        "question": "Which organization produced the ASTM E2445 standard?",
+        "options": [
+            "ISO",
+            "ASTM International",
+            "Nuklear Malaysia",
+            "IAEA"
+        ],
+        "answer": "ASTM International"
+    },
+    {
+        "question": "The 'erasure' of a CR plate is done using:",
+        "options": [
+            "High-energy X-rays",
+            "Intense white light",
+            "A chemical wash",
+            "A magnetic field"
+        ],
+        "answer": "Intense white light"
+    },
+    {
+        "question": "Contrast in a digital image can be digitally adjusted using:",
+        "options": [
+            "The focal spot size",
+            "Software windowing/leveling tools",
+            "Increasing the source intensity",
+            "Changing the detector weight"
+        ],
+        "answer": "Software windowing/leveling tools"
+    },
+    {
+        "question": "Which phenomenon causes 'Signal Fading' in CR imaging plates?",
+        "options": [
+            "The plate getting too cold",
+            "The spontaneous release of stored energy over time",
+            "The plate getting too hot",
+            "Using the wrong laser"
+        ],
+        "answer": "The spontaneous release of stored energy over time"
+    },
+    {
+        "question": "According to the manual, thin sections allow for:",
+        "options": [
+            "Better penetration and higher contrast",
+            "More scattering and less detail",
+            "Higher energy radiation only",
+            "No defect detection"
+        ],
+        "answer": "Better penetration and higher contrast"
+    },
+    {
+        "question": "When did CR systems first become classified by CEN and ASTM?",
+        "options": [
+            "1895-1900",
+            "1950-1960",
+            "2005-2010",
+            "2020-2025"
+        ],
+        "answer": "2005-2010"
+    },
+    {
+        "question": "The use of 'organic electronics' in DDAs allows for:",
+        "options": [
+            "Edible detectors",
+            "Flexible and bendable detectors",
+            "Detectors that do not detect radiation",
+            "Detectors made of wood"
+        ],
+        "answer": "Flexible and bendable detectors"
+    },
+    {
+        "question": "Which NDT technology was introduced in the 2020s for 'confined or curved geometries'?",
+        "options": [
+            "Film radiography",
+            "Bendable DDAs",
+            "Image Intensifiers",
+            "Fluoroscopes"
+        ],
+        "answer": "Bendable DDAs"
+    },
+    {
+        "question": "Geometric unsharpness (Ug) is calculated using which parameters?",
+        "options": [
+            "Focal spot size, SOD, and ODD",
+            "Time, Dose, and Weight",
+            "Wavelength, Frequency, and Speed",
+            "Bit depth, Pixels, and Bytes"
+        ],
+        "answer": "Focal spot size, SOD, and ODD"
+    },
+    {
+        "question": "A 'DDA' stands for:",
+        "options": [
+            "Digital Data Access",
+            "Digital Detector Array",
+            "Direct Dose Analysis",
+            "Dynamic Dual Array"
+        ],
+        "answer": "Digital Detector Array"
+    },
+    {
+        "question": "Compared to CR, DDAs provide:",
+        "options": [
+            "Faster image acquisition (real-time or near real-time)",
+            "Heavier imaging plates",
+            "Chemical-based development",
+            "Lower resolution images only"
+        ],
+        "answer": "Faster image acquisition (real-time or near real-time)"
+    },
+    {
+        "question": "Which of these is NOT a digital radiographic technique mentioned in the manual?",
+        "options": [
+            "Computed Radiography (CR)",
+            "Digital Detector Array (DDA)",
+            "Computed Tomography (CT)",
+            "Manual Film Processing"
+        ],
+        "answer": "Manual Film Processing"
+    },
+    {
+        "question": "In the CR reading process, the 'Analog-to-Digital Converter' (ADC) is used to:",
+        "options": [
+            "Convert the electric signal into numerical digital data",
+            "Change X-rays into light",
+            "Erase the imaging plate",
+            "Move the laser beam"
+        ],
+        "answer": "Convert the electric signal into numerical digital data"
+    },
+    {
+        "question": "The intensity of radiation reaching the detector depends on:",
+        "options": [
+            "Material density and thickness",
+            "The color of the object",
+            "The name of the manufacturer",
+            "The time of day"
+        ],
+        "answer": "Material density and thickness"
+    },
+    {
+        "question": "Higher-energy radiation on thin materials leads to:",
+        "options": [
+            "Better contrast",
+            "Lower contrast (over-penetration)",
+            "No image",
+            "Sharpness increase"
+        ],
+        "answer": "Lower contrast (over-penetration)"
+    },
+    {
+        "question": "Which standard covers 'Radiographic examination of metallic materials using film and digital detectors'?",
+        "options": [
+            "ISO 17636",
+            "ISO 9001",
+            "ISO 14001",
+            "ISO 45001"
+        ],
+        "answer": "ISO 17636"
+    },
+    {
+        "question": "Which inventor is credited with the fluoroscope in 1896?",
+        "options": [
+            "Roentgen",
+            "Edison",
+            "Becquerel",
+            "Curie"
+        ],
+        "answer": "Edison"
+    },
+    {
+        "question": "The 'phosphor' used in CR imaging plates is typically:",
+        "options": [
+            "Lead-based",
+            "Barium fluorohalide with europium",
+            "Silver chloride",
+            "Plastic-based"
+        ],
+        "answer": "Barium fluorohalide with europium"
+    },
+    {
+        "question": "What happens to the radiation intensity if you increase the material thickness?",
+        "options": [
+            "It increases",
+            "It decreases",
+            "It stays the same",
+            "It becomes visible"
+        ],
+        "answer": "It decreases"
+    },
+    {
+        "question": "What is the primary benefit of Digital Radiography for thick materials?",
+        "options": [
+            "It makes them thinner",
+            "Improved SNR and contrast adjustments to see through dense sections",
+            "It eliminates the need for X-rays",
+            "It allows for faster chemical development"
+        ],
+        "answer": "Improved SNR and contrast adjustments to see through dense sections"
+    },
+    {
+        "question": "In the timeline of radiography, what was introduced in 1971?",
+        "options": [
+            "X-rays",
+            "Computed Tomography (CT)",
+            "The transistor",
+            "The digital camera"
+        ],
+        "answer": "Computed Tomography (CT)"
+    },
+    {
+        "question": "Which company is mentioned as a patent holder for CR in 1975?",
+        "options": [
+            "Kodak",
+            "FUJIFILM",
+            "Agfa",
+            "GE"
+        ],
+        "answer": "FUJIFILM"
+    },
+    {
+        "question": "The ASTM standard for the classification of CR systems is:",
+        "options": [
+            "E2446",
+            "E94",
+            "E1030",
+            "E1742"
+        ],
+        "answer": "E2446"
+    },
+    {
+        "question": "Why is alignment between the source, object, and detector important?",
+        "options": [
+            "To save time",
+            "To avoid geometric distortion of the image",
+            "To prevent radiation leaks",
+            "To make the detector lighter"
+        ],
+        "answer": "To avoid geometric distortion of the image"
+    },
+    {
+        "question": "What type of imaging does CT provide?",
+        "options": [
+            "1D lines",
+            "Cross-sectional imaging",
+            "Surface only",
+            "Color photos"
+        ],
+        "answer": "Cross-sectional imaging"
+    },
+    {
+        "question": "Which light source triggers the release of stored energy in a CR plate?",
+        "options": [
+            "White lamp",
+            "Red laser",
+            "Blue light",
+            "Sunlight"
+        ],
+        "answer": "Red laser"
+    },
+    {
+        "question": "What occurs during the 'Annihilation' of a positron and electron?",
+        "options": [
+            "They create an atom",
+            "They release energy as gamma rays",
+            "They stop existing without a trace",
+            "They become a neutron"
+        ],
+        "answer": "They release energy as gamma rays"
+    },
+    {
+        "question": "What is 'Latent Image Decay'?",
+        "options": [
+            "The physical rotting of the imaging plate",
+            "The loss of stored X-ray information over time in a CR plate",
+            "The computer deleting the file",
+            "The source losing its strength"
+        ],
+        "answer": "The loss of stored X-ray information over time in a CR plate"
+    },
+    {
+        "question": "The energy of an X-ray beam is primarily controlled by the:",
+        "options": [
+            "Current (mA)",
+            "Voltage (kV)",
+            "Exposure time",
+            "Room temperature"
+        ],
+        "answer": "Voltage (kV)"
+    },
+    {
+        "question": "The number of photons (quantity) in an X-ray beam is controlled by:",
+        "options": [
+            "Voltage (kV)",
+            "Current (mA) and time",
+            "The focal spot size",
+            "The lead filter"
+        ],
+        "answer": "Current (mA) and time"
+    },
+    {
+        "question": "The 'dynamic range' of a digital detector is much ____ than film.",
+        "options": [
+            "Smaller",
+            "Larger",
+            "More colorful",
+            "Heavier"
+        ],
+        "answer": "Larger"
+    },
+    {
+        "question": "What factor makes digital radiography more efficient for field work?",
+        "options": [
+            "No darkroom or chemical processing required",
+            "Heavier equipment",
+            "Slower acquisition times",
+            "Need for physical storage of films"
+        ],
+        "answer": "No darkroom or chemical processing required"
+    },
+    {
+        "question": "In digital radiography, 'Contrast' refers to the difference in:",
+        "options": [
+            "Color",
+            "Pixel brightness levels between different areas of the image",
+            "Weight",
+            "Price"
+        ],
+        "answer": "Pixel brightness levels between different areas of the image"
+    },
+    {
+        "question": "What is the primary function of the 'lead' backing in a CR cassette?",
+        "options": [
+            "To make it heavy",
+            "To reduce backscattered radiation reaching the plate",
+            "To store the latent image",
+            "To erase the plate"
+        ],
+        "answer": "To reduce backscattered radiation reaching the plate"
+    },
+    {
+        "question": "Which standard defines the 'standard test method for classification of computed radiography systems'?",
+        "options": [
+            "ASTM E2446",
+            "ISO 9712",
+            "ASME Section V",
+            "AWS D1.1"
+        ],
+        "answer": "ASTM E2446"
+    },
+    {
+        "question": "The sensitivity of an imaging system to detect small defects is known as:",
+        "options": [
+            "Loudness",
+            "Image quality (sensitivity)",
+            "Weight",
+            "Price"
+        ],
+        "answer": "Image quality (sensitivity)"
+    },
+    {
+        "question": "Which material would attenuate radiation MORE?",
+        "options": [
+            "10mm of Aluminum",
+            "10mm of Lead",
+            "10mm of Plastic",
+            "10mm of Wood"
+        ],
+        "answer": "10mm of Lead"
+    },
+    {
+        "question": "The 'Source-to-Image Distance' (SID) is the distance from the source to:",
+        "options": [
+            "The object",
+            "The detector/film",
+            "The ground",
+            "The operator"
+        ],
+        "answer": "The detector/film"
+    },
+    {
+        "question": "Increasing the voltage (kV) of an X-ray source results in:",
+        "options": [
+            "More photons",
+            "Higher energy and more penetrating photons",
+            "Fewer photons",
+            "Lower penetration"
+        ],
+        "answer": "Higher energy and more penetrating photons"
+    },
+    {
+        "question": "Decreasing the focal spot size ____ the image sharpness.",
+        "options": [
+            "Decreases",
+            "Increases",
+            "Has no effect on",
+            "Changes the color of"
+        ],
+        "answer": "Increases"
+    },
+    {
+        "question": "The latent image in CR is formed by 'trapped' electrons in the:",
+        "options": [
+            "Lead screen",
+            "Phosphor crystals",
+            "Aluminum casing",
+            "Computer hard drive"
+        ],
+        "answer": "Phosphor crystals"
+    },
+    {
+        "question": "Which of these is used to 'capture' the latent image from the CR plate?",
+        "options": [
+            "A laser and a light detector (PMT)",
+            "A chemical developer tank",
+            "A magnifying glass",
+            "A printer"
+        ],
+        "answer": "A laser and a light detector (PMT)"
+    },
+    {
+        "question": "According to the history of NDT in the manual, 1980 saw the creation of:",
+        "options": [
+            "Film",
+            "Computed Radiography (CR)",
+            "The X-ray tube",
+            "Digital cameras"
+        ],
+        "answer": "Computed Radiography (CR)"
+    },
+    {
+        "question": "For thin materials, which radiation energy would produce the best contrast?",
+        "options": [
+            "Very high energy",
+            "Appropriate low energy (lower kV)",
+            "Gamma rays from Co-60",
+            "Infrared"
+        ],
+        "answer": "Appropriate low energy (lower kV)"
+    },
+    {
+        "question": "The attenuation of radiation depends on the material's:",
+        "options": [
+            "Atomic number and density",
+            "Color and shine",
+            "Price and age",
+            "Name and location"
+        ],
+        "answer": "Atomic number and density"
+    },
+    {
+        "question": "Which device is used for real-time visualization, invented by Edison?",
+        "options": [
+            "Radiograph",
+            "Fluoroscope",
+            "Microscope",
+            "Telegraph"
+        ],
+        "answer": "Fluoroscope"
+    },
+    {
+        "question": "The time delay before readout in CR should be consistent to avoid ____.",
+        "options": [
+            "Plate cracking",
+            "Variable signal fading",
+            "Radiation buildup",
+            "Weight gain"
+        ],
+        "answer": "Variable signal fading"
+    },
+    {
+        "question": "Digital radiography's ability to adjust contrast is particularly useful for ____.",
+        "options": [
+            "Thin materials only",
+            "Thick materials where contrast is naturally low",
+            "Making images look blue",
+            "Reducing file sizes"
+        ],
+        "answer": "Thick materials where contrast is naturally low"
+    },
+    {
+        "question": "Standard EN 14784-1 deals with 'Industrial computed radiography with phosphor imaging plates' and focuses on:",
+        "options": [
+            "Personnel training",
+            "Minimum requirements and classification of systems",
+            "Safety rules",
+            "Marketing"
+        ],
+        "answer": "Minimum requirements and classification of systems"
+    },
+    {
+        "question": "The development of 'flexible materials' in the 2020s led to:",
+        "options": [
+            "Bendable DDAs",
+            "Flexible films",
+            "Rubber X-ray tubes",
+            "Soft lead shielding"
+        ],
+        "answer": "Bendable DDAs"
+    },
+    {
+        "question": "What is the result of 'misalignment' in radiographic imaging?",
+        "options": [
+            "Sharper image",
+            "Geometric distortion of the indications",
+            "Lower radiation dose",
+            "Cheaper test cost"
+        ],
+        "answer": "Geometric distortion of the indications"
+    },
+    {
+        "question": "In radiography, thicker materials ____ the intensity of transmitted beams.",
+        "options": [
+            "Boost",
+            "Attenuate",
+            "Reflect",
+            "Stabilize"
+        ],
+        "answer": "Attenuate"
+    },
+    {
+        "question": "In an active-matrix array, how are the rows of switches typically connected?",
+        "options": [
+            "Each switch has its own individual line",
+            "Each row is connected by a single control line",
+            "All switches in the array are connected to one line",
+            "Switches are connected diagonally"
+        ],
+        "answer": "Each row is connected by a single control line"
+    },
+    {
+        "question": "What is the primary function of the control line in an active-matrix array?",
+        "options": [
+            "To provide power to the detector",
+            "To control the state (on/off) of all switching elements in a row",
+            "To transfer the digital image to the PC",
+            "To cool the internal electronics"
+        ],
+        "answer": "To control the state (on/off) of all switching elements in a row"
+    },
+    {
+        "question": "How are signal outputs from pixels in a given column routed in an active-matrix design?",
+        "options": [
+            "To a shared signal line with its own readout amplifier",
+            "Directly to the X-ray source",
+            "To the neighboring pixel in the same row",
+            "Through a wireless Bluetooth connection"
+        ],
+        "answer": "To a shared signal line with its own readout amplifier"
+    },
+    {
+        "question": "What is the specific reading pattern used by active-matrix arrays?",
+        "options": [
+            "Random access reading",
+            "Sequential horizontal line-by-line reading",
+            "Spiral reading from the center out",
+            "Vertical column-by-column reading only"
+        ],
+        "answer": "Sequential horizontal line-by-line reading"
+    },
+    {
+        "question": "Unlike modern CCDs, how do active-matrix arrays transmit signals?",
+        "options": [
+            "By transferring charge to neighboring pixels",
+            "Directly from each pixel element to the readout amplifier",
+            "Using acoustic waves",
+            "Via chemical reactions"
+        ],
+        "answer": "Directly from each pixel element to the readout amplifier"
+    },
+    {
+        "question": "What state are all switches in during the radiation exposure phase?",
+        "options": [
+            "Conducting (on)",
+            "Non-conducting (off)",
+            "Alternating between on and off",
+            "Standby mode"
+        ],
+        "answer": "Non-conducting (off)"
+    },
+    {
+        "question": "What is the first step when the radiation exposure concludes in an active-matrix array?",
+        "options": [
+            "The entire array is erased with light",
+            "The switches in the first row are set to a conducting (on) state",
+            "The computer system is rebooted",
+            "The detector is disconnected from the power"
+        ],
+        "answer": "The switches in the first row are set to a conducting (on) state"
+    },
+    {
+        "question": "What happens to the pixel signals once they reach the external electronics?",
+        "options": [
+            "They are converted back into X-rays",
+            "They are digitized and stored",
+            "They are deleted immediately",
+            "They are used to heat the scintillator"
+        ],
+        "answer": "They are digitized and stored"
+    },
+    {
+        "question": "In the context of digital radiography, what does 'Initialization' of the array mean?",
+        "options": [
+            "Turning the detector off",
+            "Preparing the array for the incoming radiation signal",
+            "Formatting the hard drive",
+            "Adjusting the lead collimator"
+        ],
+        "answer": "Preparing the array for the incoming radiation signal"
+    },
+    {
+        "question": "According to the document, what is the recommended exposure range for operational system testing?",
+        "options": [
+            "0.1 mR to 100 mR",
+            "0.03 mR to 30 mR",
+            "1 R to 10 R",
+            "0.001 mR to 0.01 mR"
+        ],
+        "answer": "0.03 mR to 30 mR"
+    },
+    {
+        "question": "Why should image processing features generally be turned off during system evaluation?",
+        "options": [
+            "To save battery life",
+            "To ensure data accurately reflects the system's true response",
+            "Because the software might crash",
+            "To make the image look darker"
+        ],
+        "answer": "To ensure data accurately reflects the system's true response"
+    },
+    {
+        "question": "Which basic correction is usually allowed to remain 'on' during system response tests?",
+        "options": [
+            "Edge enhancement",
+            "Bad pixel adjustments",
+            "Smoothing filters",
+            "Contrast stretching"
+        ],
+        "answer": "Bad pixel adjustments"
+    },
+    {
+        "question": "What is 'Measurement Bias' in the context of digital radiography?",
+        "options": [
+            "The weight of the detector",
+            "A systematic error that distorts the true value of a measurement",
+            "The preference of the technician for a specific brand",
+            "The angle of the X-ray tube"
+        ],
+        "answer": "A systematic error that distorts the true value of a measurement"
+    },
+    {
+        "question": "How does 'Automatic Gain Control' (AGC) affect measurements if not managed?",
+        "options": [
+            "It makes the detector heavier",
+            "It can introduce measurement bias by automatically adjusting signal levels",
+            "It improves the resolution of the image",
+            "It prevents the laser from firing"
+        ],
+        "answer": "It can introduce measurement bias by automatically adjusting signal levels"
+    },
+    {
+        "question": "For CR systems, what timing factor is essential for consistency?",
+        "options": [
+            "The speed of the conveyor belt",
+            "The delay between exposure and image readout",
+            "The time it takes to print a report",
+            "The duration of the lunch break"
+        ],
+        "answer": "The delay between exposure and image readout"
+    },
+    {
+        "question": "What is the suggested consistent delay time for CR readout mentioned in the text?",
+        "options": [
+            "1 minute",
+            "10 minutes",
+            "1 hour",
+            "24 hours"
+        ],
+        "answer": "10 minutes"
+    },
+    {
+        "question": "Does the beam spectrum generally affect the 'shape' of a system's characteristic curve?",
+        "options": [
+            "Yes, it changes it completely",
+            "No, it is generally unaffected",
+            "Only if gamma rays are used",
+            "Only if the detector is 16-bit"
+        ],
+        "answer": "No, it is generally unaffected"
+    },
+    {
+        "question": "What is 'Scattered Radiation' and why is it managed in digital systems?",
+        "options": [
+            "Radiation that goes straight through the object",
+            "Radiation that changes direction and adds background noise to the image",
+            "Radiation used to power the computer",
+            "A type of light used for erasing CR plates"
+        ],
+        "answer": "Radiation that changes direction and adds background noise to the image"
+    },
+    {
+        "question": "In a sequential readout, what happens after the first row is turned off?",
+        "options": [
+            "The detector shuts down",
+            "The second row of switches is set to a conducting state",
+            "The first row is exposed to more radiation",
+            "The image is deleted"
+        ],
+        "answer": "The second row of switches is set to a conducting state"
+    },
+    {
+        "question": "What is the primary material used for 'switches' in a modern DDA active-matrix?",
+        "options": [
+            "Copper",
+            "Amorphous silicon (a-Si) thin-film transistors",
+            "Lead",
+            "Plastic"
+        ],
+        "answer": "Amorphous silicon (a-Si) thin-film transistors"
+    },
+    {
+        "question": "The term 'Quantization' in digital radiography refers to:",
+        "options": [
+            "The weight of the photons",
+            "Converting continuous analog signals into discrete digital values",
+            "Measuring the distance to the source",
+            "The number of technicians on site"
+        ],
+        "answer": "Converting continuous analog signals into discrete digital values"
+    },
+    {
+        "question": "What is the role of the 'Readout Amplifier'?",
+        "options": [
+            "To increase the volume of the computer speakers",
+            "To strengthen the pixel signal before it is digitized",
+            "To cool the detector array",
+            "To focus the laser beam"
+        ],
+        "answer": "To strengthen the pixel signal before it is digitized"
+    },
+    {
+        "question": "In Figure 5-8 (a), the pixels are arranged in:",
+        "options": [
+            "A circle",
+            "A grid (rows and columns)",
+            "A single long line",
+            "A triangle"
+        ],
+        "answer": "A grid (rows and columns)"
+    },
+    {
+        "question": "Which technical factor relates pixel values to absolute radiation dose?",
+        "options": [
+            "The weight of the lead shield",
+            "Quantitative analysis of the system response",
+            "The brand of the monitor",
+            "The color of the detector casing"
+        ],
+        "answer": "Quantitative analysis of the system response"
+    },
+    {
+        "question": "What is 'Background Noise' in a digital radiograph?",
+        "options": [
+            "The sound of the X-ray tube",
+            "Unwanted signal fluctuations that obscure real data",
+            "The conversation of the workers",
+            "The sound of the cooling fan"
+        ],
+        "answer": "Unwanted signal fluctuations that obscure real data"
+    },
+    {
+        "question": "A system's 'Sensitivity Mode' should be used if:",
+        "options": [
+            "The technician is feeling sensitive",
+            "Automatic adjustments cannot be disabled",
+            "The material is very thin",
+            "The detector is new"
+        ],
+        "answer": "Automatic adjustments cannot be disabled"
+    },
+    {
+        "question": "What does 'External Control Circuitry' manage in a DDA?",
+        "options": [
+            "The site safety perimeter",
+            "The timing and state of the pixel switches",
+            "The company payroll",
+            "The X-ray tube temperature"
+        ],
+        "answer": "The timing and state of the pixel switches"
+    },
+    {
+        "question": "What is 'Signal Integration'?",
+        "options": [
+            "Adding a new worker to the team",
+            "The accumulation of signal over the duration of the exposure",
+            "Connecting the computer to the internet",
+            "The process of cleaning the imaging plate"
+        ],
+        "answer": "The accumulation of signal over the duration of the exposure"
+    },
+    {
+        "question": "In a digital detector, what is the 'Active Area'?",
+        "options": [
+            "The area where the technician stands",
+            "The specific region of the detector capable of capturing radiation",
+            "The area around the X-ray source",
+            "The office where reports are written"
+        ],
+        "answer": "The specific region of the detector capable of capturing radiation"
+    },
+    {
+        "question": "Why is 'Imaging Geometry' important during system testing?",
+        "options": [
+            "It affects the artistic look of the image",
+            "It influences the measurements and consistency of the system response",
+            "It determines the price of the detector",
+            "It changes the weight of the object"
+        ],
+        "answer": "It influences the measurements and consistency of the system response"
+    },
+    {
+        "question": "What is the benefit of a 'Shared Signal Line' per column?",
+        "options": [
+            "It uses less wiring and simplifies the readout architecture",
+            "It makes the image appear in 3D",
+            "It prevents radiation from hitting the pixels",
+            "It increases the battery life of the laptop"
+        ],
+        "answer": "It uses less wiring and simplifies the readout architecture"
+    },
+    {
+        "question": "What 'initializes' the array before a new exposure?",
+        "options": [
+            "A software command that clears residual charge",
+            "Wiping the detector with a cloth",
+            "Changing the X-ray tube",
+            "Re-installing the operating system"
+        ],
+        "answer": "A software command that clears residual charge"
+    },
+    {
+        "question": "What is the effect of 'Signal Lag' on the next image?",
+        "options": [
+            "It makes the next image clearer",
+            "It may cause 'ghost' images from the previous exposure",
+            "It increases the resolution",
+            "It changes the file format to JPEG"
+        ],
+        "answer": "It may cause 'ghost' images from the previous exposure"
+    },
+    {
+        "question": "Which of the following is considered 'External Electronics' in RT-D?",
+        "options": [
+            "The X-ray source",
+            "The digitization and storage unit (computer/interface)",
+            "The lead collimator",
+            "The safety barriers"
+        ],
+        "answer": "The digitization and storage unit (computer/interface)"
+    },
+    {
+        "question": "The 'Characteristic Curve' of a digital system shows the relationship between:",
+        "options": [
+            "Price and Quality",
+            "Radiation Dose and Pixel Value (Signal)",
+            "Time and Temperature",
+            "Weight and Thickness"
+        ],
+        "answer": "Radiation Dose and Pixel Value (Signal)"
+    },
+    {
+        "question": "Why is a 10-minute delay specifically recommended for CR systems?",
+        "options": [
+            "To allow the plate to cool down",
+            "To allow the latent image to stabilize and reduce variability between reads",
+            "Because the reader takes that long to start",
+            "To give the technician time to walk back"
+        ],
+        "answer": "To allow the latent image to stabilize and reduce variability between reads"
+    },
+    {
+        "question": "The 'Sequential horizontal line-by-line reading' is controlled by:",
+        "options": [
+            "Manual switches",
+            "The readout circuitry and switching control lines",
+            "The X-ray tube",
+            "Gravity"
+        ],
+        "answer": "The readout circuitry and switching control lines"
+    },
+    {
+        "question": "What unit is used for radiation dose in the document's testing range?",
+        "options": [
+            "Watts",
+            "Sieverts (Sv) and Roentgens (mR)",
+            "Amperes",
+            "Meters"
+        ],
+        "answer": "Sieverts (Sv) and Roentgens (mR)"
+    },
+    {
+        "question": "What happens if a switch in an active-matrix array fails?",
+        "options": [
+            "The entire detector explodes",
+            "The specific pixel (or row) may appear as a 'bad pixel' or artifact",
+            "The X-ray source will turn off",
+            "The image will turn bright green"
+        ],
+        "answer": "The specific pixel (or row) may appear as a 'bad pixel' or artifact"
+    },
+    {
+        "question": "What does 'Operational Range' mean for a DDA?",
+        "options": [
+            "The distance it can be carried",
+            "The span of radiation doses over which the system produces useful data",
+            "The temperature of the room",
+            "The warranty period"
+        ],
+        "answer": "The span of radiation doses over which the system produces useful data"
+    },
+    {
+        "question": "The digitizing of the signal occurs ____ the switches are set to 'on'.",
+        "options": [
+            "Before",
+            "After",
+            "Simultaneously with",
+            "Never"
+        ],
+        "answer": "After"
+    },
+    {
+        "question": "In RT-D, 'Background Noise' is generally ____ at higher radiation doses.",
+        "options": [
+            "More significant",
+            "Less significant (proportionally)",
+            "Exactly the same",
+            "Completely absent"
+        ],
+        "answer": "Less significant (proportionally)"
+    },
+    {
+        "question": "What describes 'Active-Matrix Array' technology?",
+        "options": [
+            "A film based system",
+            "A large-area integrated circuit containing millions of pixels",
+            "A type of manual development",
+            "A wireless internet protocol"
+        ],
+        "answer": "A large-area integrated circuit containing millions of pixels"
+    },
+    {
+        "question": "What is the function of the 'External circuitry' in Figure 5-8?",
+        "options": [
+            "To hold the specimen",
+            "To provide control voltages and process signals",
+            "To protect the detector from rain",
+            "To generate the X-rays"
+        ],
+        "answer": "To provide control voltages and process signals"
+    },
+    {
+        "question": "Which component acts as the 'brain' of the digital image acquisition process?",
+        "options": [
+            "The lead shield",
+            "The computer software and interface hardware",
+            "The X-ray tube stand",
+            "The protective case"
+        ],
+        "answer": "The computer software and interface hardware"
+    },
+    {
+        "question": "Why is 'Beam Spectrum' mentioned in the context of system evaluation?",
+        "options": [
+            "Because it changes the color of the beam",
+            "Because it can influence the quantitative relationship between signal and dose",
+            "Because it makes the detector heavier",
+            "Because it affects the speed of light"
+        ],
+        "answer": "Because it can influence the quantitative relationship between signal and dose"
+    },
+    {
+        "question": "The 'switching elements' in a DDA are usually:",
+        "options": [
+            "Mechanical toggles",
+            "Thin-film transistors (TFTs)",
+            "Vacuum tubes",
+            "Light bulbs"
+        ],
+        "answer": "Thin-film transistors (TFTs)"
+    },
+    {
+        "question": "A 'Pixel' in an active-matrix array contains both a sensing element and a:",
+        "options": [
+            "Small heater",
+            "Switching element",
+            "Mirror",
+            "Lens"
+        ],
+        "answer": "Switching element"
+    },
+    {
+        "question": "What is the primary risk of using 'automatic adjustments' during system benchmarking?",
+        "options": [
+            "The detector getting too hot",
+            "Inaccurate representation of the detector's true performance (bias)",
+            "Saving the file in the wrong folder",
+            "The laser being too bright"
+        ],
+        "answer": "Inaccurate representation of the detector's true performance (bias)"
+    },
+    {
+        "question": "The term 'Sv' stands for:",
+        "options": [
+            "Silver",
+            "Sievert",
+            "Server",
+            "Static Value"
+        ],
+        "answer": "Sievert"
+    },
+    {
+        "question": "How many rows of pixels are typically read at a single moment in an active-matrix array?",
+        "options": [
+            "All of them",
+            "One row",
+            "Ten rows",
+            "None"
+        ],
+        "answer": "One row"
+    },
+    {
+        "question": "During signal transfer to the readout amplifier, the signal is:",
+        "options": [
+            "Analog",
+            "Digital",
+            "Optical",
+            "Acoustic"
+        ],
+        "answer": "Analog"
+    },
+    {
+        "question": "When is the signal digitized?",
+        "options": [
+            "Inside the pixel",
+            "In the external electronics (A/D converter)",
+            "In the X-ray tube",
+            "After the report is printed"
+        ],
+        "answer": "In the external electronics (A/D converter)"
+    },
+    {
+        "question": "Which of these factors is most critical for 'consistent' results in a CR system?",
+        "options": [
+            "The room temperature",
+            "Consistency in exposure-to-readout timing",
+            "The color of the plate",
+            "The brand of the eraser"
+        ],
+        "answer": "Consistency in exposure-to-readout timing"
+    },
+    {
+        "question": "In a DDA, the 'switching control line' is dedicated to:",
+        "options": [
+            "The entire array",
+            "Each individual row",
+            "Each individual column",
+            "The battery"
+        ],
+        "answer": "Each individual row"
+    },
+    {
+        "question": "What prevents signals from mixing between columns during readout?",
+        "options": [
+            "Each column has its own dedicated signal line and amplifier",
+            "The pixels are very far apart",
+            "A physical lead wall between columns",
+            "The signals are sent at different times"
+        ],
+        "answer": "Each column has its own dedicated signal line and amplifier"
+    },
+    {
+        "question": "The initialization phase is intended to ensure:",
+        "options": [
+            "The system is paid for",
+            "A 'clean slate' with no residual charge before exposure",
+            "The technician is wearing lead",
+            "The file is named correctly"
+        ],
+        "answer": "A 'clean slate' with no residual charge before exposure"
+    },
+    {
+        "question": "In RT-D testing, what does '0.03 mR' represent in terms of sensitivity?",
+        "options": [
+            "A very high dose",
+            "A very low, sensitive dose level",
+            "The weight of a pixel",
+            "The length of the laser"
+        ],
+        "answer": "A very low, sensitive dose level"
+    },
+    {
+        "question": "Why is 'Sequential' reading used instead of reading all pixels at once?",
+        "options": [
+            "It is faster",
+            "It reduces the complexity and number of readout amplifiers required",
+            "It makes the image look better",
+            "It is a requirement of the building code"
+        ],
+        "answer": "It reduces the complexity and number of readout amplifiers required"
+    },
+    {
+        "question": "What is the primary component of the signal captured by a DDA?",
+        "options": [
+            "Light or electrical charge generated by radiation",
+            "Sound vibrations",
+            "Heat",
+            "Chemical changes in the lead"
+        ],
+        "answer": "Light or electrical charge generated by radiation"
+    },
+    {
+        "question": "A 'Bad Pixel' is often handled by:",
+        "options": [
+            "Replacing the pixel with a screwdriver",
+            "Software interpolation from neighboring pixels",
+            "Painting over the monitor",
+            "Buying a new detector every week"
+        ],
+        "answer": "Software interpolation from neighboring pixels"
+    },
+    {
+        "question": "The 'External Control Circuitry' uses what to change the state of the switches?",
+        "options": [
+            "Voltage inputs",
+            "Magnetic fields",
+            "Physical levers",
+            "Sound commands"
+        ],
+        "answer": "Voltage inputs"
+    },
+    {
+        "question": "What is the typical range for system response analysis in Roentgens?",
+        "options": [
+            "0.03 mR to 30 mR",
+            "100 R to 200 R",
+            "0 mR (no radiation)",
+            "1,000 mR only"
+        ],
+        "answer": "0.03 mR to 30 mR"
+    },
+    {
+        "question": "The 'Signal-to-Noise Ratio' (SNR) is generally ____ when the radiation dose is higher.",
+        "options": [
+            "Lower",
+            "Higher (better)",
+            "Identical",
+            "Zero"
+        ],
+        "answer": "Higher (better)"
+    },
+    {
+        "question": "Which of these is a disadvantage of having automatic gain control 'on' during testing?",
+        "options": [
+            "It makes the test too easy",
+            "It masks the true noise and response characteristics of the hardware",
+            "It uses too much electricity",
+            "It creates a loud noise"
+        ],
+        "answer": "It masks the true noise and response characteristics of the hardware"
+    },
+    {
+        "question": "In an active-matrix array, 'conducting' means the switch is:",
+        "options": [
+            "Closed (allowing signal flow)",
+            "Open (blocking signal flow)",
+            "Broken",
+            "Hot"
+        ],
+        "answer": "Closed (allowing signal flow)"
+    },
+    {
+        "question": "The 'Readout' process is:",
+        "options": [
+            "Mechanical",
+            "Electronic",
+            "Chemical",
+            "Acoustic"
+        ],
+        "answer": "Electronic"
+    },
+    {
+        "question": "What is the role of 'external control lines' in Figure 5-8?",
+        "options": [
+            "To carry the image data",
+            "To synchronize the switching of pixel rows",
+            "To protect the detector from radiation",
+            "To measure the specimen thickness"
+        ],
+        "answer": "To synchronize the switching of pixel rows"
+    },
+    {
+        "question": "What happens to the signal in the signal line once the switches in a row are turned off?",
+        "options": [
+            "It stays there forever",
+            "It is cleared to prepare for the next row's signal",
+            "It turns into a JPEG file",
+            "It travels back to the pixel"
+        ],
+        "answer": "It is cleared to prepare for the next row's signal"
+    },
+    {
+        "question": "In DDA technology, the signal is routed to the readout amplifier via:",
+        "options": [
+            "WiFi",
+            "A shared signal line for each column",
+            "A separate wire for every single pixel",
+            "The X-ray tube cable"
+        ],
+        "answer": "A shared signal line for each column"
+    },
+    {
+        "question": "What is the 'characteristic curve' used to evaluate?",
+        "options": [
+            "The age of the system",
+            "The system's linearity and sensitivity across a range of doses",
+            "The weight of the technician",
+            "The brightness of the room"
+        ],
+        "answer": "The system's linearity and sensitivity across a range of doses"
+    },
+    {
+        "question": "Which term describes the conversion of analog signals to digital numbers?",
+        "options": [
+            "A/D conversion",
+            "X-ray production",
+            "Filtering",
+            "Collimation"
+        ],
+        "answer": "A/D conversion"
+    },
+    {
+        "question": "Why is 'Consistency' a major theme in the document?",
+        "options": [
+            "To make the work boring",
+            "To ensure that tests are repeatable and results are reliable",
+            "Because the standards require it for certification",
+            "Both B and C"
+        ],
+        "answer": "Both B and C"
+    },
+    {
+        "question": "What is 'System Response'?",
+        "options": [
+            "How fast a technician answers the phone",
+            "How the detector signal changes in relation to radiation exposure",
+            "The sound the machine makes when it fails",
+            "The warranty service provided by the manufacturer"
+        ],
+        "answer": "How the detector signal changes in relation to radiation exposure"
+    },
+    {
+        "question": "In Figure 5-8, where are the 'Readout Amplifiers' located?",
+        "options": [
+            "Inside each pixel",
+            "At the end of each column's signal line",
+            "In the X-ray tube",
+            "In the lead shielding"
+        ],
+        "answer": "At the end of each column's signal line"
+    },
+    {
+        "question": "What is the function of a 'Signal Line' in a DDA?",
+        "options": [
+            "To provide electricity to the lab",
+            "To transport the electrical charge from the pixels to the electronics",
+            "To hold the detector in place",
+            "To cool the internal switches"
+        ],
+        "answer": "To transport the electrical charge from the pixels to the electronics"
+    },
+    {
+        "question": "What does 'non-conducting (off)' mean for a TFT switch?",
+        "options": [
+            "It is broken",
+            "It is preventing the flow of electrical charge",
+            "It is allowing radiation to pass",
+            "It is saving the file"
+        ],
+        "answer": "It is preventing the flow of electrical charge"
+    },
+    {
+        "question": "According to the manual, when acquiring an image, the array is first:",
+        "options": [
+            "Heated",
+            "Initialized",
+            "Cooled",
+            "Painted"
+        ],
+        "answer": "Initialized"
+    },
+    {
+        "question": "What is the purpose of 'Exposure Timing' management?",
+        "options": [
+            "To make sure everyone gets home on time",
+            "To reduce variability and bias in digital measurements",
+            "To increase the radiation dose",
+            "To make the X-ray tube last longer"
+        ],
+        "answer": "To reduce variability and bias in digital measurements"
+    },
+    {
+        "question": "Which of these is NOT a control factor mentioned for minimizing bias?",
+        "options": [
+            "Automatic gain control",
+            "Exposure timing",
+            "Consistent readout delay",
+            "The color of the computer mouse"
+        ],
+        "answer": "The color of the computer mouse"
+    },
+    {
+        "question": "A/D stands for:",
+        "options": [
+            "Active/Digital",
+            "Analog-to-Digital",
+            "Advanced/Dynamic",
+            "Amorphous/Detector"
+        ],
+        "answer": "Analog-to-Digital"
+    },
+    {
+        "question": "The 'switching control line' uses what to operate the switches?",
+        "options": [
+            "A single voltage input",
+            "A complex code",
+            "Light pulses",
+            "Physical movement"
+        ],
+        "answer": "A single voltage input"
+    },
+    {
+        "question": "In an active-matrix array, signal outputs are digitised and ____.",
+        "options": [
+            "Deleted",
+            "Stored",
+            "Printed",
+            "Mailed"
+        ],
+        "answer": "Stored"
+    },
+    {
+        "question": "What is the typical operational range high end in Sieverts?",
+        "options": [
+            "3 x 10^-5 Sv",
+            "3 x 10^-3 Sv",
+            "30 Sv",
+            "1 Sv"
+        ],
+        "answer": "3 x 10^-3 Sv"
+    },
+    {
+        "question": "Which component manages the sequential line-by-line reading?",
+        "options": [
+            "The operator",
+            "The external control circuitry",
+            "The lead collimator",
+            "The specimen"
+        ],
+        "answer": "The external control circuitry"
+    },
+    {
+        "question": "The 'Sensing Element' in a DDA pixel captures:",
+        "options": [
+            "Radiation or light signal",
+            "Thickness data",
+            "Temperature",
+            "The operator's name"
+        ],
+        "answer": "Radiation or light signal"
+    },
+    {
+        "question": "What is the main advantage of 'direct transmission' of signals in an active-matrix array?",
+        "options": [
+            "It is slower",
+            "It avoids signal loss or interference from transferring between pixels",
+            "It makes the detector cheaper",
+            "It uses vacuum tubes"
+        ],
+        "answer": "It avoids signal loss or interference from transferring between pixels"
+    },
+    {
+        "question": "In digital radiography, 'Dose' refers to:",
+        "options": [
+            "The amount of radiation exposure",
+            "The number of images taken",
+            "The price of the test",
+            "The weight of the lead"
+        ],
+        "answer": "The amount of radiation exposure"
+    },
+    {
+        "question": "What does '3 x 10^-5 Sv' convert to in Roentgens in the text?",
+        "options": [
+            "0.03 mR",
+            "30 mR",
+            "3 mR",
+            "300 mR"
+        ],
+        "answer": "0.03 mR"
+    },
+    {
+        "question": "The 'Readout' process begins ____ the radiation exposure concludes.",
+        "options": [
+            "Before",
+            "Once",
+            "Long before",
+            "Never after"
+        ],
+        "answer": "Once"
+    },
+    {
+        "question": "What does 'Sequential' mean in the context of pixel reading?",
+        "options": [
+            "All at once",
+            "One after another in a specific order",
+            "Randomly",
+            "In reverse alphabetical order"
+        ],
+        "answer": "One after another in a specific order"
+    },
+    {
+        "question": "The 'switching elements' in Figure 5-8 (a) are arranged in:",
+        "options": [
+            "Rows",
+            "Columns",
+            "Both rows and columns (a grid)",
+            "Circles"
+        ],
+        "answer": "Both rows and columns (a grid)"
+    },
+    {
+        "question": "What is the main goal of managing 'automatic gain' during testing?",
+        "options": [
+            "To save time",
+            "To ensure the data reflects the true hardware sensitivity",
+            "To make the file size smaller",
+            "To protect the detector from heat"
+        ],
+        "answer": "To ensure the data reflects the true hardware sensitivity"
+    },
+    {
+        "question": "In RT-D, 'Signal' is the ____ part of the image data.",
+        "options": [
+            "Unwanted",
+            "Useful/Desired",
+            "Heaviest",
+            "Most colorful"
+        ],
+        "answer": "Useful/Desired"
+    },
+    {
+        "question": "Which device 'digitizes' the analog pixel signals?",
+        "options": [
+            "The A/D converter in the external electronics",
+            "The X-ray tube",
+            "The lead collimator",
+            "The technician's smartphone"
+        ],
+        "answer": "The A/D converter in the external electronics"
+    },
+    {
+        "question": "The document suggests 'consistency' to reduce what in measurements?",
+        "options": [
+            "Speed",
+            "Variability",
+            "Cost",
+            "Wait times"
+        ],
+        "answer": "Variability"
+    },
+    {
+        "question": "What controls the 'state' of all switching elements in a single row?",
+        "options": [
+            "The signal line",
+            "A single control line and voltage input",
+            "The readout amplifier",
+            "The pixel itself"
+        ],
+        "answer": "A single control line and voltage input"
+    },
+    {
+        "question": "Why is the signal routed to a shared signal line in a column?",
+        "options": [
+            "To maximize heat",
+            "To allow sequential reading using one amplifier per column",
+            "To make the detector heavier",
+            "To prevent the image from being saved"
+        ],
+        "answer": "To allow sequential reading using one amplifier per column"
+    },
+    {
+        "question": "What happens when a switch is set to the 'on' (conducting) state?",
+        "options": [
+            "Radiation is blocked",
+            "Signal from the pixel flows to the external electronics",
+            "The computer turns off",
+            "The detector case opens"
+        ],
+        "answer": "Signal from the pixel flows to the external electronics"
+    },
+    {
+        "question": "What is '30 mR' expressed in Sieverts in the document?",
+        "options": [
+            "3 x 10^-5 Sv",
+            "3 x 10^-3 Sv",
+            "30 Sv",
+            "0.03 Sv"
+        ],
+        "answer": "3 x 10^-3 Sv"
+    },
+    {
+        "question": "How is the total number of pixels in a detector calculated?",
+        "options": [
+            "Adding horizontal and vertical pixels",
+            "Multiplying horizontal pixels by vertical pixels",
+            "Dividing vertical pixels by horizontal pixels",
+            "Multiplying pixel size by bit depth"
+        ],
+        "answer": "Multiplying horizontal pixels by vertical pixels"
+    },
+    {
+        "question": "To convert the total number of bits into bytes, you must divide by:",
+        "options": [
+            "1024",
+            "8",
+            "16",
+            "2"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Which mathematical operation is used to convert bytes into kilobytes (KB)?",
+        "options": [
+            "Multiply by 8",
+            "Divide by 1024",
+            "Multiply by 1024",
+            "Divide by 8"
+        ],
+        "answer": "Divide by 1024"
+    },
+    {
+        "question": "If a detector has a matrix of 2048 x 2048, what is the total number of pixels?",
+        "options": [
+            "4,096",
+            "2,097,152",
+            "4,194,304",
+            "1,048,576"
+        ],
+        "answer": "4,194,304"
+    },
+    {
+        "question": "According to Table 6-7, what is the bit depth of the XRD 1622 model?",
+        "options": [
+            "8-bit",
+            "12-bit",
+            "14-bit",
+            "16-bit"
+        ],
+        "answer": "14-bit"
+    },
+    {
+        "question": "What is the pixel size of the XRpad 4343 F model as listed in the document?",
+        "options": [
+            "200 μm",
+            "100 μm",
+            "50 μm",
+            "400 μm"
+        ],
+        "answer": "100 μm"
+    },
+    {
+        "question": "What is the matrix size of the XRpad 4343 F?",
+        "options": [
+            "2048 x 2048",
+            "4318 x 4320",
+            "1024 x 1024",
+            "3000 x 3000"
+        ],
+        "answer": "4318 x 4320"
+    },
+    {
+        "question": "How many bits are in 1 byte?",
+        "options": [
+            "4",
+            "8",
+            "12",
+            "16"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Which of these is the first step in determining digital image size?",
+        "options": [
+            "Divide by 1024",
+            "Multiply the number of pixels by the bit depth",
+            "Identify the number of horizontal and vertical pixels",
+            "Convert bits to bytes"
+        ],
+        "answer": "Identify the number of horizontal and vertical pixels"
+    },
+    {
+        "question": "A higher bit depth (e.g., 16-bit vs 14-bit) generally results in:",
+        "options": [
+            "Smaller file sizes",
+            "Larger file sizes",
+            "Lower image quality",
+            "Fewer pixels"
+        ],
+        "answer": "Larger file sizes"
+    },
+    {
+        "question": "Which ISO standard is cited for the evaluation of imperfections in weld quality?",
+        "options": [
+            "ISO 9001",
+            "ISO 5817",
+            "ISO 17636",
+            "ISO 9712"
+        ],
+        "answer": "ISO 5817"
+    },
+    {
+        "question": "Under ISO 5817, Quality Level 'B' corresponds to which type of mechanical stress?",
+        "options": [
+            "Low mechanical stress",
+            "Medium mechanical stress",
+            "High mechanical stress",
+            "No mechanical stress"
+        ],
+        "answer": "High mechanical stress"
+    },
+    {
+        "question": "Which quality level in ISO 5817 is intended for 'low mechanical stress'?",
+        "options": [
+            "Level B",
+            "Level C",
+            "Level D",
+            "Level A"
+        ],
+        "answer": "Level D"
+    },
+    {
+        "question": "Quality Level 'C' in ISO 5817 is designed for:",
+        "options": [
+            "High mechanical stress",
+            "Medium mechanical stress",
+            "Low mechanical stress",
+            "Extreme temperatures"
+        ],
+        "answer": "Medium mechanical stress"
+    },
+    {
+        "question": "What happens to the file size if the bit depth is doubled?",
+        "options": [
+            "It stays the same",
+            "It doubles",
+            "It is halved",
+            "It increases fourfold"
+        ],
+        "answer": "It doubles"
+    },
+    {
+        "question": "A pixel size of 200 μm is _____ than a pixel size of 100 μm.",
+        "options": [
+            "Finer",
+            "Coarser",
+            "Sharper",
+            "Heavier"
+        ],
+        "answer": "Coarser"
+    },
+    {
+        "question": "To calculate the total bits of an image, you multiply the total pixels by the:",
+        "options": [
+            "Pixel size",
+            "Bit depth",
+            "Voltage",
+            "Matrix width"
+        ],
+        "answer": "Bit depth"
+    },
+    {
+        "question": "According to the calculation example, 2048 x 2048 x 14 bits equals how many bytes?",
+        "options": [
+            "7,340,032 Bytes",
+            "4,194,304 Bytes",
+            "58,720,256 Bytes",
+            "1,024,000 Bytes"
+        ],
+        "answer": "7,340,032 Bytes"
+    },
+    {
+        "question": "In the context of ISO 5817, what is a 'Surface pore'?",
+        "options": [
+            "A crack inside the metal",
+            "A gas cavity that breaks the surface of the weld",
+            "A piece of slag trapped deep in the root",
+            "A scratch on the detector"
+        ],
+        "answer": "A gas cavity that breaks the surface of the weld"
+    },
+    {
+        "question": "Why does the manual state that interpretation of ISO 5817 can be difficult?",
+        "options": [
+            "The text is written in too many languages",
+            "When several irregularities are superimposed at a single spot",
+            "Because digital images are always blurry",
+            "Because the standard is outdated"
+        ],
+        "answer": "When several irregularities are superimposed at a single spot"
+    },
+    {
+        "question": "In the image size calculation, 1024 is the divisor used to move from:",
+        "options": [
+            "Bits to Bytes",
+            "Bytes to Kilobytes",
+            "Kilobytes to Megabytes",
+            "Both B and C"
+        ],
+        "answer": "Both B and C"
+    },
+    {
+        "question": "If an image is 8,388,608 bytes, how many megabytes (MB) is it?",
+        "options": [
+            "8 MB",
+            "10 MB",
+            "80 MB",
+            "1024 MB"
+        ],
+        "answer": "8 MB"
+    },
+    {
+        "question": "The acronym ADC stands for:",
+        "options": [
+            "Advanced Digital Camera",
+            "Analog-to-Digital Converter",
+            "Automated Dose Control",
+            "Active Detector Circuit"
+        ],
+        "answer": "Analog-to-Digital Converter"
+    },
+    {
+        "question": "What is the total number of bits for a 16-bit image with 1,000,000 pixels?",
+        "options": [
+            "16,000,000 bits",
+            "1,000,000 bits",
+            "2,000,000 bits",
+            "8,000,000 bits"
+        ],
+        "answer": "16,000,000 bits"
+    },
+    {
+        "question": "Which DDA model in Table 6-7 has the largest matrix size?",
+        "options": [
+            "XRD 1622",
+            "XRpad 4343 F",
+            "Both are the same",
+            "The document does not specify"
+        ],
+        "answer": "XRpad 4343 F"
+    },
+    {
+        "question": "ISO 5817 quality levels are used to define limits for:",
+        "options": [
+            "Radiation dose",
+            "Weld imperfections",
+            "Employee salaries",
+            "Computer processing speed"
+        ],
+        "answer": "Weld imperfections"
+    },
+    {
+        "question": "The term 'μm' stands for:",
+        "options": [
+            "Millimeter",
+            "Micrometer (Micron)",
+            "Megameter",
+            "Minimeter"
+        ],
+        "answer": "Micrometer (Micron)"
+    },
+    {
+        "question": "In Table 9-2, which level represents the most stringent (highest) quality requirements?",
+        "options": [
+            "Level B",
+            "Level C",
+            "Level D",
+            "Level E"
+        ],
+        "answer": "Level B"
+    },
+    {
+        "question": "Imperfections in welds are evaluated based on their:",
+        "options": [
+            "Color",
+            "Characteristics and dimensions relative to the quality level",
+            "Price",
+            "Weight"
+        ],
+        "answer": "Characteristics and dimensions relative to the quality level"
+    },
+    {
+        "question": "Which calculation gives the file size in Kilobytes?",
+        "options": [
+            "Bits / 8",
+            "Bytes / 1024",
+            "Pixels * Bit depth",
+            "Megabytes * 1024"
+        ],
+        "answer": "Bytes / 1024"
+    },
+    {
+        "question": "An image with a bit depth of 14 can store how many gray levels per pixel?",
+        "options": [
+            "256",
+            "1,024",
+            "16,384",
+            "65,536"
+        ],
+        "answer": "16,384"
+    },
+    {
+        "question": "The 'Matrix size' of a detector is usually given in:",
+        "options": [
+            "Kilograms",
+            "Pixels (Horizontal x Vertical)",
+            "Seconds",
+            "Liters"
+        ],
+        "answer": "Pixels (Horizontal x Vertical)"
+    },
+    {
+        "question": "A 16-bit detector has a potential gray scale range of:",
+        "options": [
+            "0 to 255",
+            "0 to 4,095",
+            "0 to 65,535",
+            "0 to 1,023"
+        ],
+        "answer": "0 to 65,535"
+    },
+    {
+        "question": "What is the bit depth of a standard 8-bit image?",
+        "options": [
+            "8",
+            "16",
+            "256",
+            "1024"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "In Table 6-7, the model XRpad 4343 F is associated with which bit depth?",
+        "options": [
+            "14",
+            "16",
+            "8",
+            "12"
+        ],
+        "answer": "16"
+    },
+    {
+        "question": "ISO 5817 Level 'D' is acceptable for which stress level?",
+        "options": [
+            "Low",
+            "Medium",
+            "High",
+            "Very High"
+        ],
+        "answer": "Low"
+    },
+    {
+        "question": "According to the document, 2048 x 2048 x 14 / 8 = ?",
+        "options": [
+            "4,194,304",
+            "7,340,032",
+            "1,048,576",
+            "32,768"
+        ],
+        "answer": "7,340,032"
+    },
+    {
+        "question": "A weld imperfection known as a 'Crack' is listed under which ISO standard?",
+        "options": [
+            "ISO 5817",
+            "ISO 9001",
+            "ISO 14001",
+            "ISO 13485"
+        ],
+        "answer": "ISO 5817"
+    },
+    {
+        "question": "Which of these is a larger file size?",
+        "options": [
+            "1024 Bytes",
+            "1 Kilobyte",
+            "1 Megabyte",
+            "1 bit"
+        ],
+        "answer": "1 Megabyte"
+    },
+    {
+        "question": "The detector's 'Pixel size' determines the system's potential for:",
+        "options": [
+            "Spatial resolution",
+            "Radiation energy",
+            "Exposure time",
+            "Cost reduction"
+        ],
+        "answer": "Spatial resolution"
+    },
+    {
+        "question": "How many bits are there in a 14-bit ADC output?",
+        "options": [
+            "8",
+            "14",
+            "16",
+            "32"
+        ],
+        "answer": "14"
+    },
+    {
+        "question": "Converting Kilobytes to Megabytes requires dividing by:",
+        "options": [
+            "8",
+            "1024",
+            "2048",
+            "60"
+        ],
+        "answer": "1024"
+    },
+    {
+        "question": "A detector with a 100 μm pixel size is ____ than one with 200 μm.",
+        "options": [
+            "Lower resolution",
+            "Higher resolution",
+            "The same resolution",
+            "Twice as large"
+        ],
+        "answer": "Higher resolution"
+    },
+    {
+        "question": "Which quality level is generally required for critical structural components (high stress)?",
+        "options": [
+            "Level B",
+            "Level C",
+            "Level D",
+            "Level Z"
+        ],
+        "answer": "Level B"
+    },
+    {
+        "question": "Total pixels = 4,000,000. Bit depth = 16. What is the total size in bits?",
+        "options": [
+            "4,000,000",
+            "16,000,000",
+            "64,000,000",
+            "8,000,000"
+        ],
+        "answer": "64,000,000"
+    },
+    {
+        "question": "Total bits = 64,000,000. What is the size in bytes?",
+        "options": [
+            "64,000,000",
+            "8,000,000",
+            "1,000,000",
+            "512,000,000"
+        ],
+        "answer": "8,000,000"
+    },
+    {
+        "question": "What is the matrix size of the XRD 1622?",
+        "options": [
+            "1024 x 1024",
+            "2048 x 2048",
+            "4096 x 4096",
+            "512 x 512"
+        ],
+        "answer": "2048 x 2048"
+    },
+    {
+        "question": "Under ISO 5817, what does Level 'C' signify for mechanical stress?",
+        "options": [
+            "High",
+            "Medium",
+            "Low",
+            "Static"
+        ],
+        "answer": "Medium"
+    },
+    {
+        "question": "If an image has 1,048,576 pixels and 16-bit depth, how many KB is it (approx)?",
+        "options": [
+            "1024 KB",
+            "2048 KB",
+            "4096 KB",
+            "512 KB"
+        ],
+        "answer": "2048 KB"
+    },
+    {
+        "question": "In Table 9-2, the evaluation classes are D, C, and:",
+        "options": [
+            "A",
+            "B",
+            "E",
+            "F"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which parameter describes the number of bits used to represent each pixel's color or gray value?",
+        "options": [
+            "Bit depth",
+            "Pixel pitch",
+            "Matrix size",
+            "Exposure time"
+        ],
+        "answer": "Bit depth"
+    },
+    {
+        "question": "What model of DDA is mentioned with 14-bit depth in Table 6-7?",
+        "options": [
+            "XRpad 4343 F",
+            "XRD 1622",
+            "NSI-2000",
+            "DDA-Elite"
+        ],
+        "answer": "XRD 1622"
+    },
+    {
+        "question": "Quality Level 'B' in ISO 5817 is the ____ requirement for imperfections.",
+        "options": [
+            "Most relaxed",
+            "Most stringent",
+            "Average",
+            "Lowest"
+        ],
+        "answer": "Most stringent"
+    },
+    {
+        "question": "To calculate megabytes from bytes, you must divide by 1024:",
+        "options": [
+            "Once",
+            "Twice",
+            "Three times",
+            "Never"
+        ],
+        "answer": "Twice"
+    },
+    {
+        "question": "A 16-bit image uses ____ bytes per pixel.",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is the primary factor in determining file size for a fixed matrix size?",
+        "options": [
+            "Pixel size",
+            "Bit depth",
+            "Material thickness",
+            "Voltage (kV)"
+        ],
+        "answer": "Bit depth"
+    },
+    {
+        "question": "ISO 5817 Level 'D' has the ____ limits for imperfections.",
+        "options": [
+            "Largest/Highest",
+            "Smallest/Lowest",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": "Largest/Highest"
+    },
+    {
+        "question": "Which of these is a weld irregularity mentioned in the ISO 5817 snapshots?",
+        "options": [
+            "Surface pore",
+            "Underfilled cup",
+            "Lead inclusion",
+            "Aluminum foil"
+        ],
+        "answer": "Surface pore"
+    },
+    {
+        "question": "According to Table 6-7, the XRpad 4343 F has a matrix size of approx:",
+        "options": [
+            "4k x 4k",
+            "2k x 2k",
+            "1k x 1k",
+            "8k x 8k"
+        ],
+        "answer": "4k x 4k"
+    },
+    {
+        "question": "What is the byte equivalent of 16 bits?",
+        "options": [
+            "1 Byte",
+            "2 Bytes",
+            "4 Bytes",
+            "16 Bytes"
+        ],
+        "answer": "2 Bytes"
+    },
+    {
+        "question": "If horizontal pixels = 1000 and vertical pixels = 1000, total pixels = ?",
+        "options": [
+            "2000",
+            "1,000,000",
+            "100,000",
+            "500,000"
+        ],
+        "answer": "1,000,000"
+    },
+    {
+        "question": "The total number of gray shades in a 12-bit image is:",
+        "options": [
+            "256",
+            "1024",
+            "4096",
+            "16384"
+        ],
+        "answer": "4096"
+    },
+    {
+        "question": "ISO 5817 Quality Level 'B' stands for:",
+        "options": [
+            "Best",
+            "Basic",
+            "Broad",
+            "Broken"
+        ],
+        "answer": "Best"
+    },
+    {
+        "question": "What is the pixel size of XRD 1622?",
+        "options": [
+            "100 μm",
+            "200 μm",
+            "400 μm",
+            "50 μm"
+        ],
+        "answer": "200 μm"
+    },
+    {
+        "question": "Bit depth is synonymous with which of these in Table 6-7?",
+        "options": [
+            "Pixel size",
+            "ADC depth",
+            "Matrix size",
+            "Model number"
+        ],
+        "answer": "ADC depth"
+    },
+    {
+        "question": "In ISO 5817, Level 'B' implies suitability for which stress?",
+        "options": [
+            "High",
+            "Medium",
+            "Low",
+            "Minimal"
+        ],
+        "answer": "High"
+    },
+    {
+        "question": "An image with 4,194,304 pixels and 16-bit depth is how many megabytes?",
+        "options": [
+            "4 MB",
+            "8 MB",
+            "16 MB",
+            "32 MB"
+        ],
+        "answer": "8 MB"
+    },
+    {
+        "question": "Which level in ISO 5817 allows for the largest 'imperfection' size?",
+        "options": [
+            "B",
+            "C",
+            "D",
+            "They are all the same"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "14-bit data has how many bits?",
+        "options": [
+            "8",
+            "14",
+            "16",
+            "2"
+        ],
+        "answer": "14"
+    },
+    {
+        "question": "Which operation is done in 'Step 3' of image size calculation?",
+        "options": [
+            "Multiply pixels by bit depth",
+            "Divide bits by 8",
+            "Divide bytes by 1024",
+            "Identify the detector model"
+        ],
+        "answer": "Divide bits by 8"
+    },
+    {
+        "question": "The XRpad 4343 F is listed with a pixel size of 100 μm. This is equivalent to:",
+        "options": [
+            "0.1 mm",
+            "1.0 mm",
+            "0.01 mm",
+            "10.0 mm"
+        ],
+        "answer": "0.1 mm"
+    },
+    {
+        "question": "Higher bit depth improves the image's:",
+        "options": [
+            "Weight",
+            "Contrast resolution (dynamic range)",
+            "Horizontal width",
+            "Processing speed"
+        ],
+        "answer": "Contrast resolution (dynamic range)"
+    },
+    {
+        "question": "What does 'Superimposed irregularities' mean?",
+        "options": [
+            "Flaws located in different parts of the weld",
+            "Multiple flaws overlapping at the same location",
+            "Perfectly executed welds",
+            "Flaws that are too small to see"
+        ],
+        "answer": "Multiple flaws overlapping at the same location"
+    },
+    {
+        "question": "How many megabytes are in a gigabyte (approx)?",
+        "options": [
+            "100",
+            "500",
+            "1000",
+            "1024"
+        ],
+        "answer": "1024"
+    },
+    {
+        "question": "What is the byte equivalent of an 8-bit depth image per pixel?",
+        "options": [
+            "1 Byte",
+            "2 Bytes",
+            "4 Bytes",
+            "8 Bytes"
+        ],
+        "answer": "1 Byte"
+    },
+    {
+        "question": "Which DDA in the document provides higher potential spatial resolution?",
+        "options": [
+            "XRD 1622 (200 μm)",
+            "XRpad 4343 F (100 μm)",
+            "They are identical",
+            "Resolution is not related to pixel size"
+        ],
+        "answer": "XRpad 4343 F (100 μm)"
+    },
+    {
+        "question": "Under ISO 5817, what is the 'Quality Level' for medium stress?",
+        "options": [
+            "B",
+            "C",
+            "D",
+            "A"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Total bits / 8 = ?",
+        "options": [
+            "Kilobytes",
+            "Bytes",
+            "Megabytes",
+            "Pixels"
+        ],
+        "answer": "Bytes"
+    },
+    {
+        "question": "The total size of the XRD 1622 image (14-bit) in megabytes is approx:",
+        "options": [
+            "4 MB",
+            "7 MB",
+            "14 MB",
+            "28 MB"
+        ],
+        "answer": "7 MB"
+    },
+    {
+        "question": "If an image is 16 MB, how many bytes is it?",
+        "options": [
+            "16,000",
+            "16,777,216",
+            "1,048,576",
+            "16,000,000"
+        ],
+        "answer": "16,777,216"
+    },
+    {
+        "question": "A pixel pitch (size) of 100 μm means there are how many pixels per millimeter?",
+        "options": [
+            "1",
+            "10",
+            "100",
+            "1000"
+        ],
+        "answer": "10"
+    },
+    {
+        "question": "In Table 9-2, 'Type of mechanical stress' is the factor for determining:",
+        "options": [
+            "The salary of the welder",
+            "The required quality level",
+            "The color of the weld",
+            "The weight of the steel"
+        ],
+        "answer": "The required quality level"
+    },
+    {
+        "question": "Which step in the manual converts bytes to Kilobytes?",
+        "options": [
+            "Step 1",
+            "Step 2",
+            "Step 3",
+            "Step 4"
+        ],
+        "answer": "Step 4"
+    },
+    {
+        "question": "An image with 2048 x 2048 pixels contains how many Megapixels?",
+        "options": [
+            "2 MP",
+            "4 MP",
+            "8 MP",
+            "1 MP"
+        ],
+        "answer": "4 MP"
+    },
+    {
+        "question": "Which quality level would be most difficult to achieve during welding?",
+        "options": [
+            "D",
+            "C",
+            "B",
+            "They are all equal"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "The divisor 8 is used because:",
+        "options": [
+            "There are 8 bits in a byte",
+            "The system is 8-bit",
+            "The detector has 8 panels",
+            "It is the standard for voltage"
+        ],
+        "answer": "There are 8 bits in a byte"
+    },
+    {
+        "question": "To find the size in Megabytes, you divide Kilobytes by:",
+        "options": [
+            "8",
+            "1024",
+            "1000",
+            "2"
+        ],
+        "answer": "1024"
+    },
+    {
+        "question": "If you have 1024 KB, you have exactly:",
+        "options": [
+            "1 MB",
+            "1 GB",
+            "1 Byte",
+            "1024 Megabytes"
+        ],
+        "answer": "1 MB"
+    },
+    {
+        "question": "Which term refers to the horizontal x vertical pixel count?",
+        "options": [
+            "Pixel size",
+            "Matrix size",
+            "Bit depth",
+            "Dynamic range"
+        ],
+        "answer": "Matrix size"
+    },
+    {
+        "question": "A 14-bit image uses more storage than an 8-bit image for the same matrix.",
+        "options": [
+            "True",
+            "False",
+            "Only if it is blue",
+            "Only if it is high voltage"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "ISO 5817 is specifically for 'Limits for imperfections for quality levels' in:",
+        "options": [
+            "Building concrete",
+            "Welding",
+            "Food quality",
+            "Air travel"
+        ],
+        "answer": "Welding"
+    },
+    {
+        "question": "Which quality level is appropriate for high mechanical stress components?",
+        "options": [
+            "D",
+            "C",
+            "B",
+            "X"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Total Bits = (Horizontal Pixels) * (Vertical Pixels) * (_____).",
+        "options": [
+            "Voltage",
+            "Bit Depth",
+            "Pixel Size",
+            "Time"
+        ],
+        "answer": "Bit Depth"
+    },
+    {
+        "question": "File size (Bytes) / 1024 = ?",
+        "options": [
+            "Kilobytes",
+            "Megabytes",
+            "Bits",
+            "Gigabytes"
+        ],
+        "answer": "Kilobytes"
+    },
+    {
+        "question": "How many megabytes is 7,340,032 bytes (approx)?",
+        "options": [
+            "1 MB",
+            "7 MB",
+            "73 MB",
+            "700 MB"
+        ],
+        "answer": "7 MB"
+    },
+    {
+        "question": "Quality Level 'D' corresponds to ____ mechanical stress.",
+        "options": [
+            "Low",
+            "High",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": "Low"
+    },
+    {
+        "question": "Which of these is NOT a step in image size calculation?",
+        "options": [
+            "Identify pixels",
+            "Multiply by bit depth",
+            "Divide by voltage",
+            "Divide by 1024"
+        ],
+        "answer": "Divide by voltage"
+    },
+    {
+        "question": "In Table 9-2, Level 'C' stress is:",
+        "options": [
+            "Low",
+            "Medium",
+            "High",
+            "Very low"
+        ],
+        "answer": "Medium"
+    },
+    {
+        "question": "What is the divisor used to convert bits to bytes?",
+        "options": [
+            "1024",
+            "8",
+            "16",
+            "2"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Which quality level represents the 'medium' requirement?",
+        "options": [
+            "B",
+            "C",
+            "D",
+            "A"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "How is radiographic sensitivity formally defined?",
+        "options": [
+            "The total intensity of the radiation beam",
+            "The ease with which images of small details can be detected",
+            "The speed at which a radiograph is developed",
+            "The thickness of the material being inspected"
+        ],
+        "answer": "The ease with which images of small details can be detected"
+    },
+    {
+        "question": "What does radiographic sensitivity measure within a radiograph?",
+        "options": [
+            "The amount of information contained",
+            "The weight of the material",
+            "The temperature of the radiation source",
+            "The distance between the detector and source"
+        ],
+        "answer": "The amount of information contained"
+    },
+    {
+        "question": "In RT-D, how is sensitivity expressed when measuring a change in thickness (Δw)?",
+        "options": [
+            "As a fixed measurement in millimeters",
+            "As a ratio of the source strength",
+            "As a percentage of the actual sample thickness",
+            "As a value between 0 and 10"
+        ],
+        "answer": "As a percentage of the actual sample thickness"
+    },
+    {
+        "question": "Which of the following sensitivity percentages is considered superior?",
+        "options": [
+            "2%",
+            "5%",
+            "1%",
+            "10%"
+        ],
+        "answer": "1%"
+    },
+    {
+        "question": "What does a lower sensitivity percentage indicate in a radiographic system?",
+        "options": [
+            "The system is less accurate",
+            "The system can detect a much smaller change in thickness",
+            "The radiation dose was too high",
+            "The exposure time was too short"
+        ],
+        "answer": "The system can detect a much smaller change in thickness"
+    },
+    {
+        "question": "What are the primary parameters in Digital Radiography (RT-D)?",
+        "options": [
+            "Voltage, Current, and Time",
+            "SNR, Sensitivity, and Basic Spatial Resolution (SRb)",
+            "Density, Contrast, and Latitude",
+            "Focal spot size, SOD, and ODD"
+        ],
+        "answer": "SNR, Sensitivity, and Basic Spatial Resolution (SRb)"
+    },
+    {
+        "question": "In digital radiography (RT-D), what is the primary influencer of contrast?",
+        "options": [
+            "Film type and development",
+            "The specific detector (DDA or CR)",
+            "The ambient temperature",
+            "The age of the X-ray tube"
+        ],
+        "answer": "The specific detector (DDA or CR)"
+    },
+    {
+        "question": "How is contrast sensitivity improved for Digital Detector Arrays (DDA)?",
+        "options": [
+            "By reducing the integration time",
+            "By increasing the integration time and tube current",
+            "By using a larger pixel size",
+            "By moving the detector further from the source"
+        ],
+        "answer": "By increasing the integration time and tube current"
+    },
+    {
+        "question": "What is a major quality advantage of RT-D regarding post-acquisition?",
+        "options": [
+            "The ability to develop film in daylight",
+            "The use of post-processing software to adjust contrast and brightness",
+            "The elimination of scattered radiation",
+            "The reduction of the actual sample thickness"
+        ],
+        "answer": "The use of post-processing software to adjust contrast and brightness"
+    },
+    {
+        "question": "What term refers to the correlation of grey values across various areas of a digital image?",
+        "options": [
+            "Definition",
+            "Noise",
+            "Radiographic Contrast",
+            "Resolution"
+        ],
+        "answer": "Radiographic Contrast"
+    },
+    {
+        "question": "How is sharpness quantified in digital systems?",
+        "options": [
+            "Through SNR",
+            "Through Basic Spatial Resolution (SRb)",
+            "Through the thickness of the material",
+            "Through the tube voltage"
+        ],
+        "answer": "Through Basic Spatial Resolution (SRb)"
+    },
+    {
+        "question": "What does Basic Spatial Resolution (SRb) indicate in an image?",
+        "options": [
+            "The total area of the detector",
+            "The smallest geometrical detail resolvable",
+            "The maximum radiation dose allowed",
+            "The speed of the digital processor"
+        ],
+        "answer": "The smallest geometrical detail resolvable"
+    },
+    {
+        "question": "What physical factor in a CR reader limits the maximum possible sharpness?",
+        "options": [
+            "The pixel pitch",
+            "The laser spot size",
+            "The thickness of the protective casing",
+            "The weight of the imaging plate"
+        ],
+        "answer": "The laser spot size"
+    },
+    {
+        "question": "Which of these factors still governs Geometrical Unsharpness (Ug) in digital radiography?",
+        "options": [
+            "The type of software used",
+            "Focal spot size, SOD, and ODD",
+            "The color of the detector",
+            "The humidity of the room"
+        ],
+        "answer": "Focal spot size, SOD, and ODD"
+    },
+    {
+        "question": "In RT-D, what does Inherent Unsharpness (Ui) relate to?",
+        "options": [
+            "The vibration of the X-ray tube",
+            "The detector system (e.g., scintillator thickness)",
+            "The movement of the object during exposure",
+            "The quality of the power supply"
+        ],
+        "answer": "The detector system (e.g., scintillator thickness)"
+    },
+    {
+        "question": "What is the digital equivalent of 'graininess' in RT-D?",
+        "options": [
+            "Contrast",
+            "Noise",
+            "Latitude",
+            "Sharpness"
+        ],
+        "answer": "Noise"
+    },
+    {
+        "question": "What is the general effect of higher radiation intensity on Signal-to-Noise Ratio (SNR)?",
+        "options": [
+            "It results in a lower SNR",
+            "It has no effect on SNR",
+            "It generally results in a better (higher) SNR",
+            "It increases the noise but decreases the signal"
+        ],
+        "answer": "It generally results in a better (higher) SNR"
+    },
+    {
+        "question": "Why is Normalized SNR (SNRn) used in digital radiography?",
+        "options": [
+            "To measure the speed of the detector",
+            "To allow for objective quality comparisons across different digital systems",
+            "To calculate the cost of the inspection",
+            "To determine the chemical composition of the sample"
+        ],
+        "answer": "To allow for objective quality comparisons across different digital systems"
+    },
+    {
+        "question": "What does the Contrast-to-Noise Ratio (CNR) evaluate?",
+        "options": [
+            "The total time required for an exposure",
+            "How well a defect stands out against background noise",
+            "The maximum thickness a beam can penetrate",
+            "The angle of the radiation beam"
+        ],
+        "answer": "How well a defect stands out against background noise"
+    },
+    {
+        "question": "According to ASTM, what is the minimum CNR required for valid inspections?",
+        "options": [
+            "1.0",
+            "2.5",
+            "5.0",
+            "10.0"
+        ],
+        "answer": "2.5"
+    },
+    {
+        "question": "What happens to a specimen as radiation energy increases?",
+        "options": [
+            "It becomes more opaque",
+            "It becomes more transparent",
+            "It changes its physical state",
+            "It becomes larger"
+        ],
+        "answer": "It becomes more transparent"
+    },
+    {
+        "question": "How does increasing radiation energy affect the intensity difference (ΔI) between two wall thicknesses?",
+        "options": [
+            "The intensity difference increases",
+            "The intensity difference stays the same",
+            "The intensity difference decreases",
+            "The intensity difference disappears completely"
+        ],
+        "answer": "The intensity difference decreases"
+    },
+    {
+        "question": "Low energy in radiography is associated with which of the following?",
+        "options": [
+            "Low Contrast",
+            "High Contrast",
+            "High Noise",
+            "Low Sensitivity"
+        ],
+        "answer": "High Contrast"
+    },
+    {
+        "question": "What is the consequence of 'Poor flaw visibility' in high-energy radiography?",
+        "options": [
+            "Increased transparency and reduced ΔI",
+            "Decreased transparency and increased ΔI",
+            "Higher SNR",
+            "Better spatial resolution"
+        ],
+        "answer": "Increased transparency and reduced ΔI"
+    },
+    {
+        "question": "Why is 'More is better' described as the wrong approach for tube voltage adjustment?",
+        "options": [
+            "It damages the detector",
+            "High voltage reduces the perceptibility of flaws by decreasing contrast",
+            "It makes the image too dark to see",
+            "It requires too much electricity"
+        ],
+        "answer": "High voltage reduces the perceptibility of flaws by decreasing contrast"
+    },
+    {
+        "question": "What does ΔI represent in the context of radiographic contrast?",
+        "options": [
+            "The total thickness of the material",
+            "The difference in attenuated primary radiation intensity",
+            "The distance of the flaw from the surface",
+            "The time it takes for the signal to reach the computer"
+        ],
+        "answer": "The difference in attenuated primary radiation intensity"
+    },
+    {
+        "question": "What is Total Intensity (It) in digital radiography?",
+        "options": [
+            "The strength of the X-ray tube",
+            "The sum of attenuated primary radiation (Ip) and scattered radiation (Is)",
+            "The total weight of the specimen",
+            "The duration of the radiation burst"
+        ],
+        "answer": "The sum of attenuated primary radiation (Ip) and scattered radiation (Is)"
+    },
+    {
+        "question": "In the formula Cr = ΔI / It, what does a higher Cr value mean?",
+        "options": [
+            "The image is blurrier",
+            "The flaw is more visible",
+            "The radiation dose was lower",
+            "The detector is overheating"
+        ],
+        "answer": "The flaw is more visible"
+    },
+    {
+        "question": "What is the Scatter Ratio (k)?",
+        "options": [
+            "The ratio of primary radiation to secondary radiation",
+            "The amount of scattered radiation (Is) relative to primary radiation (Ip)",
+            "The speed of scattered particles",
+            "The angle at which radiation scatters"
+        ],
+        "answer": "The amount of scattered radiation (Is) relative to primary radiation (Ip)"
+    },
+    {
+        "question": "How does scatter radiation affect radiographic images?",
+        "options": [
+            "It increases contrast",
+            "It reduces contrast and makes details harder to distinguish",
+            "It makes the image sharper",
+            "It has no effect on image quality"
+        ],
+        "answer": "It reduces contrast and makes details harder to distinguish"
+    },
+    {
+        "question": "What is the relationship between radiographic contrast and the scatter ratio?",
+        "options": [
+            "Directly proportional",
+            "Inversely proportional",
+            "They are unrelated",
+            "Logarithmic"
+        ],
+        "answer": "Inversely proportional"
+    },
+    {
+        "question": "What are the three factors that directly influence radiation contrast?",
+        "options": [
+            "Voltage, Current, and Time",
+            "Attenuation coefficients difference, flaw dimension, and scatter ratio",
+            "Pixel size, Scintillator thickness, and Laser spot size",
+            "Focal spot, SOD, and ODD"
+        ],
+        "answer": "Attenuation coefficients difference, flaw dimension, and scatter ratio"
+    },
+    {
+        "question": "What is a common method to diminish the scatter ratio?",
+        "options": [
+            "Increasing the tube current",
+            "Collimating the primary beam",
+            "Using a larger detector",
+            "Increasing the exposure time"
+        ],
+        "answer": "Collimating the primary beam"
+    },
+    {
+        "question": "What is the 'Build up factor' (1 + k)?",
+        "options": [
+            "A measure of how fast the detector warms up",
+            "The factor by which scattered radiation intensifies the image of primary radiation",
+            "The ratio of successful inspections to failed ones",
+            "The number of pixels in a DDA"
+        ],
+        "answer": "The factor by which scattered radiation intensifies the image of primary radiation"
+    },
+    {
+        "question": "For which type of inspection is considering the build up factor particularly important?",
+        "options": [
+            "Pipe welds",
+            "Casting inspection with different wall thicknesses",
+            "Thin plastic sheets",
+            "Circuit boards"
+        ],
+        "answer": "Casting inspection with different wall thicknesses"
+    },
+    {
+        "question": "The visibility of IQIs and small flaws depends primarily on what?",
+        "options": [
+            "The cost of the equipment",
+            "The Specific Contrast (Cs)",
+            "The ambient light in the room",
+            "The size of the computer monitor"
+        ],
+        "answer": "The Specific Contrast (Cs)"
+    },
+    {
+        "question": "In the context of noise, what is 'deviation around the mean value' called?",
+        "options": [
+            "Contrast",
+            "Noise",
+            "Signal",
+            "Resolution"
+        ],
+        "answer": "Noise"
+    },
+    {
+        "question": "Image quality is directly associated with the number of what interacting with the imaging system?",
+        "options": [
+            "Image quanta",
+            "Software updates",
+            "Physical pixels",
+            "Technicians"
+        ],
+        "answer": "Image quanta"
+    },
+    {
+        "question": "In a scintillating phosphorus, radiation is converted into what type of quanta?",
+        "options": [
+            "Heat quanta",
+            "Optical quanta",
+            "Electrical quanta",
+            "Sound quanta"
+        ],
+        "answer": "Optical quanta"
+    },
+    {
+        "question": "What indicates the 'graininess' in digital radiography?",
+        "options": [
+            "High resolution",
+            "Noise",
+            "Brightness",
+            "Sharpness"
+        ],
+        "answer": "Noise"
+    },
+    {
+        "question": "What is the primary factor affecting Radiographic Definition (Sharpness) in terms of pixel architecture?",
+        "options": [
+            "Pixel color",
+            "Pixel pitch",
+            "Pixel brightness",
+            "Pixel weight"
+        ],
+        "answer": "Pixel pitch"
+    },
+    {
+        "question": "Which component is an 'influencing factor' for Noise Levels according to the summary table?",
+        "options": [
+            "Focal spot size",
+            "Radiation dose",
+            "Post-processing",
+            "Beam quality"
+        ],
+        "answer": "Radiation dose"
+    },
+    {
+        "question": "What factor influences Radiographic Contrast according to the summary table?",
+        "options": [
+            "Pixel pitch",
+            "Integration time",
+            "Calibration quality",
+            "ODD/SDD"
+        ],
+        "answer": "Integration time"
+    },
+    {
+        "question": "What is the influencing factor for Basic Spatial Resolution (SRb) related to the detector?",
+        "options": [
+            "Radiation dose",
+            "Scintillator thickness",
+            "Tube current",
+            "Software version"
+        ],
+        "answer": "Scintillator thickness"
+    },
+    {
+        "question": "Specific contrast (Cs) is a useful approach for inspecting what types of flaws?",
+        "options": [
+            "Only very deep cracks",
+            "Flaws that are not deep, like air bubbles or gaseous voids",
+            "Surface rust only",
+            "Large structural bends"
+        ],
+        "answer": "Flaws that are not deep, like air bubbles or gaseous voids"
+    },
+    {
+        "question": "How is the total intensity (It) calculated behind a specimen?",
+        "options": [
+            "Ip / Is",
+            "Ip + Is",
+            "Ip * Is",
+            "Ip - Is"
+        ],
+        "answer": "Ip + Is"
+    },
+    {
+        "question": "What does a lower SNR generally lead to?",
+        "options": [
+            "Better image quality",
+            "Lower image quality",
+            "Faster processing times",
+            "Higher contrast"
+        ],
+        "answer": "Lower image quality"
+    },
+    {
+        "question": "In digital radiography, 'window and level' adjustments refer to what?",
+        "options": [
+            "Adjusting the physical height of the detector",
+            "Adjusting contrast and brightness after acquisition",
+            "Opening the window for better ventilation",
+            "Cleaning the surface of the specimen"
+        ],
+        "answer": "Adjusting contrast and brightness after acquisition"
+    },
+    {
+        "question": "What happens if an imaging system is not optimally designed?",
+        "options": [
+            "It will always produce perfect images",
+            "Additional factors can degrade image quality",
+            "It will automatically fix itself",
+            "The radiation dose will decrease"
+        ],
+        "answer": "Additional factors can degrade image quality"
+    },
+    {
+        "question": "What does the abbreviation RT-D stand for?",
+        "options": [
+            "Real-Time Detection",
+            "Radiographic Testing - Digital",
+            "Radiation Technology - Design",
+            "Remote Testing - Diagnostic"
+        ],
+        "answer": "Radiographic Testing - Digital"
+    }
+]

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Textbook based Quiz</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <script>console.log(sessionStorage.getItem('count'));</script>
+        <h1>Textbook Quiz</h1>
+        <div class="back-link">
+            <a href="../">← Back to Categories</a>
+        </div>
+        <div id="quiz-container">
+            <div id="loading-message">Loading quiz data...</div>
+
+            <div id="question-area" style="display: none;">
+                <div id="score-status" class="score-display"></div>
+
+                <div id="question-text"></div>
+                <div id="options-container" class="options-grid"></div>
+
+                <div id="feedback-message" class="feedback"></div>
+
+                <div id="controls">
+                    <button id="prev-btn" disabled>Previous</button>
+                    <span id="q-number"></span>
+                    <button id="next-btn">Next</button>
+                    <button id="submit-btn">Submit Quiz</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="result-container" style="display:none;">
+            <h2>Quiz Results</h2>
+            <p id="score-text"></p>
+            <button onclick="location.reload()">Retake Quiz</button>
+        </div>
+    </div>
+
+    <script src="../../logic/quiz.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NDT Categories</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <script>sessionStorage.setItem('count', 100)</script>
+    <div class="container">
+        <h1>Non-Destructive Testing (NDT)</h1>
+        <div class="back-link">
+            <a href="../">← Back to Main Menu</a>
+        </div>
+        <p>Choose a specific quiz based on the syllabus.</p>
+        <form action="quiz.html" method="GET" class="selection-form">
+            <div class="selection-box">
+                <label for="question-count">Select Number of Questions:</label>
+                <select id="question-count" onchange="sessionStorage.setItem('count', value)">
+                    <option value="10">10 Questions</option>
+                    <option value="25">25 Questions</option>
+                    <option value="50">50 Questions</option>
+                    <option value="100" selected>100 Questions (Full)</option>
+                </select>
+            </div>
+        </form>
+        <div class="navigation-grid">
+            <a href="Image-Quality/" class="nav-button primary" id="image-quality">
+                Image Quality
+            </a>
+        </div>
+        <div class="navigation-grid">
+            <a href="Textbook/" class="nav-button primary" id="textbook">
+                Textbook based quiz
+            </a>
+        </div>
+        <div class="navigation-grid">
+            <a href="All" class="nav-button primary" id="combined">
+                Image Quality and Textbook combined
+            </a>
+        </div>
+    </div>
+</body>
+
+</html>

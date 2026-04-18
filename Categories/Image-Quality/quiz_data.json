@@ -1,0 +1,502 @@
+[
+    {
+        "question": "How is radiographic sensitivity formally defined?",
+        "options": [
+            "The total intensity of the radiation beam",
+            "The ease with which images of small details can be detected",
+            "The speed at which a radiograph is developed",
+            "The thickness of the material being inspected"
+        ],
+        "answer": "The ease with which images of small details can be detected"
+    },
+    {
+        "question": "What does radiographic sensitivity measure within a radiograph?",
+        "options": [
+            "The amount of information contained",
+            "The weight of the material",
+            "The temperature of the radiation source",
+            "The distance between the detector and source"
+        ],
+        "answer": "The amount of information contained"
+    },
+    {
+        "question": "In RT-D, how is sensitivity expressed when measuring a change in thickness (Δw)?",
+        "options": [
+            "As a fixed measurement in millimeters",
+            "As a ratio of the source strength",
+            "As a percentage of the actual sample thickness",
+            "As a value between 0 and 10"
+        ],
+        "answer": "As a percentage of the actual sample thickness"
+    },
+    {
+        "question": "Which of the following sensitivity percentages is considered superior?",
+        "options": [
+            "2%",
+            "5%",
+            "1%",
+            "10%"
+        ],
+        "answer": "1%"
+    },
+    {
+        "question": "What does a lower sensitivity percentage indicate in a radiographic system?",
+        "options": [
+            "The system is less accurate",
+            "The system can detect a much smaller change in thickness",
+            "The radiation dose was too high",
+            "The exposure time was too short"
+        ],
+        "answer": "The system can detect a much smaller change in thickness"
+    },
+    {
+        "question": "What are the primary parameters in Digital Radiography (RT-D)?",
+        "options": [
+            "Voltage, Current, and Time",
+            "SNR, Sensitivity, and Basic Spatial Resolution (SRb)",
+            "Density, Contrast, and Latitude",
+            "Focal spot size, SOD, and ODD"
+        ],
+        "answer": "SNR, Sensitivity, and Basic Spatial Resolution (SRb)"
+    },
+    {
+        "question": "In digital radiography (RT-D), what is the primary influencer of contrast?",
+        "options": [
+            "Film type and development",
+            "The specific detector (DDA or CR)",
+            "The ambient temperature",
+            "The age of the X-ray tube"
+        ],
+        "answer": "The specific detector (DDA or CR)"
+    },
+    {
+        "question": "How is contrast sensitivity improved for Digital Detector Arrays (DDA)?",
+        "options": [
+            "By reducing the integration time",
+            "By increasing the integration time and tube current",
+            "By using a larger pixel size",
+            "By moving the detector further from the source"
+        ],
+        "answer": "By increasing the integration time and tube current"
+    },
+    {
+        "question": "What is a major quality advantage of RT-D regarding post-acquisition?",
+        "options": [
+            "The ability to develop film in daylight",
+            "The use of post-processing software to adjust contrast and brightness",
+            "The elimination of scattered radiation",
+            "The reduction of the actual sample thickness"
+        ],
+        "answer": "The use of post-processing software to adjust contrast and brightness"
+    },
+    {
+        "question": "What term refers to the correlation of grey values across various areas of a digital image?",
+        "options": [
+            "Definition",
+            "Noise",
+            "Radiographic Contrast",
+            "Resolution"
+        ],
+        "answer": "Radiographic Contrast"
+    },
+    {
+        "question": "How is sharpness quantified in digital systems?",
+        "options": [
+            "Through SNR",
+            "Through Basic Spatial Resolution (SRb)",
+            "Through the thickness of the material",
+            "Through the tube voltage"
+        ],
+        "answer": "Through Basic Spatial Resolution (SRb)"
+    },
+    {
+        "question": "What does Basic Spatial Resolution (SRb) indicate in an image?",
+        "options": [
+            "The total area of the detector",
+            "The smallest geometrical detail resolvable",
+            "The maximum radiation dose allowed",
+            "The speed of the digital processor"
+        ],
+        "answer": "The smallest geometrical detail resolvable"
+    },
+    {
+        "question": "What physical factor in a CR reader limits the maximum possible sharpness?",
+        "options": [
+            "The pixel pitch",
+            "The laser spot size",
+            "The thickness of the protective casing",
+            "The weight of the imaging plate"
+        ],
+        "answer": "The laser spot size"
+    },
+    {
+        "question": "Which of these factors still governs Geometrical Unsharpness (Ug) in digital radiography?",
+        "options": [
+            "The type of software used",
+            "Focal spot size, SOD, and ODD",
+            "The color of the detector",
+            "The humidity of the room"
+        ],
+        "answer": "Focal spot size, SOD, and ODD"
+    },
+    {
+        "question": "In RT-D, what does Inherent Unsharpness (Ui) relate to?",
+        "options": [
+            "The vibration of the X-ray tube",
+            "The detector system (e.g., scintillator thickness)",
+            "The movement of the object during exposure",
+            "The quality of the power supply"
+        ],
+        "answer": "The detector system (e.g., scintillator thickness)"
+    },
+    {
+        "question": "What is the digital equivalent of 'graininess' in RT-D?",
+        "options": [
+            "Contrast",
+            "Noise",
+            "Latitude",
+            "Sharpness"
+        ],
+        "answer": "Noise"
+    },
+    {
+        "question": "What is the general effect of higher radiation intensity on Signal-to-Noise Ratio (SNR)?",
+        "options": [
+            "It results in a lower SNR",
+            "It has no effect on SNR",
+            "It generally results in a better (higher) SNR",
+            "It increases the noise but decreases the signal"
+        ],
+        "answer": "It generally results in a better (higher) SNR"
+    },
+    {
+        "question": "Why is Normalized SNR (SNRn) used in digital radiography?",
+        "options": [
+            "To measure the speed of the detector",
+            "To allow for objective quality comparisons across different digital systems",
+            "To calculate the cost of the inspection",
+            "To determine the chemical composition of the sample"
+        ],
+        "answer": "To allow for objective quality comparisons across different digital systems"
+    },
+    {
+        "question": "What does the Contrast-to-Noise Ratio (CNR) evaluate?",
+        "options": [
+            "The total time required for an exposure",
+            "How well a defect stands out against background noise",
+            "The maximum thickness a beam can penetrate",
+            "The angle of the radiation beam"
+        ],
+        "answer": "How well a defect stands out against background noise"
+    },
+    {
+        "question": "According to ASTM, what is the minimum CNR required for valid inspections?",
+        "options": [
+            "1.0",
+            "2.5",
+            "5.0",
+            "10.0"
+        ],
+        "answer": "2.5"
+    },
+    {
+        "question": "What happens to a specimen as radiation energy increases?",
+        "options": [
+            "It becomes more opaque",
+            "It becomes more transparent",
+            "It changes its physical state",
+            "It becomes larger"
+        ],
+        "answer": "It becomes more transparent"
+    },
+    {
+        "question": "How does increasing radiation energy affect the intensity difference (ΔI) between two wall thicknesses?",
+        "options": [
+            "The intensity difference increases",
+            "The intensity difference stays the same",
+            "The intensity difference decreases",
+            "The intensity difference disappears completely"
+        ],
+        "answer": "The intensity difference decreases"
+    },
+    {
+        "question": "Low energy in radiography is associated with which of the following?",
+        "options": [
+            "Low Contrast",
+            "High Contrast",
+            "High Noise",
+            "Low Sensitivity"
+        ],
+        "answer": "High Contrast"
+    },
+    {
+        "question": "What is the consequence of 'Poor flaw visibility' in high-energy radiography?",
+        "options": [
+            "Increased transparency and reduced ΔI",
+            "Decreased transparency and increased ΔI",
+            "Higher SNR",
+            "Better spatial resolution"
+        ],
+        "answer": "Increased transparency and reduced ΔI"
+    },
+    {
+        "question": "Why is 'More is better' described as the wrong approach for tube voltage adjustment?",
+        "options": [
+            "It damages the detector",
+            "High voltage reduces the perceptibility of flaws by decreasing contrast",
+            "It makes the image too dark to see",
+            "It requires too much electricity"
+        ],
+        "answer": "High voltage reduces the perceptibility of flaws by decreasing contrast"
+    },
+    {
+        "question": "What does ΔI represent in the context of radiographic contrast?",
+        "options": [
+            "The total thickness of the material",
+            "The difference in attenuated primary radiation intensity",
+            "The distance of the flaw from the surface",
+            "The time it takes for the signal to reach the computer"
+        ],
+        "answer": "The difference in attenuated primary radiation intensity"
+    },
+    {
+        "question": "What is Total Intensity (It) in digital radiography?",
+        "options": [
+            "The strength of the X-ray tube",
+            "The sum of attenuated primary radiation (Ip) and scattered radiation (Is)",
+            "The total weight of the specimen",
+            "The duration of the radiation burst"
+        ],
+        "answer": "The sum of attenuated primary radiation (Ip) and scattered radiation (Is)"
+    },
+    {
+        "question": "In the formula Cr = ΔI / It, what does a higher Cr value mean?",
+        "options": [
+            "The image is blurrier",
+            "The flaw is more visible",
+            "The radiation dose was lower",
+            "The detector is overheating"
+        ],
+        "answer": "The flaw is more visible"
+    },
+    {
+        "question": "What is the Scatter Ratio (k)?",
+        "options": [
+            "The ratio of primary radiation to secondary radiation",
+            "The amount of scattered radiation (Is) relative to primary radiation (Ip)",
+            "The speed of scattered particles",
+            "The angle at which radiation scatters"
+        ],
+        "answer": "The amount of scattered radiation (Is) relative to primary radiation (Ip)"
+    },
+    {
+        "question": "How does scatter radiation affect radiographic images?",
+        "options": [
+            "It increases contrast",
+            "It reduces contrast and makes details harder to distinguish",
+            "It makes the image sharper",
+            "It has no effect on image quality"
+        ],
+        "answer": "It reduces contrast and makes details harder to distinguish"
+    },
+    {
+        "question": "What is the relationship between radiographic contrast and the scatter ratio?",
+        "options": [
+            "Directly proportional",
+            "Inversely proportional",
+            "They are unrelated",
+            "Logarithmic"
+        ],
+        "answer": "Inversely proportional"
+    },
+    {
+        "question": "What are the three factors that directly influence radiation contrast?",
+        "options": [
+            "Voltage, Current, and Time",
+            "Attenuation coefficients difference, flaw dimension, and scatter ratio",
+            "Pixel size, Scintillator thickness, and Laser spot size",
+            "Focal spot, SOD, and ODD"
+        ],
+        "answer": "Attenuation coefficients difference, flaw dimension, and scatter ratio"
+    },
+    {
+        "question": "What is a common method to diminish the scatter ratio?",
+        "options": [
+            "Increasing the tube current",
+            "Collimating the primary beam",
+            "Using a larger detector",
+            "Increasing the exposure time"
+        ],
+        "answer": "Collimating the primary beam"
+    },
+    {
+        "question": "What is the 'Build up factor' (1 + k)?",
+        "options": [
+            "A measure of how fast the detector warms up",
+            "The factor by which scattered radiation intensifies the image of primary radiation",
+            "The ratio of successful inspections to failed ones",
+            "The number of pixels in a DDA"
+        ],
+        "answer": "The factor by which scattered radiation intensifies the image of primary radiation"
+    },
+    {
+        "question": "For which type of inspection is considering the build up factor particularly important?",
+        "options": [
+            "Pipe welds",
+            "Casting inspection with different wall thicknesses",
+            "Thin plastic sheets",
+            "Circuit boards"
+        ],
+        "answer": "Casting inspection with different wall thicknesses"
+    },
+    {
+        "question": "The visibility of IQIs and small flaws depends primarily on what?",
+        "options": [
+            "The cost of the equipment",
+            "The Specific Contrast (Cs)",
+            "The ambient light in the room",
+            "The size of the computer monitor"
+        ],
+        "answer": "The Specific Contrast (Cs)"
+    },
+    {
+        "question": "In the context of noise, what is 'deviation around the mean value' called?",
+        "options": [
+            "Contrast",
+            "Noise",
+            "Signal",
+            "Resolution"
+        ],
+        "answer": "Noise"
+    },
+    {
+        "question": "Image quality is directly associated with the number of what interacting with the imaging system?",
+        "options": [
+            "Image quanta",
+            "Software updates",
+            "Physical pixels",
+            "Technicians"
+        ],
+        "answer": "Image quanta"
+    },
+    {
+        "question": "In a scintillating phosphorus, radiation is converted into what type of quanta?",
+        "options": [
+            "Heat quanta",
+            "Optical quanta",
+            "Electrical quanta",
+            "Sound quanta"
+        ],
+        "answer": "Optical quanta"
+    },
+    {
+        "question": "What indicates the 'graininess' in digital radiography?",
+        "options": [
+            "High resolution",
+            "Noise",
+            "Brightness",
+            "Sharpness"
+        ],
+        "answer": "Noise"
+    },
+    {
+        "question": "What is the primary factor affecting Radiographic Definition (Sharpness) in terms of pixel architecture?",
+        "options": [
+            "Pixel color",
+            "Pixel pitch",
+            "Pixel brightness",
+            "Pixel weight"
+        ],
+        "answer": "Pixel pitch"
+    },
+    {
+        "question": "Which component is an 'influencing factor' for Noise Levels according to the summary table?",
+        "options": [
+            "Focal spot size",
+            "Radiation dose",
+            "Post-processing",
+            "Beam quality"
+        ],
+        "answer": "Radiation dose"
+    },
+    {
+        "question": "What factor influences Radiographic Contrast according to the summary table?",
+        "options": [
+            "Pixel pitch",
+            "Integration time",
+            "Calibration quality",
+            "ODD/SDD"
+        ],
+        "answer": "Integration time"
+    },
+    {
+        "question": "What is the influencing factor for Basic Spatial Resolution (SRb) related to the detector?",
+        "options": [
+            "Radiation dose",
+            "Scintillator thickness",
+            "Tube current",
+            "Software version"
+        ],
+        "answer": "Scintillator thickness"
+    },
+    {
+        "question": "Specific contrast (Cs) is a useful approach for inspecting what types of flaws?",
+        "options": [
+            "Only very deep cracks",
+            "Flaws that are not deep, like air bubbles or gaseous voids",
+            "Surface rust only",
+            "Large structural bends"
+        ],
+        "answer": "Flaws that are not deep, like air bubbles or gaseous voids"
+    },
+    {
+        "question": "How is the total intensity (It) calculated behind a specimen?",
+        "options": [
+            "Ip / Is",
+            "Ip + Is",
+            "Ip * Is",
+            "Ip - Is"
+        ],
+        "answer": "Ip + Is"
+    },
+    {
+        "question": "What does a lower SNR generally lead to?",
+        "options": [
+            "Better image quality",
+            "Lower image quality",
+            "Faster processing times",
+            "Higher contrast"
+        ],
+        "answer": "Lower image quality"
+    },
+    {
+        "question": "In digital radiography, 'window and level' adjustments refer to what?",
+        "options": [
+            "Adjusting the physical height of the detector",
+            "Adjusting contrast and brightness after acquisition",
+            "Opening the window for better ventilation",
+            "Cleaning the surface of the specimen"
+        ],
+        "answer": "Adjusting contrast and brightness after acquisition"
+    },
+    {
+        "question": "What happens if an imaging system is not optimally designed?",
+        "options": [
+            "It will always produce perfect images",
+            "Additional factors can degrade image quality",
+            "It will automatically fix itself",
+            "The radiation dose will decrease"
+        ],
+        "answer": "Additional factors can degrade image quality"
+    },
+    {
+        "question": "What does the abbreviation RT-D stand for?",
+        "options": [
+            "Real-Time Detection",
+            "Radiographic Testing - Digital",
+            "Radiation Technology - Design",
+            "Remote Testing - Diagnostic"
+        ],
+        "answer": "Radiographic Testing - Digital"
+    }
+]
