@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "What is the specific focus of ISO 20769-1?",
+        "options": [
+            "Radiography of butt welds",
+            "Tangential radiographic inspection of corrosion and deposits in pipes",
+            "Ultrasonic testing of pipe laminations",
+            "Double-wall thickness testing of valves"
+        ],
+        "answer": "Tangential radiographic inspection of corrosion and deposits in pipes"
+    },
+    {
+        "question": "In ISO 20769-1, 'Tangential Radiography' is primarily used to measure:",
+        "options": [
+            "The length of the pipe",
+            "The remaining wall thickness and internal/external deposits",
+            "The chemical composition of the steel",
+            "The surface roughness of the paint"
+        ],
+        "answer": "The remaining wall thickness and internal/external deposits"
+    },
+    {
+        "question": "The tangential technique is most effective for viewing:",
+        "options": [
+            "The center of the pipe",
+            "The pipe wall profile (edge) in the path of the radiation beam",
+            "The microstructure of the weld",
+            "The pressure rating of the flange"
+        ],
+        "answer": "The pipe wall profile (edge) in the path of the radiation beam"
+    },
+    {
+        "question": "What does 'External Diameter' (De) refer to in this standard?",
+        "options": [
+            "The distance between the source and detector",
+            "The nominal outside diameter of the pipe",
+            "The thickness of the insulation",
+            "The length of the weld"
+        ],
+        "answer": "The nominal outside diameter of the pipe"
+    },
+    {
+        "question": "Which parameter is abbreviated as 'tw' in ISO 20769-1?",
+        "options": [
+            "Total width",
+            "Nominal wall thickness",
+            "Testing week",
+            "Tube weight"
+        ],
+        "answer": "Nominal wall thickness"
+    },
+    {
+        "question": "A 'Comparator' or 'Reference Object' is used in tangential RT to:",
+        "options": [
+            "Keep the pipe from rolling",
+            "Provide a known dimension for scaling and thickness calibration",
+            "Block the radiation entirely",
+            "Measure the temperature of the pipe"
+        ],
+        "answer": "Provide a known dimension for scaling and thickness calibration"
+    },
+    {
+        "question": "What is the 'Magnification Factor' (M) for a tangential radiograph?",
+        "options": [
+            "M = De / tw",
+            "M = SDD / SOD",
+            "M = SOD / SDD",
+            "M = SDD + SOD"
+        ],
+        "answer": "M = SDD / SOD"
+    },
+    {
+        "question": "In the context of ISO 20769-1, 'SOD' stands for:",
+        "options": [
+            "Signal on Detector",
+            "Source-to-Object Distance",
+            "Standard Operating Diameter",
+            "System Output Delay"
+        ],
+        "answer": "Source-to-Object Distance"
+    },
+    {
+        "question": "For accurate tangential measurement, where should the 'Reference Object' be placed?",
+        "options": [
+            "On top of the X-ray tube",
+            "As close to the central plane of the pipe as possible",
+            "Inside the detector cover",
+            "On the floor under the pipe"
+        ],
+        "answer": "As close to the central plane of the pipe as possible"
+    },
+    {
+        "question": "If a pipe has insulation, the 'Tangential Technique' allows for inspection:",
+        "options": [
+            "Only after removing the insulation",
+            "Without removing the insulation (In-situ)",
+            "Only if the insulation is made of lead",
+            "Only if the pipe is empty"
+        ],
+        "answer": "Without removing the insulation (In-situ)"
+    },
+    {
+        "question": "What is 'Scale Correction'?",
+        "options": [
+            "Adjusting the weight of the pipe",
+            "Correcting the measured dimension based on the magnification of a reference object",
+            "Changing the color of the digital image",
+            "Cleaning the detector"
+        ],
+        "answer": "Correcting the measured dimension based on the magnification of a reference object"
+    },
+    {
+        "question": "Which radiation source is typically used for very small diameter pipes (e.g., < 50mm)?",
+        "options": [
+            "Cobalt-60",
+            "X-ray (Low energy)",
+            "Iridium-192",
+            "Natural sunlight"
+        ],
+        "answer": "X-ray (Low energy)"
+    },
+    {
+        "question": "What is 'b' in the geometric unsharpness formula (Ug = d * b / f)?",
+        "options": [
+            "The distance from the source to the detector",
+            "The distance from the object's center to the detector",
+            "The diameter of the pipe",
+            "The thickness of the lead screen"
+        ],
+        "answer": "The distance from the object's center to the detector"
+    },
+    {
+        "question": "In tangential radiography, the 'Geometric Unsharpness' (Ug) should be:",
+        "options": [
+            "As high as possible",
+            "Minimized to ensure a sharp edge for measurement",
+            "Equal to the pipe diameter",
+            "Exactly 1.0 mm"
+        ],
+        "answer": "Minimized to ensure a sharp edge for measurement"
+    },
+    {
+        "question": "A 'Reference Ball' used as a comparator is usually made of:",
+        "options": [
+            "Plastic",
+            "Steel or Tungsten (high density/known size)",
+            "Wood",
+            "Glass"
+        ],
+        "answer": "Steel or Tungsten (high density/known size)"
+    },
+    {
+        "question": "When measuring remaining wall thickness, the 'tangential point' is where the radiation beam is ____ to the inner/outer surface.",
+        "options": [
+            "Perpendicular",
+            "Parallel (Tangent)",
+            "At a 45-degree angle",
+            "Blocked"
+        ],
+        "answer": "Parallel (Tangent)"
+    },
+    {
+        "question": "ISO 20769-1 Class A refers to:",
+        "options": [
+            "Basic techniques for tangential RT",
+            "Techniques for underwater pipes only",
+            "Film-only techniques",
+            "Testing without a source"
+        ],
+        "answer": "Basic techniques for tangential RT"
+    },
+    {
+        "question": "ISO 20769-1 Class B refers to:",
+        "options": [
+            "Techniques for plastic pipes",
+            "Improved techniques with higher sensitivity and accuracy",
+            "Techniques used only in Malaysia",
+            "Low-quality scans"
+        ],
+        "answer": "Improved techniques with higher sensitivity and accuracy"
+    },
+    {
+        "question": "What is a 'Deposit' in the context of this standard?",
+        "options": [
+            "Money in the bank",
+            "Accumulated material (like scale or sludge) inside the pipe",
+            "The weld metal",
+            "A hole in the pipe"
+        ],
+        "answer": "Accumulated material (like scale or sludge) inside the pipe"
+    },
+    {
+        "question": "How do internal deposits appear on a tangential radiograph?",
+        "options": [
+            "They are invisible",
+            "As a layer with different contrast inside the pipe wall profile",
+            "As bright flashing lights",
+            "As a change in the pipe's length"
+        ],
+        "answer": "As a layer with different contrast inside the pipe wall profile"
+    },
+    {
+        "question": "To minimize the effect of the 'Penumbra' (unsharpness), the source-to-object distance should be:",
+        "options": [
+            "Very small",
+            "As large as practically possible",
+            "Exactly zero",
+            "Ignored"
+        ],
+        "answer": "As large as practically possible"
+    },
+    {
+        "question": "A 'DDA' (Digital Detector Array) used for tangential RT must be:",
+        "options": [
+            "Calibrated for gain and offset",
+            "Wrapped in lead completely",
+            "Stored in water",
+            "At least 10 years old"
+        ],
+        "answer": "Calibrated for gain and offset"
+    },
+    {
+        "question": "In tangential RT, the 'Area of Interest' is:",
+        "options": [
+            "The entire volume of the pipe",
+            "The tangential edges of the pipe wall",
+            "The flanges and bolts only",
+            "The nameplate"
+        ],
+        "answer": "The tangential edges of the pipe wall"
+    },
+    {
+        "question": "What is the effect of 'Scattered Radiation' on tangential measurements?",
+        "options": [
+            "It makes the edge look sharper",
+            "It reduces contrast and can blur the wall-edge definition",
+            "It has no effect",
+            "It makes the pipe look larger"
+        ],
+        "answer": "It reduces contrast and can blur the wall-edge definition"
+    },
+    {
+        "question": "Which isotope is preferred for tangential RT of steel pipes with wall thickness > 20mm?",
+        "options": [
+            "Selenium-75 or Iridium-192",
+            "Technetium-99",
+            "Carbon-14",
+            "Hydrogen"
+        ],
+        "answer": "Selenium-75 or Iridium-192"
+    },
+    {
+        "question": "What does 'SNRn' ensure in digital tangential radiography?",
+        "options": [
+            "The pipe is straight",
+            "The image has sufficient quality to distinguish the wall boundary from noise",
+            "The exposure was fast",
+            "The detector is waterproof"
+        ],
+        "answer": "The image has sufficient quality to distinguish the wall boundary from noise"
+    },
+    {
+        "question": "What is 'Profile Radiography'?",
+        "options": [
+            "Checking the technician's profile",
+            "Another name often used for tangential radiography",
+            "Testing the pipe from the inside only",
+            "A method to measure pipe weight"
+        ],
+        "answer": "Another name often used for tangential radiography"
+    },
+    {
+        "question": "A 'Reference Object' with a diameter 'dr' is measured as 'dm' on the image. The correction factor is:",
+        "options": [
+            "dr / dm",
+            "dm / dr",
+            "dr + dm",
+            "dr * dm"
+        ],
+        "answer": "dr / dm"
+    },
+    {
+        "question": "For 'Class B' tangential RT, the maximum allowable Ug is:",
+        "options": [
+            "Strictly defined and typically smaller than Class A",
+            "Larger than Class A",
+            "Not required",
+            "10 mm"
+        ],
+        "answer": "Strictly defined and typically smaller than Class A"
+    },
+    {
+        "question": "When inspecting 'Double-Wall' pipes (jacketed pipes), tangential RT is used to measure:",
+        "options": [
+            "The air pressure",
+            "The thickness of both the inner and outer pipes",
+            "Only the outer pipe",
+            "The temperature of the steam"
+        ],
+        "answer": "The thickness of both the inner and outer pipes"
+    },
+    {
+        "question": "What 'IQI' (Image Quality Indicator) is recommended to check unsharpness in digital tangential RT?",
+        "options": [
+            "Wire IQI",
+            "Duplex Wire IQI",
+            "Step-wedge",
+            "Lead ruler"
+        ],
+        "answer": "Duplex Wire IQI"
+    },
+    {
+        "question": "Can 'Computed Radiography' (CR) be used for tangential RT?",
+        "options": [
+            "No, only film",
+            "Yes, using flexible or rigid phosphor plates",
+            "Only if the pipe is made of plastic",
+            "Only for Class A"
+        ],
+        "answer": "Yes, using flexible or rigid phosphor plates"
+    },
+    {
+        "question": "What is the 'Nominal Diameter' (DN) of a pipe?",
+        "options": [
+            "The exact thickness",
+            "A standard numerical designation of size used in piping systems",
+            "The length of the pipe segment",
+            "The weight per meter"
+        ],
+        "answer": "A standard numerical designation of size used in piping systems"
+    },
+    {
+        "question": "When using a 'DDA', the 'Pixel Size' limits the:",
+        "options": [
+            "Maximum pipe diameter",
+            "Basic spatial resolution (SRb) and measurement precision",
+            "Length of the cable",
+            "Voltage of the tube"
+        ],
+        "answer": "Basic spatial resolution (SRb) and measurement precision"
+    },
+    {
+        "question": "Is 'Windowing' used in digital tangential radiography?",
+        "options": [
+            "No, it is illegal",
+            "Yes, to better visualize the boundary between the wall and the product/deposit",
+            "Only when evaluating film",
+            "Only in the winter"
+        ],
+        "answer": "Yes, to better visualize the boundary between the wall and the product/deposit"
+    },
+    {
+        "question": "Which factor most impacts the 'Accuracy' of a tangential wall thickness measurement?",
+        "options": [
+            "The brand of the X-ray tube",
+            "The unsharpness (Ug + Ui) and the correct use of a comparator",
+            "The color of the pipe",
+            "The time of day"
+        ],
+        "answer": "The unsharpness (Ug + Ui) and the correct use of a comparator"
+    },
+    {
+        "question": "What is 'Erosion' in the context of pipe inspection?",
+        "options": [
+            "The pipe getting longer",
+            "Mechanical wear of the internal pipe wall due to fluid flow",
+            "The pipe turning red",
+            "A type of welding defect"
+        ],
+        "answer": "Mechanical wear of the internal pipe wall due to fluid flow"
+    },
+    {
+        "question": "If the pipe is 'Eccentric' (not centered), the tangential measurement will be:",
+        "options": [
+            "More accurate",
+            "Inaccurate due to incorrect magnification/parallax",
+            "The same",
+            "Perfect"
+        ],
+        "answer": "Inaccurate due to incorrect magnification/parallax"
+    },
+    {
+        "question": "A 'Reference Object' must have a 'Certificate' that states its:",
+        "options": [
+            "Weight",
+            "Precise dimensions (diameter) calibrated to a traceable standard",
+            "Date of manufacture",
+            "Color"
+        ],
+        "answer": "Precise dimensions (diameter) calibrated to a traceable standard"
+    },
+    {
+        "question": "Why is 'Beam Hardening' a concern in digital radiography of pipes?",
+        "options": [
+            "It makes the pipe harder to cut",
+            "It changes the effective energy and can cause artifacts in thickness measurement",
+            "It causes the detector to melt",
+            "It turns the image green"
+        ],
+        "answer": "It changes the effective energy and can cause artifacts in thickness measurement"
+    },
+    {
+        "question": "What is the 'Geometric Setup' for tangential RT?",
+        "options": [
+            "Source and detector on opposite sides of the pipe, beam tangent to the wall",
+            "Source and detector inside the pipe",
+            "Source on top, detector at a 90-degree angle",
+            "Source and detector on the same side"
+        ],
+        "answer": "Source and detector on opposite sides of the pipe, beam tangent to the wall"
+    },
+    {
+        "question": "For 'Class A' inspection, is a reference object mandatory?",
+        "options": [
+            "Yes, if quantitative measurement is required",
+            "No, never",
+            "Only for pipes over 1 meter wide",
+            "Only for plastic pipes"
+        ],
+        "answer": "Yes, if quantitative measurement is required"
+    },
+    {
+        "question": "The 'Detector side' IQI placement is common in tangential RT because:",
+        "options": [
+            "The source side is inaccessible due to the pipe size",
+            "It provides better results",
+            "The standard requires it for all pipes",
+            "It is easier to tape it there"
+        ],
+        "answer": "The source side is inaccessible due to the pipe size"
+    },
+    {
+        "question": "What is 'Pitting' corrosion?",
+        "options": [
+            "Uniform thinning of the wall",
+            "Localized, deep holes in the material",
+            "A layer of rust on the outside only",
+            "A crack in the weld"
+        ],
+        "answer": "Localized, deep holes in the material"
+    },
+    {
+        "question": "Tangential RT can detect 'Pitting' if the pits are located:",
+        "options": [
+            "At the top of the pipe only",
+            "In the tangential (edge) region of the radiograph",
+            "Anywhere in the pipe",
+            "Only if they are filled with water"
+        ],
+        "answer": "In the tangential (edge) region of the radiograph"
+    },
+    {
+        "question": "To inspect the 'Entire' circumference for corrosion, how many tangential shots are needed?",
+        "options": [
+            "One",
+            "Multiple shots at different angles (e.g., 0°, 45°, 90°)",
+            "Zero",
+            "Exactly 100"
+        ],
+        "answer": "Multiple shots at different angles (e.g., 0°, 45°, 90°)"
+    },
+    {
+        "question": "What is 'Offset' in DDA terminology?",
+        "options": [
+            "Moving the pipe",
+            "The dark signal/noise of the detector when no radiation is present",
+            "The distance between two welds",
+            "A software for drawing"
+        ],
+        "answer": "The dark signal/noise of the detector when no radiation is present"
+    },
+    {
+        "question": "In digital radiography, 'Saturation' of a pixel means:",
+        "options": [
+            "The pixel is wet",
+            "The pixel has reached its maximum charge capacity (no more detail visible)",
+            "The pixel is off",
+            "The pixel is blue"
+        ],
+        "answer": "The pixel has reached its maximum charge capacity (no more detail visible)"
+    },
+    {
+        "question": "Does ISO 20769-1 apply to 'Concrete' pipes?",
+        "options": [
+            "Yes",
+            "No, it is for metallic pipes",
+            "Only if they have steel reinforcement",
+            "Only in the USA"
+        ],
+        "answer": "No, it is for metallic pipes"
+    },
+    {
+        "question": "What 'Radiation Safety' distance is required for tangential RT?",
+        "options": [
+            "None",
+            "Calculated based on source strength and local regulations",
+            "Always 5 meters",
+            "Always 100 meters"
+        ],
+        "answer": "Calculated based on source strength and local regulations"
+    },
+    {
+        "question": "A 'DDA' detector used in the field should be protected from:",
+        "options": [
+            "Physical impact and moisture",
+            "Heat and extreme cold",
+            "Direct X-ray beams on the electronics",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is 'Image Integration'?",
+        "options": [
+            "Combining multiple X-ray shots into one to improve SNR",
+            "Cutting a piece of the detector",
+            "Scanning a film",
+            "Sending an image via email"
+        ],
+        "answer": "Combining multiple X-ray shots into one to improve SNR"
+    },
+    {
+        "question": "In 'Computed Radiography' (CR), 'Fading' refers to:",
+        "options": [
+            "The pipe losing color",
+            "The loss of the latent image on the phosphor plate over time",
+            "The technician getting tired",
+            "The X-ray tube getting weaker"
+        ],
+        "answer": "The loss of the latent image on the phosphor plate over time"
+    },
+    {
+        "question": "Which material has the highest 'Attenuation' factor for X-rays?",
+        "options": [
+            "Air",
+            "Water",
+            "Steel",
+            "Lead"
+        ],
+        "answer": "Lead"
+    },
+    {
+        "question": "What is the 'Half-Value Layer' (HVL)?",
+        "options": [
+            "The weight of half a pipe",
+            "The thickness of material required to reduce radiation intensity by half",
+            "The time it takes to develop a film",
+            "The size of the focal spot"
+        ],
+        "answer": "The thickness of material required to reduce radiation intensity by half"
+    },
+    {
+        "question": "Tangential RT is often performed 'In-Service'. This means:",
+        "options": [
+            "While the pipe is in a museum",
+            "While the pipe is operating (carrying fluid/gas)",
+            "During the manufacturing process only",
+            "Only on weekends"
+        ],
+        "answer": "While the pipe is operating (carrying fluid/gas)"
+    },
+    {
+        "question": "When inspecting 'Insulated' pipes, the tangential technique helps identify:",
+        "options": [
+            "Corrosion Under Insulation (CUI)",
+            "The type of fluid inside",
+            "The brand of the insulation",
+            "The age of the pipe"
+        ],
+        "answer": "Corrosion Under Insulation (CUI)"
+    },
+    {
+        "question": "The 'Source Size' (focal spot) should be ____ for high-precision tangential RT.",
+        "options": [
+            "As small as possible",
+            "As large as possible",
+            "Irrelevant",
+            "Square"
+        ],
+        "answer": "As small as possible"
+    },
+    {
+        "question": "A 'Collimator' is used to:",
+        "options": [
+            "Focus the X-rays into a laser beam",
+            "Restrict the beam to the area of interest and reduce scatter",
+            "Change the color of the X-rays",
+            "Cool the X-ray tube"
+        ],
+        "answer": "Restrict the beam to the area of interest and reduce scatter"
+    },
+    {
+        "question": "ISO 20769-1 recommends using 'Lead Screens' for:",
+        "options": [
+            "Filtering out low-energy scatter and improving contrast",
+            "Blocking the pipe from moving",
+            "Decorating the detector",
+            "Increasing the exposure time"
+        ],
+        "answer": "Filtering out low-energy scatter and improving contrast"
+    },
+    {
+        "question": "What is 'Digital Image Processing'?",
+        "options": [
+            "Printing the image",
+            "Using algorithms to enhance or analyze the digital data (e.g., sharpening, filtering)",
+            "Washing the detector",
+            "Taking a photo of the monitor"
+        ],
+        "answer": "Using algorithms to enhance or analyze the digital data (e.g., sharpening, filtering)"
+    },
+    {
+        "question": "In tangential RT, 'Measurement Software' allows the operator to:",
+        "options": [
+            "Draw lines and automatically calculate wall thickness based on the comparator",
+            "Play games during the exposure",
+            "Write emails",
+            "Control the X-ray tube's temperature"
+        ],
+        "answer": "Draw lines and automatically calculate wall thickness based on the comparator"
+    },
+    {
+        "question": "What is the 'Bit Depth' of a typical industrial DDA?",
+        "options": [
+            "1-bit",
+            "8-bit",
+            "14-bit or 16-bit",
+            "100-bit"
+        ],
+        "answer": "14-bit or 16-bit"
+    },
+    {
+        "question": "Higher 'Bit Depth' results in:",
+        "options": [
+            "More levels of gray (better contrast resolution)",
+            "A heavier detector",
+            "Faster X-rays",
+            "A smaller file size"
+        ],
+        "answer": "More levels of gray (better contrast resolution)"
+    },
+    {
+        "question": "What is 'Ghosting' in a DDA?",
+        "options": [
+            "The detector seeing a spirit",
+            "Residual signal from a previous exposure appearing in the current image",
+            "The detector turning invisible",
+            "A software error that deletes files"
+        ],
+        "answer": "Residual signal from a previous exposure appearing in the current image"
+    },
+    {
+        "question": "How can 'Ghosting' be minimized?",
+        "options": [
+            "Waiting between exposures or using specialized reset cycles",
+            "Using a stronger X-ray beam",
+            "Cleaning the pipe",
+            "Changing the monitor"
+        ],
+        "answer": "Waiting between exposures or using specialized reset cycles"
+    },
+    {
+        "question": "A 'Pixel' is the smallest ____ of a digital image.",
+        "options": [
+            "Color",
+            "Element",
+            "Thickness",
+            "Wave"
+        ],
+        "answer": "Element"
+    },
+    {
+        "question": "In 'Tangential RT', the detector is usually placed ____ to the radiation beam.",
+        "options": [
+            "Perpendicular",
+            "Parallel",
+            "At a 30-degree angle",
+            "Inside"
+        ],
+        "answer": "Perpendicular"
+    },
+    {
+        "question": "Which material is 'Radiolucent'?",
+        "options": [
+            "Lead",
+            "Low-density plastic or air (easy for X-rays to pass through)",
+            "Tungsten",
+            "Steel"
+        ],
+        "answer": "Low-density plastic or air (easy for X-rays to pass through)"
+    },
+    {
+        "question": "Which material is 'Radiopaque'?",
+        "options": [
+            "Air",
+            "Lead (difficult for X-rays to pass through)",
+            "Water",
+            "Paper"
+        ],
+        "answer": "Lead (difficult for X-rays to pass through)"
+    },
+    {
+        "question": "What is 'Gamma-ray'?",
+        "options": [
+            "Electromagnetic radiation from a radioactive isotope",
+            "Radiation from an electrical tube",
+            "A type of visible light",
+            "A sonic wave"
+        ],
+        "answer": "Electromagnetic radiation from a radioactive isotope"
+    },
+    {
+        "question": "Is 'ISO 20769-1' part of the 'Industry 4.0' shift?",
+        "options": [
+            "No",
+            "Yes, as it promotes digital data for asset integrity management",
+            "Only in the automotive sector",
+            "It was replaced by AI"
+        ],
+        "answer": "Yes, as it promotes digital data for asset integrity management"
+    },
+    {
+        "question": "A 'Step Wedge' is used to:",
+        "options": [
+            "Stop the pipe from rolling",
+            "Correlate pixel intensity (gray value) with material thickness",
+            "Protect the technician",
+            "Calibrate the clock"
+        ],
+        "answer": "Correlate pixel intensity (gray value) with material thickness"
+    },
+    {
+        "question": "Can tangential RT be used to measure 'Sludge' level?",
+        "options": [
+            "Yes, if the sludge density is different from the fluid",
+            "No",
+            "Only if the sludge is magnetic",
+            "Only in empty pipes"
+        ],
+        "answer": "Yes, if the sludge density is different from the fluid"
+    },
+    {
+        "question": "What is 'DICONDE'?",
+        "options": [
+            "A type of pipe",
+            "The standard digital imaging and communication format for NDT",
+            "A welding technique",
+            "A Malaysian NDT company"
+        ],
+        "answer": "The standard digital imaging and communication format for NDT"
+    },
+    {
+        "question": "In 'ISO 20769-1', 'Part 2' of the standard covers:",
+        "options": [
+            "Double-wall thickness testing (DWTA)",
+            "Underwater welding",
+            "Magnetic testing",
+            "Diver safety"
+        ],
+        "answer": "Double-wall thickness testing (DWTA)"
+    },
+    {
+        "question": "A 'Linearity' check for a DDA ensures:",
+        "options": [
+            "The detector is straight",
+            "The digital output is proportional to the radiation dose",
+            "The pixels are all the same color",
+            "The cable is not tangled"
+        ],
+        "answer": "The digital output is proportional to the radiation dose"
+    },
+    {
+        "question": "What is 'Aliasing' in digital radiography?",
+        "options": [
+            "Using a fake name",
+            "An artifact where fine details look like coarse patterns (Moire)",
+            "A sharp image",
+            "A type of lead shield"
+        ],
+        "answer": "An artifact where fine details look like coarse patterns (Moire)"
+    },
+    {
+        "question": "To avoid aliasing, the 'Sampling Frequency' must be ____ the highest frequency in the image.",
+        "options": [
+            "Lower than",
+            "At least twice (Nyquist criteria)",
+            "Zero",
+            "Exactly the same"
+        ],
+        "answer": "At least twice (Nyquist criteria)"
+    },
+    {
+        "question": "What 'Safety Gear' is mandatory for X-ray technicians?",
+        "options": [
+            "Lead aprons (if nearby)",
+            "Dosimeters (TLD/EPD)",
+            "Barriers and warning signs",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the 'Inverse Square Law'?",
+        "options": [
+            "Radiation intensity increases with distance",
+            "Radiation intensity decreases with the square of the distance",
+            "Distance does not affect radiation",
+            "The source must be square"
+        ],
+        "answer": "Radiation intensity decreases with the square of the distance"
+    },
+    {
+        "question": "If you double the distance from the source, the radiation dose is:",
+        "options": [
+            "Half",
+            "One-fourth",
+            "Double",
+            "The same"
+        ],
+        "answer": "One-fourth"
+    },
+    {
+        "question": "Tangential RT of 'Small Diameter' pipes (e.g., 1 inch) requires:",
+        "options": [
+            "High-resolution detectors (small pixel size)",
+            "Low-resolution detectors",
+            "Very thick lead screens",
+            "A very large focal spot"
+        ],
+        "answer": "High-resolution detectors (small pixel size)"
+    },
+    {
+        "question": "Can tangential RT detect 'Cracks' in the pipe?",
+        "options": [
+            "Only if they are oriented parallel to the beam (tangential to the wall)",
+            "No, never",
+            "Yes, all cracks regardless of orientation",
+            "Only in the liquid"
+        ],
+        "answer": "Only if they are oriented parallel to the beam (tangential to the wall)"
+    },
+    {
+        "question": "What is 'CUI'?",
+        "options": [
+            "Computer User Interface",
+            "Corrosion Under Insulation",
+            "Control Unit Indicator",
+            "Correct User Info"
+        ],
+        "answer": "Corrosion Under Insulation"
+    },
+    {
+        "question": "In 'Digital RT', the 'Raw Image' should always be:",
+        "options": [
+            "Deleted after processing",
+            "Archived without destructive filters applied",
+            "Converted to JPEG immediately",
+            "Printed on paper"
+        ],
+        "answer": "Archived without destructive filters applied"
+    },
+    {
+        "question": "What is 'Signal-to-Noise Ratio' (SNR)?",
+        "options": [
+            "The ratio of the mean signal to the standard deviation of the noise",
+            "The volume of the alarm",
+            "The speed of the data transfer",
+            "The length of the pipe"
+        ],
+        "answer": "The ratio of the mean signal to the standard deviation of the noise"
+    },
+    {
+        "question": "For 'Class B' digital radiography, a 'High SNR' is:",
+        "options": [
+            "Forbidden",
+            "Required to achieve the necessary sensitivity",
+            "Not important",
+            "Only for film"
+        ],
+        "answer": "Required to achieve the necessary sensitivity"
+    },
+    {
+        "question": "In ISO 20769-1, 'deposits' are measured by looking at:",
+        "options": [
+            "The increase in total thickness visible in the tangential profile",
+            "The color of the pipe",
+            "The weight of the pipe",
+            "The temperature"
+        ],
+        "answer": "The increase in total thickness visible in the tangential profile"
+    },
+    {
+        "question": "A 'Reference Ball' should be placed at the same 'Source-to-Object' distance as:",
+        "options": [
+            "The detector",
+            "The center of the pipe being measured",
+            "The technician",
+            "The wall"
+        ],
+        "answer": "The center of the pipe being measured"
+    },
+    {
+        "question": "The 'Edge' of the pipe wall in a tangential image is often called the:",
+        "options": [
+            "Horizon",
+            "Profile",
+            "Shadow",
+            "Weld"
+        ],
+        "answer": "Profile"
+    },
+    {
+        "question": "What is 'Attenuation'?",
+        "options": [
+            "The reduction in radiation intensity as it passes through material",
+            "Increasing the power of the tube",
+            "Focusing the beam",
+            "The speed of light"
+        ],
+        "answer": "The reduction in radiation intensity as it passes through material"
+    },
+    {
+        "question": "In digital RT, a 'Bad Pixel Map' is used to:",
+        "options": [
+            "Find the way to the site",
+            "Identify and correct (interpolate) non-functioning pixels",
+            "Delete the image",
+            "Mark the weld location"
+        ],
+        "answer": "Identify and correct (interpolate) non-functioning pixels"
+    },
+    {
+        "question": "What is the 'Dynamic Range' of a DDA?",
+        "options": [
+            "The physical distance it can be moved",
+            "The range of radiation intensities it can capture in a single exposure",
+            "The speed of the WiFi",
+            "The frequency of the X-rays"
+        ],
+        "answer": "The range of radiation intensities it can capture in a single exposure"
+    },
+    {
+        "question": "ISO 20769-1:2018 is a standard developed by:",
+        "options": [
+            "NASA",
+            "ISO (International Organization for Standardization)",
+            "Microsoft",
+            "The Malaysian Government only"
+        ],
+        "answer": "ISO (International Organization for Standardization)"
+    },
+    {
+        "question": "When a pipe is 'Full' of liquid, the tangential contrast is ____ than an empty pipe.",
+        "options": [
+            "Higher",
+            "Lower (liquid attenuates radiation, reducing the signal change at the edge)",
+            "The same",
+            "Zero"
+        ],
+        "answer": "Lower (liquid attenuates radiation, reducing the signal change at the edge)"
+    },
+    {
+        "question": "What is the 'Central Ray'?",
+        "options": [
+            "A technician's name",
+            "The radiation beam directed at the center of the tangential area",
+            "The first X-ray ever taken",
+            "The power cord"
+        ],
+        "answer": "The radiation beam directed at the center of the tangential area"
+    },
+    {
+        "question": "Which software tool helps find the exact 'Edge' in digital tangential RT?",
+        "options": [
+            "Line Profile / Intensity Profile tool",
+            "Paint brush",
+            "Auto-correct",
+            "Spell check"
+        ],
+        "answer": "Line Profile / Intensity Profile tool"
+    },
+    {
+        "question": "In a 'Line Profile', the edge of the pipe wall is indicated by a sharp change in:",
+        "options": [
+            "Color",
+            "Gray Value (Pixel Intensity)",
+            "Thickness",
+            "Time"
+        ],
+        "answer": "Gray Value (Pixel Intensity)"
+    },
+    {
+        "question": "Why is 'Report Writing' critical in NDT?",
+        "options": [
+            "To satisfy the manager",
+            "To provide a permanent, traceable record of asset condition",
+            "To use up paper",
+            "To practice typing"
+        ],
+        "answer": "To provide a permanent, traceable record of asset condition"
+    }
+]

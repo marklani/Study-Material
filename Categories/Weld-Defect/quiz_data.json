@@ -1,0 +1,992 @@
+[
+    {
+        "question": "What is the primary scope of ISO 17636-2?",
+        "options": [
+            "Radiographic testing of welds using film",
+            "Radiographic testing of welds using digital detectors",
+            "Ultrasonic testing of welds",
+            "Magnetic particle testing of welds"
+        ],
+        "answer": "Radiographic testing of welds using digital detectors"
+    },
+    {
+        "question": "Which testing class in ISO 17636-2 refers to 'Basic Techniques'?",
+        "options": [
+            "Class A",
+            "Class B",
+            "Class C",
+            "Class D"
+        ],
+        "answer": "Class A"
+    },
+    {
+        "question": "Which testing class in ISO 17636-2 refers to 'Improved Techniques' for higher sensitivity?",
+        "options": [
+            "Class A",
+            "Class B",
+            "Class X",
+            "Class S"
+        ],
+        "answer": "Class B"
+    },
+    {
+        "question": "According to ISO 17636-2, what must be used to determine the image quality (IQI)?",
+        "options": [
+            "Only wire-type IQIs",
+            "Only step-hole type IQIs",
+            "Wire-type, step-hole type, or duplex wire-type IQIs",
+            "Visual estimation by the senior engineer"
+        ],
+        "answer": "Wire-type, step-hole type, or duplex wire-type IQIs"
+    },
+    {
+        "question": "What does 'SNR' stand for in the context of digital radiography?",
+        "options": [
+            "System Nominal Resolution",
+            "Signal-to-Noise Ratio",
+            "Standard Nuclear Radius",
+            "Source-to-Node Range"
+        ],
+        "answer": "Signal-to-Noise Ratio"
+    },
+    {
+        "question": "What is the 'SNRn' used for in ISO 17636-2?",
+        "options": [
+            "To measure the weight of the weld",
+            "The Normalized Signal-to-Noise Ratio to ensure image quality",
+            "To calculate the price of the X-ray tube",
+            "To measure the distance from the source to the film"
+        ],
+        "answer": "The Normalized Signal-to-Noise Ratio to ensure image quality"
+    },
+    {
+        "question": "To normalize the SNR (SNRn), the SNR must be calculated for a basic spatial resolution (SRb) of:",
+        "options": [
+            "50 μm",
+            "100 μm",
+            "200 μm",
+            "10 μm"
+        ],
+        "answer": "100 μm"
+    },
+    {
+        "question": "What is 'SRb'?",
+        "options": [
+            "Source Radiation Beam",
+            "Basic Spatial Resolution",
+            "System Readout Background",
+            "Standard Radiographic Bias"
+        ],
+        "answer": "Basic Spatial Resolution"
+    },
+    {
+        "question": "How is the SRb determined according to ISO 17636-2?",
+        "options": [
+            "Using a ruler",
+            "Using a Duplex Wire IQI",
+            "Using a single wire IQI",
+            "By looking at the pixel size on the datasheet only"
+        ],
+        "answer": "Using a Duplex Wire IQI"
+    },
+    {
+        "question": "The 'Source-to-Object Distance' is abbreviated as:",
+        "options": [
+            "SOD",
+            "f",
+            "b",
+            "SDD"
+        ],
+        "answer": "f"
+    },
+    {
+        "question": "The 'Object-to-Detector Distance' is abbreviated as:",
+        "options": [
+            "ODD",
+            "b",
+            "f",
+            "d"
+        ],
+        "answer": "b"
+    },
+    {
+        "question": "Geometric unsharpness (Ug) is calculated using which formula?",
+        "options": [
+            "Ug = f * b / d",
+            "Ug = d * b / f",
+            "Ug = d * f / b",
+            "Ug = (f + b) / d"
+        ],
+        "answer": "Ug = d * b / f"
+    },
+    {
+        "question": "In the Ug formula, 'd' represents:",
+        "options": [
+            "The detector width",
+            "The source size (focal spot size)",
+            "The distance to the wall",
+            "The thickness of the lead shield"
+        ],
+        "answer": "The source size (focal spot size)"
+    },
+    {
+        "question": "For Class B, the minimum required SNRn is generally ____ than for Class A.",
+        "options": [
+            "Lower",
+            "Higher",
+            "The same",
+            "Zero"
+        ],
+        "answer": "Higher"
+    },
+    {
+        "question": "Which document is referenced for the definition of 'Basic Spatial Resolution'?",
+        "options": [
+            "ISO 19232-5",
+            "ISO 9712",
+            "ISO 5817",
+            "ISO 17637"
+        ],
+        "answer": "ISO 19232-5"
+    },
+    {
+        "question": "When using a DDA, what is a 'Bad Pixel'?",
+        "options": [
+            "A pixel that is extra bright",
+            "A pixel with a response outside the defined tolerance",
+            "A pixel that is larger than others",
+            "A pixel that turns the image blue"
+        ],
+        "answer": "A pixel with a response outside the defined tolerance"
+    },
+    {
+        "question": "According to ISO 17636-2, are 'Bad Pixels' allowed in the area of interest?",
+        "options": [
+            "Yes, as many as you want",
+            "No, they should be minimized and must not hide defects",
+            "Only if they are white",
+            "Only if they are in a straight line"
+        ],
+        "answer": "No, they should be minimized and must not hide defects"
+    },
+    {
+        "question": "Which material is NOT within the primary scope of ISO 17636-2?",
+        "options": [
+            "Steel",
+            "Copper",
+            "Wood",
+            "Aluminum"
+        ],
+        "answer": "Wood"
+    },
+    {
+        "question": "In a 'Double-Wall Single-Image' (DWSI) setup, the radiation passes through:",
+        "options": [
+            "One wall only",
+            "Two walls, but only the wall nearest the detector is interpreted",
+            "Two walls, and both are interpreted together",
+            "The air only"
+        ],
+        "answer": "Two walls, but only the wall nearest the detector is interpreted"
+    },
+    {
+        "question": "What is the 'Penetrated Thickness' (w)?",
+        "options": [
+            "The total thickness of the material in the direction of the radiation beam",
+            "The thickness of the lead screen",
+            "The distance between the source and detector",
+            "The height of the weld reinforcement"
+        ],
+        "answer": "The total thickness of the material in the direction of the radiation beam"
+    },
+    {
+        "question": "For X-ray energies up to 500 kV, what is the maximum allowed voltage determined by?",
+        "options": [
+            "The time of day",
+            "The penetrated thickness of the material",
+            "The weight of the detector",
+            "The color of the weld"
+        ],
+        "answer": "The penetrated thickness of the material"
+    },
+    {
+        "question": "Can Gamma rays be used according to ISO 17636-2?",
+        "options": [
+            "No, X-rays only",
+            "Yes, for certain thicknesses and classes",
+            "Only for Class A",
+            "Only if the computer is turned off"
+        ],
+        "answer": "Yes, for certain thicknesses and classes"
+    },
+    {
+        "question": "Which radioisotope is commonly used for gamma radiography of thicker steel?",
+        "options": [
+            "Iridium-192",
+            "Selenium-75",
+            "Cobalt-60",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the recommended minimum SNRn for Class A (Steel, w=10mm)?",
+        "options": [
+            "50",
+            "70",
+            "130",
+            "250"
+        ],
+        "answer": "70"
+    },
+    {
+        "question": "What is the recommended minimum SNRn for Class B (Steel, w=10mm)?",
+        "options": [
+            "70",
+            "100",
+            "150",
+            "250"
+        ],
+        "answer": "150"
+    },
+    {
+        "question": "What happens if the SNRn is too low?",
+        "options": [
+            "The image is too bright",
+            "Small defects may be hidden by image noise",
+            "The file size becomes too large",
+            "The X-ray tube will overheat"
+        ],
+        "answer": "Small defects may be hidden by image noise"
+    },
+    {
+        "question": "Which IQI type is used specifically to measure 'Total Image Unsharpness'?",
+        "options": [
+            "Wire-type IQI",
+            "Duplex Wire IQI",
+            "Step-hole IQI",
+            "Lead letters"
+        ],
+        "answer": "Duplex Wire IQI"
+    },
+    {
+        "question": "In ISO 17636-2, the term 'Detector' refers to:",
+        "options": [
+            "A storage phosphor plate (CR) or a Digital Detector Array (DDA)",
+            "The X-ray tube",
+            "The lead screen",
+            "The human eye"
+        ],
+        "answer": "A storage phosphor plate (CR) or a Digital Detector Array (DDA)"
+    },
+    {
+        "question": "What is 'Calibration' of a DDA?",
+        "options": [
+            "Washing the detector with soap",
+            "Process to correct for pixel-to-pixel sensitivity variations (gain/offset)",
+            "Changing the battery",
+            "Adjusting the monitor brightness"
+        ],
+        "answer": "Process to correct for pixel-to-pixel sensitivity variations (gain/offset)"
+    },
+    {
+        "question": "How should IQIs be placed according to the standard?",
+        "options": [
+            "On the source side",
+            "On the detector side",
+            "Inside the weld",
+            "Under the lead shield"
+        ],
+        "answer": "On the source side"
+    },
+    {
+        "question": "If an IQI cannot be placed on the source side, what must be done?",
+        "options": [
+            "Cancel the test",
+            "Place it on the detector side with a 'F' marker",
+            "Place it on the detector side with no marker",
+            "Guess the image quality"
+        ],
+        "answer": "Place it on the detector side with a 'F' marker"
+    },
+    {
+        "question": "What does the 'F' marker stand for?",
+        "options": [
+            "Film",
+            "Film-side (Detector-side) IQI placement",
+            "Fast",
+            "Failed"
+        ],
+        "answer": "Film-side (Detector-side) IQI placement"
+    },
+    {
+        "question": "The 'Source-to-Detector Distance' (SDD) is the sum of:",
+        "options": [
+            "f + b",
+            "f - b",
+            "f * b",
+            "d + b"
+        ],
+        "answer": "f + b"
+    },
+    {
+        "question": "The 'magnification factor' (v) is defined as:",
+        "options": [
+            "v = SDD / f",
+            "v = f / SDD",
+            "v = b / f",
+            "v = d / f"
+        ],
+        "answer": "v = SDD / f"
+    },
+    {
+        "question": "To achieve high resolution, the magnification in contact radiography should be as close to ____ as possible.",
+        "options": [
+            "1",
+            "2",
+            "5",
+            "10"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "What is 'Aliasing'?",
+        "options": [
+            "A type of lead shield",
+            "An artifact caused by insufficient sampling of high-frequency signals",
+            "A software for image viewing",
+            "The name of the X-ray tube manufacturer"
+        ],
+        "answer": "An artifact caused by insufficient sampling of high-frequency signals"
+    },
+    {
+        "question": "The normalized SNR (SNRn) formula includes which factor to account for unsharpness?",
+        "options": [
+            "0.88 / SRb",
+            "88.5",
+            "Voltage / SRb",
+            "SDD / f"
+        ],
+        "answer": "0.88 / SRb"
+    },
+    {
+        "question": "Is image processing like 'Edge Enhancement' allowed in the final evaluation image?",
+        "options": [
+            "Yes, always",
+            "Only if it doesn't mask flaws and is agreed upon",
+            "No, it is strictly forbidden",
+            "Only for Class A"
+        ],
+        "answer": "Only if it doesn't mask flaws and is agreed upon"
+    },
+    {
+        "question": "What is the 'nominal thickness' (t)?",
+        "options": [
+            "The thickness of the base material",
+            "The total thickness including weld reinforcement",
+            "The thickness of the lead screen",
+            "The diameter of the pipe"
+        ],
+        "answer": "The thickness of the base material"
+    },
+    {
+        "question": "What is 'Offset Correction' for a DDA?",
+        "options": [
+            "Removing the background electronic noise (dark current)",
+            "Moving the detector to the left",
+            "Adjusting the X-ray energy",
+            "Changing the file name"
+        ],
+        "answer": "Removing the background electronic noise (dark current)"
+    },
+    {
+        "question": "What is 'Gain Correction' for a DDA?",
+        "options": [
+            "Increasing the volume of the alarm",
+            "Adjusting for variations in pixel sensitivity across the array",
+            "Making the image brighter",
+            "Increasing the X-ray exposure time"
+        ],
+        "answer": "Adjusting for variations in pixel sensitivity across the array"
+    },
+    {
+        "question": "When taking a 'Dark Frame' for calibration, the X-ray source must be:",
+        "options": [
+            "On",
+            "Off",
+            "Warming up",
+            "In the next room"
+        ],
+        "answer": "Off"
+    },
+    {
+        "question": "According to ISO 17636-2, how many wires must be visible on a wire-type IQI?",
+        "options": [
+            "At least 3",
+            "At least 1",
+            "All of them",
+            "Depends on the class and thickness"
+        ],
+        "answer": "Depends on the class and thickness"
+    },
+    {
+        "question": "The 'Duplex Wire IQI' consists of pairs of wires made of:",
+        "options": [
+            "Steel and Lead",
+            "Tungsten and Platinum",
+            "Copper and Aluminum",
+            "Plastic and Rubber"
+        ],
+        "answer": "Tungsten and Platinum"
+    },
+    {
+        "question": "What does a 'Dip' of 20% in the profile of a duplex wire pair indicate?",
+        "options": [
+            "The wires are broken",
+            "The resolution limit has been reached",
+            "The image is too dark",
+            "The detector is calibrated"
+        ],
+        "answer": "The resolution limit has been reached"
+    },
+    {
+        "question": "What is the purpose of 'Scattered Radiation' masking?",
+        "options": [
+            "To keep the technician warm",
+            "To prevent non-relevant radiation from reaching the detector and reducing contrast",
+            "To make the detector look professional",
+            "To increase the exposure time"
+        ],
+        "answer": "To prevent non-relevant radiation from reaching the detector and reducing contrast"
+    },
+    {
+        "question": "Which material has a higher 'Absorption' of X-rays?",
+        "options": [
+            "Aluminum",
+            "Steel",
+            "Lead",
+            "Air"
+        ],
+        "answer": "Lead"
+    },
+    {
+        "question": "In digital radiography, 'Dynamic Range' refers to:",
+        "options": [
+            "The speed of the computer",
+            "The ratio between the maximum and minimum detectable radiation levels",
+            "The physical size of the detector",
+            "The range of the WiFi signal"
+        ],
+        "answer": "The ratio between the maximum and minimum detectable radiation levels"
+    },
+    {
+        "question": "What is a 'Gray Value'?",
+        "options": [
+            "The price of a lead screen",
+            "The numerical value of a pixel representing signal intensity",
+            "The age of the senior technician",
+            "The color of the weld metal"
+        ],
+        "answer": "The numerical value of a pixel representing signal intensity"
+    },
+    {
+        "question": "A 16-bit digital image has how many possible gray values?",
+        "options": [
+            "256",
+            "1,024",
+            "16,384",
+            "65,536"
+        ],
+        "answer": "65,536"
+    },
+    {
+        "question": "What is 'Windowing' (or Leveling) in image software?",
+        "options": [
+            "Opening the window for fresh air",
+            "Adjusting the displayed brightness and contrast for evaluation",
+            "Closing the program",
+            "Scanning the image for viruses"
+        ],
+        "answer": "Adjusting the displayed brightness and contrast for evaluation"
+    },
+    {
+        "question": "For 'Double-Wall Double-Image' (DWDI) testing of pipes, the source is placed:",
+        "options": [
+            "Inside the pipe",
+            "Outside the pipe, offset from the weld",
+            "In the middle of the weld",
+            "Under the detector"
+        ],
+        "answer": "Outside the pipe, offset from the weld"
+    },
+    {
+        "question": "DWDI is typically used for pipes with a diameter less than or equal to:",
+        "options": [
+            "10 mm",
+            "100 mm",
+            "500 mm",
+            "1000 mm"
+        ],
+        "answer": "100 mm"
+    },
+    {
+        "question": "In 'Elliptical' DWDI, how many images of the weld are seen?",
+        "options": [
+            "One",
+            "Two (one from the source side, one from the detector side)",
+            "Four",
+            "None"
+        ],
+        "answer": "Two (one from the source side, one from the detector side)"
+    },
+    {
+        "question": "What is the 'IQI Sensitivity'?",
+        "options": [
+            "The smallest wire or hole visible in the radiograph",
+            "The speed of the detector",
+            "The weight of the IQI",
+            "The color of the IQI wires"
+        ],
+        "answer": "The smallest wire or hole visible in the radiograph"
+    },
+    {
+        "question": "For Class B, the geometric unsharpness (Ug) requirement is ____ than Class A.",
+        "options": [
+            "More stringent (smaller Ug allowed)",
+            "Less stringent (larger Ug allowed)",
+            "Identical",
+            "Ignored"
+        ],
+        "answer": "More stringent (smaller Ug allowed)"
+    },
+    {
+        "question": "A smaller focal spot size (d) results in:",
+        "options": [
+            "Higher geometric unsharpness",
+            "Lower geometric unsharpness (better sharpness)",
+            "Longer exposure times",
+            "Smaller file sizes"
+        ],
+        "answer": "Lower geometric unsharpness (better sharpness)"
+    },
+    {
+        "question": "In digital radiography, 'Blooming' (or Flare) is caused by:",
+        "options": [
+            "X-rays hitting the detector directly (unattenuated)",
+            "The sun shining on the monitor",
+            "Using too much lead",
+            "A pixel that is physically broken"
+        ],
+        "answer": "X-rays hitting the detector directly (unattenuated)"
+    },
+    {
+        "question": "How can blooming be reduced?",
+        "options": [
+            "By using software filters only",
+            "By using proper collimation and masking",
+            "By turning off the detector",
+            "By increasing the voltage"
+        ],
+        "answer": "By using proper collimation and masking"
+    },
+    {
+        "question": "What is 'Burn-off' in radiography?",
+        "options": [
+            "Fire at the X-ray facility",
+            "Loss of detail at the edges of a specimen due to scatter/overexposure",
+            "Turning the tube off too quickly",
+            "A type of chemical cleaning"
+        ],
+        "answer": "Loss of detail at the edges of a specimen due to scatter/overexposure"
+    },
+    {
+        "question": "Is 'Averaging' (integrating multiple frames) used in DDA imaging?",
+        "options": [
+            "No, never",
+            "Yes, to improve the SNR and reduce noise",
+            "Only for Class A",
+            "Only if the weld is thick"
+        ],
+        "answer": "Yes, to improve the SNR and reduce noise"
+    },
+    {
+        "question": "If you average 100 frames instead of 10, the noise will be:",
+        "options": [
+            "Higher",
+            "Lower",
+            "The same",
+            "Ten times louder"
+        ],
+        "answer": "Lower"
+    },
+    {
+        "question": "What is 'Latent Image' in Computed Radiography (CR)?",
+        "options": [
+            "An image that is blurry",
+            "The stored energy on the phosphor plate before scanning",
+            "A deleted file",
+            "The physical weld"
+        ],
+        "answer": "The stored energy on the phosphor plate before scanning"
+    },
+    {
+        "question": "What happens to the latent image in CR if you wait too long to scan?",
+        "options": [
+            "It gets sharper",
+            "It fades over time",
+            "It changes color",
+            "It becomes a DDA image"
+        ],
+        "answer": "It fades over time"
+    },
+    {
+        "question": "The laser in a CR reader is used to:",
+        "options": [
+            "Cut the weld",
+            "Stimulate the release of stored light from the phosphor plate",
+            "Heat the room",
+            "Measure the distance to the source"
+        ],
+        "answer": "Stimulate the release of stored light from the phosphor plate"
+    },
+    {
+        "question": "After scanning, CR plates are 'erased' using:",
+        "options": [
+            "Magnets",
+            "High-intensity white light",
+            "Water",
+            "X-rays"
+        ],
+        "answer": "High-intensity white light"
+    },
+    {
+        "question": "Which factor affects 'Contrast' in a digital radiograph?",
+        "options": [
+            "Radiation energy (kV)",
+            "Scattered radiation",
+            "Software windowing",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "ISO 17636-2 requires that the 'Image Quality' be verified for:",
+        "options": [
+            "The first image only",
+            "Every single radiograph",
+            "One image per day",
+            "Only Class B images"
+        ],
+        "answer": "Every single radiograph"
+    },
+    {
+        "question": "Which 'Software' is allowed for evaluating ISO 17636-2 radiographs?",
+        "options": [
+            "Any photo editor",
+            "Specialized NDT software capable of SNR and IQI measurement",
+            "Web browsers",
+            "Text editors"
+        ],
+        "answer": "Specialized NDT software capable of SNR and IQI measurement"
+    },
+    {
+        "question": "A 'Pixel Pitch' of 200 μm results in a maximum theoretical SRb of:",
+        "options": [
+            "200 μm",
+            "100 μm",
+            "400 μm",
+            "50 μm"
+        ],
+        "answer": "200 μm"
+    },
+    {
+        "question": "In the duplex wire IQI, the 'Basic Spatial Resolution' (SRb) corresponds to ____ times the wire diameter.",
+        "options": [
+            "0.5",
+            "1.0",
+            "2.0",
+            "0.25"
+        ],
+        "answer": "1.0"
+    },
+    {
+        "question": "What is the 'Object-to-Detector' distance (b) in contact radiography?",
+        "options": [
+            "Zero (or as small as possible)",
+            "Equal to f",
+            "1000 mm",
+            "Always 10 mm"
+        ],
+        "answer": "Zero (or as small as possible)"
+    },
+    {
+        "question": "What is a 'Flat-Field Correction'?",
+        "options": [
+            "Adjusting the field where X-rays are taken",
+            "A combination of offset and gain correction for DDAs",
+            "Cutting the edges of the image",
+            "Painting the detector gray"
+        ],
+        "answer": "A combination of offset and gain correction for DDAs"
+    },
+    {
+        "question": "When must a new 'Flat-Field Correction' be performed?",
+        "options": [
+            "Every hour",
+            "When X-ray parameters (kV) change significantly or periodically per manufacturer",
+            "Only when the detector breaks",
+            "Every time the computer reboots"
+        ],
+        "answer": "When X-ray parameters (kV) change significantly or periodically per manufacturer"
+    },
+    {
+        "question": "What does 'PSL' stand for in CR technology?",
+        "options": [
+            "Parallel Source Line",
+            "Photo-Stimulable Luminescence",
+            "Pixel Size Limit",
+            "Phosphor Shield Layer"
+        ],
+        "answer": "Photo-Stimulable Luminescence"
+    },
+    {
+        "question": "Which standard defines the 'IQI types' used in ISO 17636-2?",
+        "options": [
+            "ISO 19232-1 and -2",
+            "ISO 9001",
+            "ISO 14001",
+            "ISO 5817"
+        ],
+        "answer": "ISO 19232-1 and -2"
+    },
+    {
+        "question": "The 'Bit Depth' of a CR system is usually:",
+        "options": [
+            "8-bit",
+            "12-bit or 16-bit",
+            "1-bit",
+            "Depends on the color of the plate"
+        ],
+        "answer": "12-bit or 16-bit"
+    },
+    {
+        "question": "In a digital system, 'Resolution' is often measured in:",
+        "options": [
+            "Pixels per inch",
+            "Line pairs per millimeter (lp/mm)",
+            "Watts per second",
+            "Grams per meter"
+        ],
+        "answer": "Line pairs per millimeter (lp/mm)"
+    },
+    {
+        "question": "Which testing class is preferred for critical aerospace welds?",
+        "options": [
+            "Class A",
+            "Class B",
+            "Class D",
+            "Any class is fine"
+        ],
+        "answer": "Class B"
+    },
+    {
+        "question": "What 'Lead Letters' are typically required on a radiograph?",
+        "options": [
+            "The date",
+            "Specimen and weld identification",
+            "The 'B' or 'A' class marker",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is 'Backscattered Radiation'?",
+        "options": [
+            "Radiation coming from behind the detector",
+            "Radiation from the X-ray tube directly",
+            "Radiation that goes back into the source",
+            "Light from the monitor"
+        ],
+        "answer": "Radiation coming from behind the detector"
+    },
+    {
+        "question": "How do you check for backscattered radiation according to the standard?",
+        "options": [
+            "Place a lead 'B' on the back of the detector",
+            "Check the temperature",
+            "Look at the source",
+            "Listen for a buzzing sound"
+        ],
+        "answer": "Place a lead 'B' on the back of the detector"
+    },
+    {
+        "question": "If the 'B' letter appears as a 'Light' image on the radiograph:",
+        "options": [
+            "Backscatter is acceptable",
+            "Backscatter protection is insufficient (too much backscatter)",
+            "The exposure was too short",
+            "The 'B' is upside down"
+        ],
+        "answer": "Backscatter protection is insufficient (too much backscatter)"
+    },
+    {
+        "question": "What is the primary material used for 'Screens' in CR?",
+        "options": [
+            "Lead",
+            "Copper",
+            "Barium Fluorohalide with Europium",
+            "Silver Bromide"
+        ],
+        "answer": "Barium Fluorohalide with Europium"
+    },
+    {
+        "question": "Which energy source provides better contrast for thin aluminum welds?",
+        "options": [
+            "High voltage X-ray (300 kV)",
+            "Low voltage X-ray (50 kV)",
+            "Iridium-192",
+            "Cobalt-60"
+        ],
+        "answer": "Low voltage X-ray (50 kV)"
+    },
+    {
+        "question": "In ISO 17636-2, the term 'SNRn' is 'Normalized' to what?",
+        "options": [
+            "The source size",
+            "The pixel size (specifically to 100 μm)",
+            "The material density",
+            "The thickness of the pipe"
+        ],
+        "answer": "The pixel size (specifically to 100 μm)"
+    },
+    {
+        "question": "Can you use digital radiography for 'Fillet Welds'?",
+        "options": [
+            "No",
+            "Yes, according to the geometric setups in the standard",
+            "Only for Class A",
+            "Only if they are stainless steel"
+        ],
+        "answer": "Yes, according to the geometric setups in the standard"
+    },
+    {
+        "question": "What is 'DDA'?",
+        "options": [
+            "Digital Data Archive",
+            "Digital Detector Array",
+            "Dynamic Dose Adjustment",
+            "Direct Digital Access"
+        ],
+        "answer": "Digital Detector Array"
+    },
+    {
+        "question": "What is 'Spatial Frequency'?",
+        "options": [
+            "The speed of the detector through space",
+            "The rate of change of pixel values over distance",
+            "How often the laser fires",
+            "The weight of the atoms"
+        ],
+        "answer": "The rate of change of pixel values over distance"
+    },
+    {
+        "question": "High spatial frequency corresponds to:",
+        "options": [
+            "Fine details (edges, small defects)",
+            "Large smooth areas",
+            "The background noise only",
+            "The color of the plate"
+        ],
+        "answer": "Fine details (edges, small defects)"
+    },
+    {
+        "question": "In DDA imaging, 'Integration Time' is similar to:",
+        "options": [
+            "Voltage",
+            "Exposure Time",
+            "Pixel size",
+            "Lead thickness"
+        ],
+        "answer": "Exposure Time"
+    },
+    {
+        "question": "The 'Signal' in a pixel is usually measured in:",
+        "options": [
+            "Meters",
+            "Analog-to-Digital Units (ADU) or Gray Values",
+            "Kilograms",
+            "Degrees Celsius"
+        ],
+        "answer": "Analog-to-Digital Units (ADU) or Gray Values"
+    },
+    {
+        "question": "Which ISO standard covers 'Personnel Qualification' for NDT?",
+        "options": [
+            "ISO 17636-2",
+            "ISO 9712",
+            "ISO 5817",
+            "ISO 9001"
+        ],
+        "answer": "ISO 9712"
+    },
+    {
+        "question": "The ISO 17636-2 standard is 'Part 2'. What is 'Part 1'?",
+        "options": [
+            "X- and gamma-ray techniques with film",
+            "Ultrasonic testing",
+            "Magnetic particle testing",
+            "Safety rules for radiography"
+        ],
+        "answer": "X- and gamma-ray techniques with film"
+    },
+    {
+        "question": "A 'Single-Wall Single-Image' (SWSI) setup is most common for:",
+        "options": [
+            "Flat plates and large tanks",
+            "Small pipes",
+            "Fillet welds only",
+            "Electronic circuit boards"
+        ],
+        "answer": "Flat plates and large tanks"
+    },
+    {
+        "question": "Which of these factors does NOT directly affect SNR?",
+        "options": [
+            "Exposure time",
+            "Radiation energy",
+            "The color of the detector's outer case",
+            "Number of averaged frames"
+        ],
+        "answer": "The color of the detector's outer case"
+    },
+    {
+        "question": "According to ISO 17636-2, the testing report must include:",
+        "options": [
+            "System details (DDA/CR model)",
+            "Technical parameters (kV, mA, time)",
+            "IQI results (wire number visible)",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What 'Image Format' is standard for NDT digital images?",
+        "options": [
+            "JPEG",
+            "DICONDE (based on DICOM)",
+            "GIF",
+            "MP3"
+        ],
+        "answer": "DICONDE (based on DICOM)"
+    },
+    {
+        "question": "What is the advantage of DICONDE over standard formats?",
+        "options": [
+            "Smaller file size",
+            "It preserves metadata (kV, mA, weld ID) and raw pixel data",
+            "It can be viewed on any phone",
+            "It is always in color"
+        ],
+        "answer": "It preserves metadata (kV, mA, weld ID) and raw pixel data"
+    }
+]

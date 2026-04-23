@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Which document does BS EN 12681-2:2017 supersede along with BS EN 12681-1:2017?",
+        "options": [
+            "BS EN 12681:2003",
+            "ISO 17636-2:2013",
+            "ASTM E2445",
+            "BS EN 444:1994"
+        ],
+        "answer": "BS EN 12681:2003"
+    },
+    {
+        "question": "What is the primary scope of BS EN 12681-2:2017?",
+        "options": [
+            "Radiographic testing of welds using film",
+            "Radiographic testing of castings using digital detectors",
+            "Ultrasonic testing of steel forgings",
+            "Magnetic particle inspection of aerospace components"
+        ],
+        "answer": "Radiographic testing of castings using digital detectors"
+    },
+    {
+        "question": "According to the standard, exposure of the human body to X-rays or gamma-rays can be:",
+        "options": [
+            "Beneficial for skin conditions",
+            "Highly injurious to health",
+            "Used without legal requirements",
+            "Ignored if using digital detectors"
+        ],
+        "answer": "Highly injurious to health"
+    },
+    {
+        "question": "Which technical committee was responsible for preparing EN 12681-2:2017?",
+        "options": [
+            "CEN/TC 121",
+            "CEN/TC 138",
+            "CEN/TC 190",
+            "ISO/TC 135"
+        ],
+        "answer": "CEN/TC 190"
+    },
+    {
+        "question": "What does the abbreviation 'DDA' stand for in this standard?",
+        "options": [
+            "Digital Data Archive",
+            "Digital Detector Array",
+            "Direct Dose Assessment",
+            "Dynamic Digital Analysis"
+        ],
+        "answer": "Digital Detector Array"
+    },
+    {
+        "question": "Which testing class is used for general inspection where standard sensitivity is sufficient?",
+        "options": [
+            "Class A",
+            "Class B",
+            "Class C",
+            "Class S"
+        ],
+        "answer": "Class A"
+    },
+    {
+        "question": "What is the purpose of Class B radiographic techniques?",
+        "options": [
+            "To reduce inspection costs",
+            "To provide improved sensitivity for higher requirements",
+            "To allow for faster exposure times only",
+            "To replace ultrasonic testing entirely"
+        ],
+        "answer": "To provide improved sensitivity for higher requirements"
+    },
+    {
+        "question": "Which symbol represents the 'penetrated thickness' in Table 1?",
+        "options": [
+            "t",
+            "tn",
+            "w",
+            "f"
+        ],
+        "answer": "w"
+    },
+    {
+        "question": "What does 'SNR' stand for?",
+        "options": [
+            "Signal-to-Noise Ratio",
+            "Standard National Radiograph",
+            "Systematic Noise Reduction",
+            "Source-to-Node Range"
+        ],
+        "answer": "Signal-to-Noise Ratio"
+    },
+    {
+        "question": "When should surface preparation be carried out for castings according to Clause 6.2?",
+        "options": [
+            "Always required by standard",
+            "Only if surface imperfections interfere with discontinuity detection",
+            "Only for Class B techniques",
+            "Never, as digital filters compensate for it"
+        ],
+        "answer": "Only if surface imperfections interfere with discontinuity detection"
+    },
+    {
+        "question": "What effect do surface roughness and internal granularity have on digital images?",
+        "options": [
+            "They improve contrast",
+            "They appear similar to image noise and may hide small discontinuities",
+            "They increase the normalized SNR",
+            "They have no effect on digital detectors"
+        ],
+        "answer": "They appear similar to image noise and may hide small discontinuities"
+    },
+    {
+        "question": "Unless otherwise specified, when should digital radiography be performed?",
+        "options": [
+            "Before heat treatment",
+            "After the final stage of manufacture",
+            "Immediately after casting",
+            "Before grinding"
+        ],
+        "answer": "After the final stage of manufacture"
+    },
+    {
+        "question": "Which material is allowed to be radiographed before heat treatment in some cases?",
+        "options": [
+            "Steel",
+            "Cast Iron",
+            "Aluminium and magnesium alloys",
+            "Titanium"
+        ],
+        "answer": "Aluminium and magnesium alloys"
+    },
+    {
+        "question": "What is the minimum height required for the lead letter 'B' used to check backscatter?",
+        "options": [
+            "5 mm",
+            "10 mm",
+            "15 mm",
+            "20 mm"
+        ],
+        "answer": "10 mm"
+    },
+    {
+        "question": "Where should the lead letter 'B' be placed to check for backscattered radiation?",
+        "options": [
+            "In front of the test object",
+            "Directly behind each cassette or detector",
+            "On the X-ray tube head",
+            "Between the source and the object"
+        ],
+        "answer": "Directly behind each cassette or detector"
+    },
+    {
+        "question": "What indicates a failure in the backscatter check?",
+        "options": [
+            "The letter B appears darker than the background",
+            "The letter B appears as a lighter image (negative presentation)",
+            "The letter B is not visible at all",
+            "The letter B appears blurry"
+        ],
+        "answer": "The letter B appears as a lighter image (negative presentation)"
+    },
+    {
+        "question": "What is the minimum required thickness for the lead letter 'B'?",
+        "options": [
+            "0.5 mm",
+            "1.0 mm",
+            "1.5 mm",
+            "2.5 mm"
+        ],
+        "answer": "1.5 mm"
+    },
+    {
+        "question": "In Class B techniques, what is a primary method to reduce unsharpness?",
+        "options": [
+            "Increasing focal spot size",
+            "Increasing magnification only",
+            "Increasing source-to-object distance or decreasing focal spot size",
+            "Decreasing exposure time"
+        ],
+        "answer": "Increasing source-to-object distance or decreasing focal spot size"
+    },
+    {
+        "question": "How is basic spatial resolution (SRb) measured according to the standard?",
+        "options": [
+            "Using a single wire IQI",
+            "Using a duplex wire IQI",
+            "Using a step-hole IQI",
+            "Using a densitometer"
+        ],
+        "answer": "Using a duplex wire IQI"
+    },
+    {
+        "question": "Where should the duplex wire IQI be positioned to prove image unsharpness?",
+        "options": [
+            "On the detector surface",
+            "On the test object",
+            "On the collimator",
+            "On the source"
+        ],
+        "answer": "On the test object"
+    },
+    {
+        "question": "What is the recommended zoom factor range for critical image analysis?",
+        "options": [
+            "1:1 to 1:2",
+            "1:5 to 1:10",
+            "2:1 to 4:1",
+            "Fit to screen only"
+        ],
+        "answer": "1:1 to 1:2"
+    },
+    {
+        "question": "What monitor brightness is required for digital image evaluation?",
+        "options": [
+            "At least 100 cd/m2",
+            "At least 250 cd/m2",
+            "Maximum 500 cd/m2",
+            "Brightness is not specified"
+        ],
+        "answer": "At least 250 cd/m2"
+    },
+    {
+        "question": "How many shades of grey must a monitor be able to display for digital evaluation?",
+        "options": [
+            "At least 64",
+            "At least 128",
+            "At least 256",
+            "Exactly 1024"
+        ],
+        "answer": "At least 256"
+    },
+    {
+        "question": "What is the minimum monitor resolution required for image evaluation?",
+        "options": [
+            "1 megapixel",
+            "2 megapixels",
+            "4 megapixels",
+            "8 megapixels"
+        ],
+        "answer": "2 megapixels"
+    },
+    {
+        "question": "What is the maximum allowable pixel size for a monitor used in digital evaluation?",
+        "options": [
+            "0.1 mm",
+            "0.3 mm",
+            "0.5 mm",
+            "1.0 mm"
+        ],
+        "answer": "0.3 mm"
+    },
+    {
+        "question": "According to Clause 14, in what environment should the operator interpret the image?",
+        "options": [
+            "A brightly lit office",
+            "A dimmed room to optimize contrast",
+            "Direct sunlight for better visibility",
+            "Total darkness only"
+        ],
+        "answer": "A dimmed room to optimize contrast"
+    },
+    {
+        "question": "Which of the following can be used to reduce low energy in the free beam area?",
+        "options": [
+            "Increasing the tube current",
+            "Prefilters or intermediate filters",
+            "Using a larger focal spot",
+            "Removing the collimator"
+        ],
+        "answer": "Prefilters or intermediate filters"
+    },
+    {
+        "question": "How should raw data be stored according to Clause 15.2?",
+        "options": [
+            "Compressed to save space",
+            "As full resolution images with basic detector calibrations",
+            "As processed JPEGs",
+            "In print format only"
+        ],
+        "answer": "As full resolution images with basic detector calibrations"
+    },
+    {
+        "question": "If image processing is applied to stored raw data, what is required?",
+        "options": [
+            "It must be documented and repeatable",
+            "It must be done using proprietary software only",
+            "The original raw data must be deleted",
+            "No documentation is needed for digital images"
+        ],
+        "answer": "It must be documented and repeatable"
+    },
+    {
+        "question": "Which IQI type is used to check contrast sensitivity?",
+        "options": [
+            "Duplex wire IQI",
+            "Single wire or step hole IQI",
+            "Density strip",
+            "Lead ruler"
+        ],
+        "answer": "Single wire or step hole IQI"
+    },
+    {
+        "question": "What is 'Compensation Principle II' used for?",
+        "options": [
+            "Compensating for missing workers",
+            "Increasing wire visibility to compensate for exceeded unsharpness",
+            "Reducing radiation dose",
+            "Calculating the cost of the test"
+        ],
+        "answer": "Increasing wire visibility to compensate for exceeded unsharpness"
+    },
+    {
+        "question": "Under Compensation Principle II, what is the maximum limit for missing duplex wire pairs?",
+        "options": [
+            "1 pair",
+            "2 pairs (up to 3 by agreement)",
+            "5 pairs",
+            "There is no limit"
+        ],
+        "answer": "2 pairs (up to 3 by agreement)"
+    },
+    {
+        "question": "How is the maximum achievable SNRN limited for DDA systems?",
+        "options": [
+            "By the size of the detector",
+            "By the quality of the calibration procedure",
+            "By the age of the detector",
+            "By the room temperature"
+        ],
+        "answer": "By the quality of the calibration procedure"
+    },
+    {
+        "question": "What limits the maximum achievable SNRN in Computed Radiography (CR)?",
+        "options": [
+            "The speed of the scanner",
+            "Structure noise of the PSL layer in imaging plates",
+            "The brightness of the monitor",
+            "The lead content in the screens"
+        ],
+        "answer": "Structure noise of the PSL layer in imaging plates"
+    },
+    {
+        "question": "How often should digital radiography system performance be checked?",
+        "options": [
+            "Daily only",
+            "Regularly for long-term stability",
+            "Only when a defect is found",
+            "Once every five years"
+        ],
+        "answer": "Regularly for long-term stability"
+    },
+    {
+        "question": "Which standard is referenced for CR long-term stability measurements?",
+        "options": [
+            "ISO 9712",
+            "ASTM E2445",
+            "ISO 5817",
+            "EN 12681-1"
+        ],
+        "answer": "ASTM E2445"
+    },
+    {
+        "question": "Which standard is referenced for DDA performance evaluation?",
+        "options": [
+            "ASTM E2737",
+            "ISO 17636-1",
+            "BS EN 444",
+            "CEN/TR 14748"
+        ],
+        "answer": "ASTM E2737"
+    },
+    {
+        "question": "What can cause 'diffraction mottle' in a radiographic image?",
+        "options": [
+            "Dust on the detector",
+            "Crystalline structure of the material",
+            "Overexposure to light",
+            "Electronic interference"
+        ],
+        "answer": "Crystalline structure of the material"
+    },
+    {
+        "question": "What is the primary method to confirm diffraction mottle?",
+        "options": [
+            "Changing the detector",
+            "Small changes in the radiation beam angle",
+            "Increasing the tube voltage",
+            "Using a different software"
+        ],
+        "answer": "Small changes in the radiation beam angle"
+    },
+    {
+        "question": "In steel castings, which Annex provides severity levels for inclusions?",
+        "options": [
+            "Annex A",
+            "Annex B",
+            "Annex C",
+            "Annex G"
+        ],
+        "answer": "Annex B"
+    },
+    {
+        "question": "Annex C provides severity levels for which type of castings?",
+        "options": [
+            "Steel",
+            "Cast Iron",
+            "Aluminium",
+            "Titanium"
+        ],
+        "answer": "Cast Iron"
+    },
+    {
+        "question": "For wall thicknesses greater than 10 mm, into what zones is the wall divided?",
+        "options": [
+            "Top and Bottom",
+            "Left and Right",
+            "Rim and Core",
+            "Inner and Outer"
+        ],
+        "answer": "Rim and Core"
+    },
+    {
+        "question": "How is a wall with thickness less than or equal to 10 mm treated regarding zoning?",
+        "options": [
+            "As a core zone",
+            "As a rim zone",
+            "It is not zoned",
+            "It is divided into four zones"
+        ],
+        "answer": "As a rim zone"
+    },
+    {
+        "question": "Linearized grey levels are a precondition for measuring:",
+        "options": [
+            "Wall thickness",
+            "Radiation dose",
+            "Basic spatial resolution",
+            "Exposure time"
+        ],
+        "answer": "Basic spatial resolution"
+    },
+    {
+        "question": "What does the symbol 'f' represent in imaging geometry?",
+        "options": [
+            "Frequency",
+            "Focal spot size",
+            "Source-to-object distance",
+            "File size"
+        ],
+        "answer": "Source-to-object distance"
+    },
+    {
+        "question": "What does 'SDD' stand for?",
+        "options": [
+            "Single Digital Detector",
+            "Source-to-Detector Distance",
+            "Static Dose Distribution",
+            "Standard Deviation of Data"
+        ],
+        "answer": "Source-to-Detector Distance"
+    },
+    {
+        "question": "Which IQI wire should be clearly visible in a digital image?",
+        "options": [
+            "All wires on the IQI",
+            "Only the thickest wire",
+            "The required wire specified in tables A.1 to A.3",
+            "No wires should be visible"
+        ],
+        "answer": "The required wire specified in tables A.1 to A.3"
+    },
+    {
+        "question": "What does 'CNR' stand for?",
+        "options": [
+            "Contrast-to-Noise Ratio",
+            "Central Node Reader",
+            "Computed Radiographic Norm",
+            "Classified Noise Reduction"
+        ],
+        "answer": "Contrast-to-Noise Ratio"
+    },
+    {
+        "question": "Which Annex is normative for the determination of basic spatial resolution?",
+        "options": [
+            "Annex A",
+            "Annex D",
+            "Annex F",
+            "Annex G"
+        ],
+        "answer": "Annex F"
+    },
+    {
+        "question": "Which of these standards provides digital reference images for steel castings?",
+        "options": [
+            "ISO 5817",
+            "ASTM E2669",
+            "EN 462-5",
+            "ISO 17636-2"
+        ],
+        "answer": "ASTM E2669"
+    },
+    {
+        "question": "For investment steel castings, which ASTM standard is referenced for digital images?",
+        "options": [
+            "ASTM E2422",
+            "ASTM E2660",
+            "ASTM E155",
+            "ASTM E1320"
+        ],
+        "answer": "ASTM E2660"
+    },
+    {
+        "question": "What is the maximum permissible inclusion severity level for a 10mm steel casting in Level 2?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Digital reference images for aluminium castings are found in:",
+        "options": [
+            "ASTM E2422",
+            "ASTM E2869",
+            "ASTM E2660",
+            "ASTM E192"
+        ],
+        "answer": "ASTM E2422"
+    },
+    {
+        "question": "For titanium castings, which ASTM standard is referenced?",
+        "options": [
+            "ASTM E1320",
+            "ASTM E155",
+            "ASTM E2660",
+            "ASTM E2422"
+        ],
+        "answer": "ASTM E1320"
+    },
+    {
+        "question": "In digital radiography, the image can be presented in:",
+        "options": [
+            "Positive presentation only",
+            "Negative presentation only",
+            "Both positive and negative presentation",
+            "Color only"
+        ],
+        "answer": "Both positive and negative presentation"
+    },
+    {
+        "question": "What is the unit of measure for 'normalized SNR'?",
+        "options": [
+            "Decibels (dB)",
+            "It is dimensionless",
+            "Candelas per meter squared",
+            "Gray (Gy)"
+        ],
+        "answer": "It is dimensionless"
+    },
+    {
+        "question": "Which IQI is specifically used for determining spatial resolution?",
+        "options": [
+            "Wire IQI",
+            "Step hole IQI",
+            "Duplex wire IQI",
+            "Hole-type IQI"
+        ],
+        "answer": "Duplex wire IQI"
+    },
+    {
+        "question": "In Table 1, 'd' stands for:",
+        "options": [
+            "Distance",
+            "Depth",
+            "Source size",
+            "Diameter"
+        ],
+        "answer": "Source size"
+    },
+    {
+        "question": "For a Class B technique with a wall thickness of 20 mm, what is the required single wire IQI for steel?",
+        "options": [
+            "W13",
+            "W14",
+            "W15",
+            "W16"
+        ],
+        "answer": "W14"
+    },
+    {
+        "question": "What is the minimum source-to-object distance represented by?",
+        "options": [
+            "f",
+            "fmin",
+            "SDD",
+            "b"
+        ],
+        "answer": "fmin"
+    },
+    {
+        "question": "The 'normalized CNR' measurement helps determine:",
+        "options": [
+            "Source age",
+            "Image contrast sensitivity",
+            "Exposure time",
+            "Operator skill"
+        ],
+        "answer": "Image contrast sensitivity"
+    },
+    {
+        "question": "Which standard defines the status of NDT training syllabuses?",
+        "options": [
+            "ISO 9712",
+            "ISO/TS 25107",
+            "ISO 17636-2",
+            "ASTM E1000"
+        ],
+        "answer": "ISO/TS 25107"
+    },
+    {
+        "question": "In automated testing, identification symbols appearing in the ROI is:",
+        "options": [
+            "Mandatory",
+            "Prohibited",
+            "Acceptable if they don't disturb defect recognition",
+            "Not required at all"
+        ],
+        "answer": "Acceptable if they don't disturb defect recognition"
+    },
+    {
+        "question": "The linearized grey value is proportional to:",
+        "options": [
+            "The exposure time only",
+            "The detector temperature",
+            "The radiation dose",
+            "The file size"
+        ],
+        "answer": "The radiation dose"
+    },
+    {
+        "question": "According to Clause 16.5, CR system stability is checked against:",
+        "options": [
+            "ISO 17636-2",
+            "EN 14784-1",
+            "ASTM E2597",
+            "ISO 16371-1"
+        ],
+        "answer": "EN 14784-1"
+    },
+    {
+        "question": "What is the maximum number of individual discontinuities per field for Severity Level 1 (Steel, <9.5mm)?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "None permitted"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "DDA images may be used without masking provided:",
+        "options": [
+            "The source is radioactive",
+            "Image quality requirements in Tables A.1 to A.4 are met",
+            "The operator is Level 3 certified",
+            "Exposure is less than 1 minute"
+        ],
+        "answer": "Image quality requirements in Tables A.1 to A.4 are met"
+    },
+    {
+        "question": "The effective attenuation coefficient is represented by:",
+        "options": [
+            "Alpha",
+            "Beta",
+            "Mu (μeff)",
+            "Gamma"
+        ],
+        "answer": "Mu (μeff)"
+    },
+    {
+        "question": "Which Annex covers the compensation for missing duplex wire pairs?",
+        "options": [
+            "Annex A",
+            "Annex B",
+            "Clause 16.4",
+            "Annex G"
+        ],
+        "answer": "Clause 16.4"
+    },
+    {
+        "question": "If a required wire is not resolved, what must be done?",
+        "options": [
+            "The test is automatically failed",
+            "The exposure must be repeated with better conditions",
+            "The detector must be replaced",
+            "The IQI must be moved"
+        ],
+        "answer": "The exposure must be repeated with better conditions"
+    },
+    {
+        "question": "A duplex wire IQI determines the:",
+        "options": [
+            "Material density",
+            "Total image unsharpness",
+            "Radiation energy",
+            "Tube voltage"
+        ],
+        "answer": "Total image unsharpness"
+    },
+    {
+        "question": "For Class A steel castings, 50mm thickness, the required wire IQI is:",
+        "options": [
+            "W9",
+            "W10",
+            "W11",
+            "W12"
+        ],
+        "answer": "W10"
+    },
+    {
+        "question": "What is the purpose of pre-filters in digital radiography?",
+        "options": [
+            "To protect the detector from heat",
+            "To reduce the intensity of low-energy 'soft' radiation",
+            "To focus the radiation beam",
+            "To increase the exposure time"
+        ],
+        "answer": "To reduce the intensity of low-energy 'soft' radiation"
+    },
+    {
+        "question": "Which of these is NOT an abbreviation used in the standard?",
+        "options": [
+            "IP",
+            "DDA",
+            "SNR",
+            "CRT"
+        ],
+        "answer": "CRT"
+    },
+    {
+        "question": "Identification of images should usually appear:",
+        "options": [
+            "In the center of the ROI",
+            "Outside the region of interest (ROI)",
+            "On the back of the test object",
+            "Only in the file metadata"
+        ],
+        "answer": "Outside the region of interest (ROI)"
+    },
+    {
+        "question": "The standard mentions 'bad pixel adjustments'. This is a type of:",
+        "options": [
+            "Image processing",
+            "Basic detector calibration",
+            "Hardware repair",
+            "Safety procedure"
+        ],
+        "answer": "Basic detector calibration"
+    },
+    {
+        "question": "According to the National Foreword, users are responsible for:",
+        "options": [
+            "Designing the standard",
+            "The standard's correct application",
+            "Selling copies of the standard",
+            "Nothing, BSI is responsible"
+        ],
+        "answer": "The standard's correct application"
+    },
+    {
+        "question": "Which Annex discusses 'Procedure for the determination of minimum grey values'?",
+        "options": [
+            "Annex E",
+            "Annex F",
+            "Annex G",
+            "Annex H"
+        ],
+        "answer": "Annex G"
+    },
+    {
+        "question": "What is the recommended height for an IQI in a digital image?",
+        "options": [
+            "10 pixels",
+            "20 pixels",
+            "At least 5 mm equivalent",
+            "Not specifically stated in pixels"
+        ],
+        "answer": "Not specifically stated in pixels"
+    },
+    {
+        "question": "Who holds the secretariat for CEN/TC 190?",
+        "options": [
+            "BSI",
+            "AFNOR",
+            "DIN",
+            "AENOR"
+        ],
+        "answer": "DIN"
+    },
+    {
+        "question": "Which standard defines 'Image quality of radiographs — Part 3'?",
+        "options": [
+            "ISO 19232-3",
+            "ISO 17636-2",
+            "ISO 9712",
+            "ISO 5817"
+        ],
+        "answer": "ISO 19232-3"
+    },
+    {
+        "question": "What is the purpose of Annex B?",
+        "options": [
+            "Cast Iron acceptance",
+            "Steel castings severity levels",
+            "Titanium reference images",
+            "Safety guidelines"
+        ],
+        "answer": "Steel castings severity levels"
+    },
+    {
+        "question": "High pass filtering is a type of:",
+        "options": [
+            "Calibration",
+            "Image processing",
+            "Mechanical preparation",
+            "Safety check"
+        ],
+        "answer": "Image processing"
+    },
+    {
+        "question": "ASTM E2422 refers to digital reference images for:",
+        "options": [
+            "Steel",
+            "Aluminium",
+            "Magnesium",
+            "Both Aluminium and Magnesium"
+        ],
+        "answer": "Both Aluminium and Magnesium"
+    },
+    {
+        "question": "What does 'IP' stand for in Computed Radiography?",
+        "options": [
+            "Internet Protocol",
+            "Imaging Plate",
+            "Internal Pressure",
+            "Image Processing"
+        ],
+        "answer": "Imaging Plate"
+    },
+    {
+        "question": "The source of radiation in figures 1 to 12 is labeled as:",
+        "options": [
+            "X",
+            "G",
+            "S",
+            "R"
+        ],
+        "answer": "S"
+    },
+    {
+        "question": "The radiographic detector in figures 1 to 12 is labeled as:",
+        "options": [
+            "RD",
+            "D",
+            "DET",
+            "C"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is the minimum number of duplex wire pairs to be resolved for Class B, 10mm wall?",
+        "options": [
+            "D10",
+            "D11",
+            "D12",
+            "D13"
+        ],
+        "answer": "D12"
+    },
+    {
+        "question": "D13 resolution requires a duplex wire IQI with wire diameter of:",
+        "options": [
+            "0.1 mm",
+            "0.05 mm",
+            "0.04 mm",
+            "0.01 mm"
+        ],
+        "answer": "0.05 mm"
+    },
+    {
+        "question": "Step hole IQIs are used to evaluate:",
+        "options": [
+            "Spatial resolution",
+            "Contrast sensitivity",
+            "Detector temperature",
+            "Object weight"
+        ],
+        "answer": "Contrast sensitivity"
+    },
+    {
+        "question": "What is the typical energy range for X-rays used for castings?",
+        "options": [
+            "Up to 50 kV",
+            "Up to 12 MeV",
+            "10 eV",
+            "Only Gamma rays are used"
+        ],
+        "answer": "Up to 12 MeV"
+    },
+    {
+        "question": "For a wall thickness of 150mm, which radiation energy is minimum for Class A steel?",
+        "options": [
+            "200 kV",
+            "400 kV",
+            "1 MeV",
+            "Co-60 or high energy X-ray"
+        ],
+        "answer": "Co-60 or high energy X-ray"
+    },
+    {
+        "question": "Which country is the standard NOT adopted in automatically via CEN?",
+        "options": [
+            "UK",
+            "Germany",
+            "USA",
+            "France"
+        ],
+        "answer": "USA"
+    },
+    {
+        "question": "The abbreviation 'PSL' stands for:",
+        "options": [
+            "Photo Stimulated Luminescence",
+            "Pixel Sensitivity Level",
+            "Pulse Signal Log",
+            "Peak Signal Layer"
+        ],
+        "answer": "Photo Stimulated Luminescence"
+    },
+    {
+        "question": "Image display software should have integrated:",
+        "options": [
+            "Gaming features",
+            "Profile plots and SNR tools",
+            "Auto-delete functions",
+            "Email client"
+        ],
+        "answer": "Profile plots and SNR tools"
+    },
+    {
+        "question": "If several irregularities are superimposed at a single spot:",
+        "options": [
+            "Evaluation is ignored",
+            "A general evaluation becomes necessary",
+            "The casting is automatically passed",
+            "The largest one is evaluated only"
+        ],
+        "answer": "A general evaluation becomes necessary"
+    },
+    {
+        "question": "What is the ISO standard for 'Non-destructive testing of welds' referenced in bibliography?",
+        "options": [
+            "ISO 17636-2",
+            "ISO 9712",
+            "ISO 5817",
+            "ISO 12681"
+        ],
+        "answer": "ISO 17636-2"
+    },
+    {
+        "question": "Can digital reference images be used for titanium castings?",
+        "options": [
+            "No",
+            "Yes, according to Annex E",
+            "Only for Class A",
+            "Only if agreed by the manufacturer"
+        ],
+        "answer": "Yes, according to Annex E"
+    },
+    {
+        "question": "What is the primary factor affecting contrast sensitivity in DDAs?",
+        "options": [
+            "Screen size",
+            "Integration time and tube current",
+            "Ambient light",
+            "Software version"
+        ],
+        "answer": "Integration time and tube current"
+    },
+    {
+        "question": "The symbol 'b' in imaging geometry refers to:",
+        "options": [
+            "Brightness",
+            "Object-to-detector distance",
+            "Beam angle",
+            "Backscatter"
+        ],
+        "answer": "Object-to-detector distance"
+    }
+]
